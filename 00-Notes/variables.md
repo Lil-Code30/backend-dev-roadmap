@@ -2,6 +2,8 @@
 
 In Java, a **variable** is a named container used to store data that your program can use and modify.
 
+![Variables in Java](./img/variables.png)
+
 ## Basic Syntax
 
 ```java
