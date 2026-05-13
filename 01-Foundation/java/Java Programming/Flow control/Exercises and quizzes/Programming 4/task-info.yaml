@@ -1,0 +1,37 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 248
+        length: 32
+        placeholder_text: /* Add the missing statements */
+        initial_state:
+          length: 32
+          offset: 248
+        initialized_from_dependency: false
+        encrypted_possible_answer: EpnXt6bo5i+MiQ2ZwBOo28rKveHB1UVaGCaaOtfjb8BByrCEuJl0uWuAOOBVJbO0mSIUecx1LNscXD4KKJJ1CQ==
+        selected: false
+        status: Unchecked
+      - offset: 393
+        length: 32
+        placeholder_text: /* Add the missing statements */
+        initial_state:
+          length: 32
+          offset: 393
+        initialized_from_dependency: false
+        encrypted_possible_answer: hPCGMtq5LjZmA9ye76lrFF7M8eyWla1Mf4QY8HzD34QTmDxHKYjeOl4ug/yZG3zkbsvpZCWSNbH8g1+1QxbUEw==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+  - name: test/latest_output.txt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

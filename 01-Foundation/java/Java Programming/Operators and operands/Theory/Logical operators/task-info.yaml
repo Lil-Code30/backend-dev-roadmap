@@ -1,0 +1,94 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 151
+        length: 77
+        placeholder_text: /* Complete with the value of status as evaluated from the statement
+          above */
+        initial_state:
+          length: 77
+          offset: 151
+        initialized_from_dependency: false
+        encrypted_possible_answer: R0UF3j/1U6QQZII1Jq/L2A==
+        selected: false
+        status: Unchecked
+      - offset: 256
+        length: 72
+        placeholder_text: /* Complete with the value of x as evaluated from the statement
+          above */
+        initial_state:
+          length: 72
+          offset: 256
+        initialized_from_dependency: false
+        encrypted_possible_answer: tumYzgMT9c+iD24LGJ1bFg==
+        selected: false
+        status: Unchecked
+      - offset: 390
+        length: 72
+        placeholder_text: /* Complete with the value of x as evaluated from the statement
+          above */
+        initial_state:
+          length: 72
+          offset: 390
+        initialized_from_dependency: false
+        encrypted_possible_answer: tumYzgMT9c+iD24LGJ1bFg==
+        selected: false
+        status: Unchecked
+      - offset: 523
+        length: 72
+        placeholder_text: /* Complete with the value of x as evaluated from the statement
+          above */
+        initial_state:
+          length: 72
+          offset: 523
+        initialized_from_dependency: false
+        encrypted_possible_answer: tumYzgMT9c+iD24LGJ1bFg==
+        selected: false
+        status: Unchecked
+      - offset: 657
+        length: 72
+        placeholder_text: /* Complete with the value of x as evaluated from the statement
+          above */
+        initial_state:
+          length: 72
+          offset: 657
+        initialized_from_dependency: false
+        encrypted_possible_answer: tumYzgMT9c+iD24LGJ1bFg==
+        selected: false
+        status: Unchecked
+      - offset: 790
+        length: 72
+        placeholder_text: /* Complete with the value of x as evaluated from the statement
+          above */
+        initial_state:
+          length: 72
+          offset: 790
+        initialized_from_dependency: false
+        encrypted_possible_answer: tumYzgMT9c+iD24LGJ1bFg==
+        selected: false
+        status: Unchecked
+      - offset: 923
+        length: 72
+        placeholder_text: /* Complete with the value of x as evaluated from the statement
+          above */
+        initial_state:
+          length: 72
+          offset: 923
+        initialized_from_dependency: false
+        encrypted_possible_answer: tumYzgMT9c+iD24LGJ1bFg==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+  - name: test/latest_output.txt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

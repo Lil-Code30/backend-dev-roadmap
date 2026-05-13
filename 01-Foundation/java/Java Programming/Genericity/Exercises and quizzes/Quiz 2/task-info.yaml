@@ -1,0 +1,19 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: "<code>public void add(T obj) { } </code>"
+    is_correct: true
+  - text: "<code>public void add(Object obj) { } </code>"
+    is_correct: false
+  - text: "<code>public &#60;T> void add(T obj) { } </code>"
+    is_correct: false
+  - text: "<code>public void &#60;T> add(T obj) { } </code>"
+    is_correct: false
+quiz_header: Sélectionnez les affirmations correctes.
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

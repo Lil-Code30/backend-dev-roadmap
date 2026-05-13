@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: src/Stopwatch.java
+    visible: true
+    placeholders:
+      - offset: 114
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 114
+        initialized_from_dependency: false
+        encrypted_possible_answer: DOQNABHH1MOJlIMlo5KSJwCB/efJo9vZO40xilGT8E4H+iFODgGhB+a24E3/Sx6ajdAfeWlm+cGwRIl/Ks9bQ99/34I7mxJh8AIEkn7sJbOIsTtCtuSy9xV37kBBoIbdYdS8U+DoD8PxOGKugJph7eF8XpI2OY2E3C8Udnuz/hEeCGl8H3p07mFUJAOArHeH0mFhccQNM8vCx8GV+pwiwM02HU4/rpkh1jY3hvEjQ1mhbttjvczvCoz6r3RW+ey0vrXZZh8raFF8eT9Se00LN1suR/xP+kF78+CkNCRLWiwEoKhZQ26f++21q6M+zBNZNREvLfxwten0OVGlznLNeVp5fpCzAtmPpyTAYiXwm9Cqqp11O8fHl2bcrkZItic6JcltU30/ekdhBArCsr+dnshfmcv+ckGo7YRUQMS90bmiJmM3yiJ10lu0pDqmwS9qzpzwED0sq3wLgHG3PxWbJjOXNa4SNO2oPgXKMZD6qxnhKnSM7mo7rg/egAl0Sq5I1Y3+Vm7oaNf+cGR+LPmY/N9SMZgO0Hq8XDmS+mVUXMLYr8pSyFKIU/Ydr4E0YN+PXPg9/IWxOBsLCeGyOM5tXjyPbBDIiEwhs6BR3IfGbYQ+CIggs1pSDetHhjBqUUgKrxgeEFh2aX7AGSr5SJNElhNMpELjMGDhouOviKjFvqGnq7B8sRngdsC9mrhvuuXLOC5eol9LjQBCmszAjYd2euBm1Jr8mnOEw4p4S/+2mgFvvKYdlaIYNRN3uxqCtP5e73b/NlYHQqyvA90YIqfoUaIQCKtnWHIeUFT3Uf+Vk/rcDw0A4cFfVvd2aGuRFd8Lv28Khq3+3pZlsz3CIshTfAPjacgopvzNbzCKfW8tS3rBr/bKKUOdPbnmzqV2uCR1DKXuGyCxOZ8CkMvGj5btgb8WH16FRBYEHaLdo2L6KaiBsNWyXPQrIHJ8ZzZxmGsGNXENLxEiokJgmTcan3Mu6mtcTnoQdJIvLXvqaT+bvPloxz7RjZ7bpAIHyGjnIP/f80O6WJVhWWo2GwXp9FnS5jsQetKYAxvcHdLFzdKMbySLw1xEhQDgNiSYJvP2pIwhL0kWFLLxKVNjZH8v7mNThfMzI7PNv8vZMieJJR+lt3bbMmQwgRkfCNNV+yIpxCQYKaS8zYXq6pw975glovA9YkU0m6D9If1ecubAt4mRX93fHm401Ia3+n+bW6hRBpCnCjPDyFw05kc2SA70aNsSRWK8Ga/p2YeuwrY52t2dAvu1Yd8nxcdpPZwalGR7KDGp
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

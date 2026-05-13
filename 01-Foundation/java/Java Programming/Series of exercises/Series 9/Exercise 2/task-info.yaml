@@ -1,0 +1,32 @@
+type: edu
+files:
+  - name: src/SquareRoot.java
+    visible: true
+    placeholders:
+      - offset: 215
+        length: 48
+        placeholder_text: /* Implement the method based on instructions */
+        initial_state:
+          length: 48
+          offset: 215
+        initialized_from_dependency: false
+        encrypted_possible_answer: rlf3z8W2W6r2PuHr+lcDov3tOLyDRaFvQ/xXxl7RszBX4FRkGpPnXSHWZ67xo2nis+P+2kKpMwUwcs1js5qE55QwR94CcZe9EXWem2p5fgu0niqVweNARbCZxqg84Mv2Q7oxL+rWMeb3Wvi4jz46og==
+        selected: false
+        status: Unchecked
+      - offset: 458
+        length: 48
+        placeholder_text: /* Implement the method based on instructions */
+        initial_state:
+          length: 48
+          offset: 458
+        initialized_from_dependency: false
+        encrypted_possible_answer: gLZckPuk2v+rdP61tjKGjarfok3wieP42Ed6AM3VA2SKDXX+P28TbP0Nnu2PT8Lwh9ZHhnwRvwCdxESpWAdVgI7ZxdtRVOPl9Juuuuf2WzuaLzVYeM04Z4mv8JOo8mYuKu7z3wCps/MOz4qs2MkBSA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true

@@ -1,0 +1,24 @@
+type: edu
+files:
+  - name: src/WeatherReading.java
+    visible: true
+    learner_created: false
+  - name: test/WeatherStationTests.java
+    visible: false
+    learner_created: false
+  - name: src/WeatherStation.java
+    visible: true
+    placeholders:
+      - offset: 983
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 983
+        initialized_from_dependency: false
+        encrypted_possible_answer: cgvfw43RoxiMpSde3azSLVJkLSfRVhWdYcNOdZ4PbcWXHYmY/VWZkkZHyLRwsONWAQVuo5eLye5UT7CRotZpUu0lzH914VIBKFIGUMluFe8HkPsGp0KKEcHro/v5S8wBouIeOxNtRmdMtGBhbF60IN9zwA+Ym6FYcnRpBATt/479Ok+fD5lO/nWDdrf14jZjujo5NO5QRAfqGYuQXCbqz7LqDVa247UEWX1fQ7xbMiyhmlb8m1odqf1a7iOAeIIEOg2Lwlinw3R8aw2bsgmndZ/oXW6a0WrhguFN2N6HLcGRYwJXm5Xo5Ho0UVcY+/d/r242d+spcymq3++z0rKRwBLdLu4baMmVY6EzydFHdJ3cz73QP1poQGbXDsr7I57s75+sa/G+cwqWYMFveNw+0lXxF1qxKjAlXHNnxdp0Mv6YEzC9e1FOxST+8oWZEZBWnLc05WIgZZICLlIeom4wiIZEiAgsP8s3MAfL2YZMXrL6/MNVj16wGQpQH3+u4VUy59DjkbiWIdBWlV9T6WrL3fdojeHIUTnd4VEfVrelgLlzUybMVp4zmwGJrWLOJlTQovi0agNAaDQq7taAPv+a/ZUifos9ku7VpYZKS9U5sL3P0RHBwOwKfemi6AqKs4GRzV8TJ/C6qMVNMgTNiiSvp6lRu+Rv3YYa5PoQFqcNloRzhfSzuABulP5UP0jeAqryRxY+Ou0J1FoLTuX3gnUrre1In9/FeNumQw9Ozr8M4Gr9gs+YyU4K2Ot+KZaVXwysgljfZQc2UPYwYaLtm7GCb3Kmt1Vie4YjiPFelFsRZQ0+d+GHhbJk3cpWfzeQIHXJqv/9adkin14OyRoHOmum6ErD8oEjy3pxlM/2CtcD4/YGMZoyW5U1p0O8m21BuBJ3ZLpJx0VbOpuxip5oig+snwABUCkqJHxyUOtkOxSZWCVlMj7hE1+OQ0QLual6TzeiyRvj12vz9dsXS95YOIGdcyvuwcC2oojPGtKIT0ac5Mw3liTplC7f6ot24lj0ZkBUdCB+g1oYT/fACdRcb68fe7NH32jc5XuvXse8+0J5dGxnHe7AyYp1hoMWNOpuWsLCR4ULxZCIxS2Uzee28NzmOSwmFd/tv7HNXZYSnlnnj2l1vFeyYLQ2LhT2rzBvoIIJG7QyjwXHLTV/mUZVTb0s20w87O/DvmOEPbQOJqUmeb4Kpamd5qU1reWlwNHcjBcHMDUTzbFtldP7KyyAzOw6LSeeFE5PTdpijH4W53vMqzzND8YHUG/js7b1k8EFEQe6I9WGe5RRIXanInBaOK26wkuYNxVGtfwgVNFZQnbCUR417A2L+UwzK7f1U57Waho3dYS8chD4N3g4v7tfKZTWuGIRAMsMefdITuDIgO1t4VkNW76c9D4mO3NC/5186eMAzyce54NdvpRepPY7AnkQMEafnVsYxmYP/Y26p0OYHEyaXRvIDo+B1HRj9R5qXT6j8ASl/LfLs1uJ4iToZ8YjPutG3rA7/InKb2XsBxLwZaJoX211Nfs+NSCbF/9gXrEp1Huz2uJcaRonkpvt1/7p3msr++rpohOxhcz6oxGi8L5nVyELB34IiwdUogDTlmtHDfE8rcr+JJgbMFR5TVOrJGjQz2drXPgxQ+JPbB/vWB05eFtwpT7YmPh6fDxePT/F72ePYyKeZMgofWTcs31u5xSFxmrBSTlh6UIKhuMfIvo=
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1

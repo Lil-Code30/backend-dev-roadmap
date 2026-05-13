@@ -1,0 +1,39 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: La déclaration d'un tableau affecte une référence à la variable.
+    is_correct: false
+  - text: "Si deux tableaux ont une même référence, la modification de l'un entraîne\
+    \ la modification de l'autre."
+    is_correct: true
+  - text: Une variable de type primitif contient une référence qui pointe vers une valeur.
+    is_correct: false
+quiz_header: Cochez les affirmations correctes (aucune ou plusieurs réponses sont
+  possibles).
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: type_primitif.PNG
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: type_object_1.PNG
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: type_object_2.PNG
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: type_object_3.PNG
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: type_object_4.PNG
+    visible: true
+    is_binary: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

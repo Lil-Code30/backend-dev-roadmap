@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: A B S C C E
+    is_correct: false
+  - text: S A C B C E
+    is_correct: false
+  - text: A C S B C E
+    is_correct: false
+  - text: A S C B C E
+    is_correct: true
+quiz_header: Quel est l'affichage du programme ?
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: src/Sinusoid.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

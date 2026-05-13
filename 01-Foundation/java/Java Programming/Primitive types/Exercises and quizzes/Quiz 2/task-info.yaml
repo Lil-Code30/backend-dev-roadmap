@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: La valeur affich&#233;e pour <code>d - f</code> sera exactement 0.0
+    is_correct: false
+  - text: La valeur affichée pour <code>d - f</code> sera une valeur proche de 0
+    is_correct: true
+quiz_header: Sélectionnez une option de la liste
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

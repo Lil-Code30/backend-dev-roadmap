@@ -1,0 +1,86 @@
+type: edu
+files:
+  - name: src/Task.java
+    visible: true
+    placeholders:
+      - offset: 750
+        length: 63
+        placeholder_text: /* Implement call with an anonymous class for color == Brown
+          */
+        initial_state:
+          length: 63
+          offset: 750
+        initialized_from_dependency: false
+        encrypted_possible_answer: mZCQHaR1EO1Wt2xOGzYRPA==
+        selected: false
+        status: Unchecked
+      - offset: 947
+        length: 79
+        placeholder_text: /* Implement call to printShoes with a lambda expression for
+          type == "Boots" */
+        initial_state:
+          length: 79
+          offset: 947
+        initialized_from_dependency: false
+        encrypted_possible_answer: mZCQHaR1EO1Wt2xOGzYRPA==
+        selected: false
+        status: Unchecked
+      - offset: 1193
+        length: 81
+        placeholder_text: /* Implement call to printShoes with a lambda expression for
+          type == "Running" */
+        initial_state:
+          length: 81
+          offset: 1193
+        initialized_from_dependency: false
+        encrypted_possible_answer: mZCQHaR1EO1Wt2xOGzYRPA==
+        selected: false
+        status: Unchecked
+      - offset: 1356
+        length: 22
+        placeholder_text: /* Implement method */
+        initial_state:
+          length: 22
+          offset: 1356
+        initialized_from_dependency: false
+        encrypted_possible_answer: tiF3nGPJ/cqwFgaTuS6iAkpWDYfcB+60VfQIip6HfCdq8nbXk53XHqsIRVmx0K1vPVHr8KjV2YH7ZnDzwf95/Q==
+        selected: false
+        status: Unchecked
+      - offset: 1421
+        length: 62
+        placeholder_text: /* Implement method that uses a generic interface from Java
+          */
+        initial_state:
+          length: 62
+          offset: 1421
+        initialized_from_dependency: false
+        encrypted_possible_answer: GiuuKjP3j0uhu3fllYWM9OxRS9qfu7M0liv0BItjkON7BXuBhp+L94W6TaAu2bnjvtcdahsApd5LmqgOQx+TN54kfobcFmnYlNavsp3ILbteU/JeKzuUaEJnVU01bPymrIGr+pP44OBXs8Je56sFsw==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+  - name: src/Shoes.java
+    visible: true
+    learner_created: false
+  - name: src/ShoesSelector.java
+    visible: true
+    learner_created: false
+  - name: src/BySizeSelector.java
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 40
+        placeholder_text: /* Implement the BySizeSelector class */
+        initial_state:
+          length: 40
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: DAfz9oXA7rsjiXKRK60zlFT7MbpfsD+9DnAl2J32kwuQeN/vK4NYikhi0uORcntvwqrEO2lq9Aq9q5rUvhkpF9GxWw9hSmom+rNC0yDKv11/8NHQwcH+kOq9w5yeIbyOLf3DOAaykHBO6IebjgycwB3wUgnU3uzft6RyBSR8YhVh8riD9135Uh3td8tfHCOG7+8p+O1f4eoq9TW6UXYLloKEaV5bYD+ZJmvBnXq7Oot2MDwfl9/giHiVT53ar7M9xckU0HHCH0sIwkWOjcViWdKF0SeJ8Be4oYvv3RAjPNbBLoXED335BrwqqIlhfNmFvuCG0lOHF2fD7sJ1VN4w1Xiti2IrTxzTfN2fgubkXUOf1ijuMl0JT6hppGQV8Mw6yHEyf1EtfKErSk/xWMB82g==
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true

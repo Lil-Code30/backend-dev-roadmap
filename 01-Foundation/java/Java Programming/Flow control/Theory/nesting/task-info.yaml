@@ -1,0 +1,19 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: hour < 7 && hour > 11 && iAmHungry
+    is_correct: false
+  - text: hour <= 7 && hour >= 11 && iAmHungry
+    is_correct: false
+  - text: (hour <= 7 || hour >= 11) && iAmHungry
+    is_correct: true
+  - text: hour <= 7 || hour >= 11 || iAmHungry
+    is_correct: false
+quiz_header: Sélectionnez la condition correcte
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

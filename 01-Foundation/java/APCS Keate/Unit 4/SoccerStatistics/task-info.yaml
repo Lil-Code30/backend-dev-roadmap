@@ -1,0 +1,261 @@
+type: output
+files:
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: src/Defender.java
+    visible: true
+    placeholders:
+      - offset: 574
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 574
+        initialized_from_dependency: false
+        encrypted_possible_answer: eL2btLaNsJiFXYgIOjglnqDczMj+2sipcIP6ZaKr26sNv7U5ytPLpPYy+hTYBIIVMYh6/SDa4YmH2r2ct55s0A==
+        selected: false
+        status: Unchecked
+      - offset: 684
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 684
+        initialized_from_dependency: false
+        encrypted_possible_answer: kZuCepwvmheLueuybF5kYnKvhu+c+eMXvE42va2Aatr6i186ogc3g3gFQL/6xUcwSBVAQDE/Z79p9BN+kjuG+UnZTeDnNHPDfdhCMhDDNLmI3lrTqaFGZolz/pYZii+CaoINwM007SkC6qYvhKj/l43mnn4Z7v/xldCYyv3HeB6jbdyoeKNaVPu4ynW+QrAR63Ac/PKYk7krh/7rdZI/VXuPkicULUprKyB5RyYc6ulZoQmG4obyLO5Xb4Csq+7UbYwjcWw7bCMYn8aHD/U53g==
+        selected: false
+        status: Unchecked
+      - offset: 803
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 803
+        initialized_from_dependency: false
+        encrypted_possible_answer: kZuCepwvmheLueuybF5kYojEVTGBTT4IGoAiZp7JXxAS5z0guMhx56OVUX0NIYm9ftE4VtucFZm0cJGuM2OjtkeMMDaiNA8zKeOjid/Pb1lutHyFiThYbvuKywKVBng7ryRsPdNTMhjS0YycIH7wWsKvVyS4gVXkJuYaX8f1r1qK7OCkgmNtFSy/NIfisQTHoCE30WhIXdmLClWXKvsLObbfC7W+jXZ6+DZ3MzzcONctRAlZCrj7lHoUGSaxp2sP
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/GoalKeeper.java
+    visible: true
+    placeholders:
+      - offset: 540
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 540
+        initialized_from_dependency: false
+        encrypted_possible_answer: eL2btLaNsJiFXYgIOjglnqDczMj+2sipcIP6ZaKr26sNv7U5ytPLpPYy+hTYBIIVMYh6/SDa4YmH2r2ct55s0A==
+        selected: false
+        status: Unchecked
+      - offset: 658
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 658
+        initialized_from_dependency: false
+        encrypted_possible_answer: c+ASwuoGuw6bXEAQugjdP7svqkWq5ZWGneL2YAHQradjcNAD9mD6uIz5ExXGKRz8WfGOyXTHKsoqJsg56mGuKrJyC8vwFXbP4HsIt5OG0ukVCXrdLyXYHvuYJTE3Od3p53ZUyAYVfQgJPD6+s+9makuzdQe7m7xzaQdSenLABBGpp1szUz7JcIILV0X7sZ7UoHRWQOGsb+kDM7+VSkk7/wFj7mmKj4XdzB9BQvIsfOddErHDCcN3mbd0/6UUkP2rc9iJiTFZqnO02dueVaoj4uiQDkAx4sq8Mw2k821gwO6t3xFTl1I8g2qYzau7mMbD+lpkoH+h+bMbb1NzvpXPnV58eRFzgFaWa0cdSjg6Jdg=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/Midfielder.java
+    visible: true
+    placeholders:
+      - offset: 580
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 580
+        initialized_from_dependency: false
+        encrypted_possible_answer: eL2btLaNsJiFXYgIOjglnqDczMj+2sipcIP6ZaKr26sNv7U5ytPLpPYy+hTYBIIVMYh6/SDa4YmH2r2ct55s0A==
+        selected: false
+        status: Unchecked
+      - offset: 698
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 698
+        initialized_from_dependency: false
+        encrypted_possible_answer: W4p5w2op7hEHMndkm8JV5GfjHDfTDmIvAhzugCYjgRoHePcneeCiCo3NJOOZpmPmfq/y/px+tE9pGILcL3FVPQwiZxHK2eilW2DN5pJ+PvWtGccRNQbvFDwMVxCVvE5XNk9lBmcioaeqgVW2gwCnIfxpx1lBUhcztsOqRD0KLXo8iQrl2VCdVLWMAe9IADVW9MYzrcV9yisbsL1XxEzzs0goAHGpSRBcBSnxDUka9wE1jNbKgV/J8uhdzlKtw6x2
+        selected: false
+        status: Unchecked
+      - offset: 825
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 825
+        initialized_from_dependency: false
+        encrypted_possible_answer: htGJHgpBq3emdmunhfa7C7ezERIMoZhXXmD+2gkKPx2m/Y22Wv3gf6nWsfPjA4/Z03HdFYLY+JFU8JwhagAcXlfwWyr6akoIVbPJvmwC8vKse526OUQhzFxjJ7N8UUalrX5+8xEltUYZ58SfvNgDuvxQ/efUC65DMjBccrhuFdR6oZ3gVCPU75qtUGvg51/Hxq6DaNarSGBAc5HITXCdD3Uuuq0QPQGgDR7I2FvbmJo=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/SoccerStatisticsClient.java
+    visible: true
+    placeholders:
+      - offset: 1805
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1805
+        initialized_from_dependency: false
+        encrypted_possible_answer: VIG4+G2Mkb6RT8YMzNxysdK1eN7G5Qmfilu6/iyMduE=
+        selected: false
+        status: Unchecked
+      - offset: 1916
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1916
+        initialized_from_dependency: false
+        encrypted_possible_answer: T8f1gDQsgzxYsFmpK4+aSQ==
+        selected: false
+        status: Unchecked
+      - offset: 2052
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 2052
+        initialized_from_dependency: false
+        encrypted_possible_answer: T8f1gDQsgzxYsFmpK4+aSQ==
+        selected: false
+        status: Unchecked
+      - offset: 2208
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 2208
+        initialized_from_dependency: false
+        encrypted_possible_answer: hPCGMtq5LjZmA9ye76lrFO9Muyy74QLItPEoh/rl5rq/CkaW5obWkTT2ibYI4TvW3nWWA61AKS79NA5jjTv/680ZuXTmij/fLy6wJS7AEZVK6nL7aHlsjAi+UK++bGBBy9mkJkXBRBnzv7+96MQ9qzJSvHbtz6sPmwDJRAH7HETZu+ofhpQ/Mdu2MDMYxiyq4GyGwbC6X8geG/j6+nWpg5MxDqSFmD5BJnYCb4FHgqVNMZHfcGbJbuEIIPRERn9o+LxiR2hBkrEVptK47kmjQ9GOsMaenH0h6yGHiqiGZOGBl4VvYTVtjwuxIdtyrpOmHXy6/fLA1mY7wvX1WklXZVUA6i2JEteaY9dH7qM3uA+fVKadWOqn61fmn1P50cLyAWGn7t1kGsfo73+NRY2JOWQUXkXN7qqTuHNHNyrc1tEaAd7m++5vQKid7DXwqyTbX1at8mtGV6bHF87JCE362pugVmhhOa3ZuLJdrZiQToeiTYBWNEEvD1/EOiVBMQpTTRT7nhxVq0oE7W6zXlpEV7AuKoiGmGRCEURVs7ScTauE9w+NsK1DwbtJY6MUrOJoE910pqDcbNoCUi6SuKd3BA324f7v06yDbmrPGQg8Cq7+yy5PNsG2xdf/EOO7t7Pc106YhNrwAaigzCyaaOPZikxC9WhYEPUl2a28siIRYphjfG3tY6TewJm3ZK4OAoz/ehLNdLqBgXQRXiKVj76l0e8D2FMCYqZLVZdjUIER5OxchqTFPIE/cypVf7V9nR7DS/7ufb6GEXunjxY1cPFUtf/78B8xYhe5lfZHeFKkwInoMYKg6hxk2f/3RqKIQLG373fTlQ0odMT/4StUYX0nXlK9VhkpkbWfROZ7BVXWPNDiu4w9uQ2pG+tHp54mfwwtXytdqsfN/00Tn49VKVneiQ6gY523QfJX7Xjd+3pDwv62ntGRbutIVFt86itMrmV/jjPFNyPUC6L2FIjlutJZNyOG5M3b8L9cDFzU13FW3S+lH1VE0MYa0JJSTHMS7/FZPwoiW18OrFKgBY1Z1eLYDuJKynjGPUTxDNHlqpdeBejgt/3G1S9o62vQ+1Gs4/AQg13LoRIATpQPVIuBJ5WPt2+Anb/zJPClqJeUf1PPOfuamn67q6XGhJ6We0+5pnBBnj9Wx7nxKscJNxuvZeoqHbsuzOV0ht72lRxLlpg2bIl2Zg8zYTHs2l/9eYFTrSMBrc1dqmYlOm69fTG4giBa7/WeOmcQI/jwFT+JFTW6LBnsy227otw9Uobhcor5PKrn
+        selected: false
+        status: Unchecked
+      - offset: 2311
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 2311
+        initialized_from_dependency: false
+        encrypted_possible_answer: qhMD7AduO+2vdpr+txwovrtKClNQpjNYg50oiSXz4d7Fre6l1V/ExhsHpN+4EF1i
+        selected: false
+        status: Unchecked
+      - offset: 2473
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 2473
+        initialized_from_dependency: false
+        encrypted_possible_answer: PF2g2Uz2QtogDl/DzzYqMXVDBhSI7mhEPFeYDU3NblzgmB7DxPt0buhvZfouu6Ittgr2ifGcsHhh6fPbmscMkLnF7BhvAWJMlJ1Mf7uumz/U4APwWC2rnT4/8/UhLm0IUhfqg1gW8oCKTUBZ91dSHv714QriZ5ayzfa4ryIW4ZKETmGisDjKnMToiapLUjABQ3AdH8S5FehXh1zTvoTnUlIe+F2G0wvP1NgEDjrFwY0fvyCa4ssji0/jspiGi8cXS0M+pobGpZJsAkurDHbWZzMzU8maYcjon+wW4CJsUXdnEtnBsVNVU5S6dek4wgOs8Ll5sU4mt91RIS1ggxI+nNPfQzvcDVG4Vrl/ETUIwaG85XDR5rhUm69JCXgl7nZ1EnEsB7UKAEcfD0iwH6bAJQBXusxK6BvHKVSmyXB+BX7Fq0phcZUeCDJeCvhjGdy3GrDGjH0pSjOKgS1VMRb1qQb2V7R7Kg/6zZnatc6JAwkb3He3gj6yeGGBkJ/7plf9EWVxkZy8/gdiLJRAW4HrTNzQC/RPHs2/qHBUdijYQRKAoNS9x9dhqHsWi5TtaHNud8ekv0oO1Aerk9PsJrwA4uuaAAxs1sZ1MrdJacvMDXfRHxC0hBLJyIQzSD3u+AY6fxeInZvSXdmQfBRk/YH6fJr7EsbCRbcBwv/mEfd9hGpPFxhQNCgHM/dvJt74cyVcapKtrfeGk/TmWuN4wfx1/wdAFL2tFUAvImpghlxvYNgVPigeujfDXtbVQDqQf7epv90nPYMnxYN49F4hw4gNTBefVtj6JTMWK2Ztq18GVeMoL09GbdbKIC5MBXTWMhMDbspkckvKcmaRl9SLewDPz1+tNn0olOZiRvlMhvaWhRd+wPGkpvrHCykpKUCueqNIadrg+VpsvMXVd64LIPii1NTRD6nNxT8bkT23Jh0VlpyXS4Tma9J3P9gqv64qdseK9EdjJRxlhLQyNx79DarjASF1hgRjr/lU/fsKrNCJF3G1CG9XrWSw4xNKhIgtagJiHMKzYudBcX9FQN8ievm8RoOmY49bbrpThdymVznyWsziTM9a+fBKwguaGAn76G/cZmI1G+38eDQ5wzcGtpsDYd2mWK5NBRg1OqPaLXq79bEaSdiUV33OWjI1gXwfi/yjXuI9aza0zG+bqdWV8irIk+Yrd4kITyEyQQmeZns5UIZyRfYpY8VLXZAZFc3vpUGsS7DygeKgDMxgx8dTKCJGi1b6HiOKjYWN8xNG9Ug01FBQbMoY58IGmciwWiWiG5uWkZQomvdVqHgo5lZfyZdXgJQ8+vU2ZucafG/+3zsaf1xV/7L+PQG79eNe7lVg6NFOuAeICNOSM69a0EnMl1jBNI5oLfWkYvSie/y0Shf2QU1JN866x7UJf//4yCkmpAyrGP3BZtZU5VZzBw+Apdty/JBWCHm9Y7OufkKs/kEcmv5gW4MidOo/sQZR2L2qBQEgpXAlkzX2QMe+5TPe4qsDdw==
+        selected: false
+        status: Unchecked
+      - offset: 2579
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 2579
+        initialized_from_dependency: false
+        encrypted_possible_answer: gJjj3defa84Apm0BVG0FOqPKU9/khJltmY/Ng6teZtGjmF0PdHacylKoJhVpa6hlpmMuh09HvNL0Z87pi8QqHg==
+        selected: false
+        status: Unchecked
+      - offset: 2745
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 2745
+        initialized_from_dependency: false
+        encrypted_possible_answer: PF2g2Uz2QtogDl/DzzYqMZYuMzXLpsBUIAw1f5aXHlh3mL9uRAZBFZ1mL9jNbE4CJYOaTJWV7bWq3CC0dZ9e4snjA/taOneK7Fk8x8gr20yta8wHWkk/VsYkDbINR11hIZovVM4rl4tu1vLhQI/WfrFeTWshpcVwlzy3kdpNgt2pFtUup/KKOLM5JmECQCaKAeg8b2c1gwqOQk5YXYeeDi9DPTY1KIijcVZfaqsSEFt4pb0FLXihIRgWAi6K3fthtFu03ka9opQIe9LQ4yLbijujsLAJughn3QNmenSSWoWma51ca182vXIcNyaT+b5pBPL07YlvfqHaMy3h4e7+ybVvPe/z+CYxmnDKPctq9iXYqV7Or9NTzmC+g5hXCI3anIDe4B8joHJxixIFFAatrwhQ8BWCeq3Ir4Rbj7Ji34bqAeeQyiRsgl/gi8kdOMm7tIgUNsr35QZcKrunDCTV8qCGtc0HJju3Q+NsofixnDp491GzFCaBvDho/twogcT89/DIwZnF5WUYet7yk/MMVpb8X5bilN2E3hh2Wb8qlqR/UZi4O30xsMvoXkgzKfs83Z+9J42VxD+CtzPEMqjUXNoI6BmdP5xf6QfDUDRqOJWuuz+KNLhgr7fNk0zRRv4HarbsNFVPf62cFDQcoArkU+SbfRqM/iqKim9qXs40cP/SEIgy5Ah2MqmxGimTChyUO0xUmDzGOGY9qkQvRPNEypc37xq34PUIPmLc7E/VoK6xtjB1+Zw1w3qscxpA+xfpA72hz4Icz2ngbj/1RZUS43uurFRdPLobhOK6KMX71UOHsvPeXH3dBjIjpTGxmG1j5/9PoEoPyAJ5VXSBD8oDEhsUA/1odaYX1m+dZj//5AROIkFq8VqhMIMmBD50gfBGEFDn0wcERu2zcwV5841CsgRy3TX4Y90vDj08nFBTAbSUKfgpLW60TbWrccg3xSinFOTuPcc3IwZrdQHkA+ag668vclCsOL9a8/2CI09RPsgegyyZdoDUvM00P9Fx1+V/I7RdIljLzNCZ92+xkCyVWim/A4srbpZQ/8LRsddxboAtB8SZrTaPQ6dRSyCWqBJEAX3EN90zkKjB6gCBJxrFRvmsMyaOaz4CnUnwl8PJJtFdo7uRuaL5RlSs1zdc7GHU5H0cTTJlNkET4NK6FtYMJHcqudwFeFOHeiIUHHktqWJjt/BugGITc7u01avXzhj4P8ls+Wl46muPwaxfqlVv2dkirzqTOCJ+5OZm9Me/RQTy3LLdVRiuIxtkejIxynaYshe4Mn1+TZ8bRukgNR0cOSwLU98/G40YzzBrIGZjtomMgw4XrEUW1mbN10lY7205sSVfoWqR5RzNUxBNlbohbvG7Ix4HqC519AYhHlMgXhZj0WDAQKMOjLXC2NDM+n4Phr0H8Bq2Q/5yV3vs/VnyPGjtaGxxhTjHJFMIAGRh16GYLkUrhBd7X+g5B9dBM9MAKojFYrEYfkj6FZ+Z5zpcrKL8emiwC/x+CPfiRYRCfVjLv5wlBDIfvTg6oyMk4cw2
+        selected: false
+        status: Unchecked
+      - offset: 2846
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 2846
+        initialized_from_dependency: false
+        encrypted_possible_answer: K8pHuQcIPP869ESP4n/bJOhdQxW+ym6FjFzXCJSydBajojUin94K5J+TTOoDrM3N
+        selected: false
+        status: Unchecked
+      - offset: 3006
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 3006
+        initialized_from_dependency: false
+        encrypted_possible_answer: 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
+        selected: false
+        status: Unchecked
+      - offset: 3209
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 3209
+        initialized_from_dependency: false
+        encrypted_possible_answer: G+a4n8PML0kkgQIYjnHKXRQbi8+8TBHdsdj5xwHPTCjcKcTGvmlU6WQTe9MijfpePWNoMzAishhgWYQQjfVQKhuB0mk3GFyUf7S21rFynLvsw4Oo0nJeEnaINxx+YzVLu7Rdfye9NaFB/6g87fAs08kOBeEmMz3hym43HfW33lmPpM/zItyA4BKbxzVGRiRwn1UPzV/+NxUczcZdLTA8gQ==
+        selected: false
+        status: Unchecked
+      - offset: 3254
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 3254
+        initialized_from_dependency: false
+        encrypted_possible_answer: hPCGMtq5LjZmA9ye76lrFHxD+Gu5Unt5A4AZXJxz3fo=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/SoccerTeam.java
+    visible: true
+    learner_created: false
+  - name: src/Striker.java
+    visible: true
+    placeholders:
+      - offset: 760
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 760
+        initialized_from_dependency: false
+        encrypted_possible_answer: eL2btLaNsJiFXYgIOjglnqDczMj+2sipcIP6ZaKr26sNv7U5ytPLpPYy+hTYBIIVMYh6/SDa4YmH2r2ct55s0A==
+        selected: false
+        status: Unchecked
+      - offset: 897
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 897
+        initialized_from_dependency: false
+        encrypted_possible_answer: sB+ClvvlYRjSpJ0rM6fZNUuz14cHBVEHsWpQsqi268Z9NOf40djpqC24N+RZuGrp4n3dHPA+nZgs1PlauOKL1X5OtxLl7k4oIsMJ478lMQx+bzoNypVryurYQ5u4y8MYM34hrUybXAKkB/y4H9QaxQgCM0PdsWR6diEZVramkQRXP6wHPz4OspQucU84Nu1SYc+FxKZz+RkDIrPeLQsX5stZapXAY2NiNxs0hWHFBPWSYLuIceuGQZCrbBUeKgzgJU5l1Wi2jRoGzV0tQI9hPL5cxcP0bVYqAZxlujSubqDB56+/R8A22z82M9wFh4pg77oHb2Lrp7ZNPNNhHqBvDQ==
+        selected: false
+        status: Unchecked
+      - offset: 1066
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1066
+        initialized_from_dependency: false
+        encrypted_possible_answer: 4thH7y0sO3+/HjxLX0GbBbxkJizYfWL1kM/tI8TBiTvH5+oz7FKedFQ6cK4MmTqFGuQjQO3YzV1KvCLcq0deTI2z84rI4ilvhjBTQeuSsbdaYsgZrRJ/K3zKbuKX38E7GxA4ODKPd5UUvP/wxqOcsZ5yB5X3/v49oBE272kb5tDh6ms9HkuvJfGb1XKKRCcbIcygKwSG8F/4mfvTg5lS9Da8tKcMMCgGRKNj9v3SvCjtUii/10YHE2zw9/dpAwjU2atdhgsNQKDbxLBQNNpZCUqVqvkliPeHsk7oSxn/OhLGng6GDBFeBhACIYQrZmlJP3FwrFAyzQMVYJmX0d9z+AtZxjhbs0W0NFEWH8lli+e6sEOoPHfOEQttkqVZkx4b8gCHIk4DQeWzFIu7fJZjWvl7N5hOAO85fAbns4GI+q8=
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true

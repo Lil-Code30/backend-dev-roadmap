@@ -1,0 +1,23 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Les classes anonymes peuvent avoir un nom.
+    is_correct: false
+  - text: Les classes anonymes peuvent avoir un constructeur explicite.
+    is_correct: false
+  - text: Les classes anonymes ont accès à toutes les variables qui se trouvent dans
+      leur portée.
+    is_correct: false
+  - text: Les classes anonymes ont accès à toutes les membres de leur classe englobante.
+    is_correct: true
+quiz_header: Sélectionnez l'affirmation correcte.
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: src/MyFilter.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

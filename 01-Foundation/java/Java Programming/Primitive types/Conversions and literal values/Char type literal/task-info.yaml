@@ -1,0 +1,48 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 70
+        length: 55
+        placeholder_text: /* define one variable initialized with the letter A */
+        initial_state:
+          length: 55
+          offset: 70
+        initialized_from_dependency: false
+        encrypted_possible_answer: fsi1PjaB7Z07z1wIPFhMN9Qzv1W8hRhEo5R2WzvFKEM=
+        selected: false
+        status: Unchecked
+      - offset: 132
+        length: 51
+        placeholder_text: /* define one variable initialized with new line */
+        initial_state:
+          length: 51
+          offset: 132
+        initialized_from_dependency: false
+        encrypted_possible_answer: P6DDAQ4XWki+SvXXn3OSWLvrpVo3Veb0WY23rKTVyks=
+        selected: false
+        status: Unchecked
+      - offset: 209
+        length: 57
+        placeholder_text: "/* Add the expression for printing \nA\nA\non the console\n\
+      */"
+        initial_state:
+          length: 57
+          offset: 209
+        initialized_from_dependency: false
+        encrypted_possible_answer: kP9Iw5d4WC712e9r4CPivMAezuRWGdbFnXE4W3fGg9M=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+  - name: test/latest_output.txt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

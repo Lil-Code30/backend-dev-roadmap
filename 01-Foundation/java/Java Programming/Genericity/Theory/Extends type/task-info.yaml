@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Il est possible d'écrire <code>NumberBox&#60;Comparable> nb = new NumberBox<>();</code>.
+    is_correct: false
+  - text: Il est possible d'écrire <code>NumberBox&#60;Integer> nb = new NumberBox<>();</code>.
+    is_correct: true
+  - text: Il est possible d'écrire <code>NumberBox&#60;Double> nb = new NumberBox<>();</code>.
+    is_correct: true
+  - text: Il est possible d'écrire <code>NumberBox&#60;String> nb = new NumberBox<>();</code>.
+    is_correct: false
+quiz_header: Soit la classe <code>NumberBox</code> présente dans la classe <code>Main</code>.
+  Sélectionnez les affirmations correctes.
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

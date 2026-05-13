@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Packages visibility and encapsulation\Theory\Compilation unit\out\classes
+    is_correct: false
+  - text: Packages visibility and encapsulation\Compilation unit\out\production\classes
+    is_correct: false
+  - text: Packages visibility and encapsulation\Theory\Compilation unit\out\production\classes
+    is_correct: true
+quiz_header: Sous quel chemin se trouve les fichiers ".class" de cette tâche ?
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: src/Point.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

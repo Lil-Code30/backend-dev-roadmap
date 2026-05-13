@@ -1,0 +1,240 @@
+type: edu
+files:
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+  - name: src/PlayWithSeries.java
+    visible: true
+    placeholders:
+      - offset: 941
+        length: 66
+        placeholder_text: /* Create an instance c of Combination using an anonymous class
+          */
+        initial_state:
+          length: 66
+          offset: 941
+        initialized_from_dependency: false
+        encrypted_possible_answer: OIpm9W6N4JBivpKKFgBxdQ8N1xXs/3jHpK3coIpGqGQ=
+        selected: false
+        status: Unchecked
+      - offset: 1008
+        length: 95
+        placeholder_text: /* Test your implementation by evaluating c with EvenIntegerSequence
+          and ArrayNumberSequence */
+        initial_state:
+          length: 95
+          offset: 1008
+        initialized_from_dependency: false
+        encrypted_possible_answer: ev9A4o2rTjaLoPehfKLGB1BCG/BDs6Y46HEiIZXcvfw=
+        selected: false
+        status: Unchecked
+      - offset: 1288
+        length: 66
+        placeholder_text: /* Create an instance e of Enumeration using an anonymous class
+          */
+        initial_state:
+          length: 66
+          offset: 1288
+        initialized_from_dependency: false
+        encrypted_possible_answer: OIpm9W6N4JBivpKKFgBxdQ8N1xXs/3jHpK3coIpGqGQ=
+        selected: false
+        status: Unchecked
+      - offset: 1355
+        length: 72
+        placeholder_text: "/* Test your implementation by evaluating e with Sum, Product\
+      \ and Max */"
+        initial_state:
+          length: 72
+          offset: 1355
+        initialized_from_dependency: false
+        encrypted_possible_answer: ev9A4o2rTjaLoPehfKLGB1BCG/BDs6Y46HEiIZXcvfw=
+        selected: false
+        status: Unchecked
+      - offset: 1586
+        length: 55
+        placeholder_text: /* Implement the function f using an anonymous class */
+        initial_state:
+          length: 55
+          offset: 1586
+        initialized_from_dependency: false
+        encrypted_possible_answer: OIpm9W6N4JBivpKKFgBxdQ8N1xXs/3jHpK3coIpGqGQ=
+        selected: false
+        status: Unchecked
+      - offset: 1642
+        length: 72
+        placeholder_text: "/* Test your implementation by evaluating e with Sum, Product\
+      \ and Max */"
+        initial_state:
+          length: 72
+          offset: 1642
+        initialized_from_dependency: false
+        encrypted_possible_answer: ev9A4o2rTjaLoPehfKLGB1BCG/BDs6Y46HEiIZXcvfw=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/Sum.java
+    visible: true
+    placeholders:
+      - offset: 127
+        length: 26
+        placeholder_text: /* Implement the method */
+        initial_state:
+          length: 26
+          offset: 127
+        initialized_from_dependency: false
+        encrypted_possible_answer: tiF3nGPJ/cqwFgaTuS6iAkpWDYfcB+60VfQIip6HfCdq8nbXk53XHqsIRVmx0K1vPVHr8KjV2YH7ZnDzwf95/Q==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/Sum1.java
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 43
+        placeholder_text: /* Implement the Sum1 class as specified */
+        initial_state:
+          length: 43
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: Du95QJpII7BqBnAUMfnsRJIIju2CHI6rB6WwDQgzCEeMNWcIwzya8QwE1SHCd+F2rbdjVMK7dFi7P4LoX4h8Cl0eIwlALbxgoiD3c4ErDmdVKMCM9YJgXFc2aO4AxwBftUIg1IrIYEpCHa8lyXQv1C0nzwSA6qgQdZ+0aJK25rnmsAK1cgxb83iXsIKEYlJu/GTgY0fUM1uQvMp9HVTkaA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/Sum2.java
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 43
+        placeholder_text: /* Implement the Sum2 class as specified */
+        initial_state:
+          length: 43
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: Du95QJpII7BqBnAUMfnsRHACtb1l+ehgRdXRJU/1YL2Y9m8tCO7t53OTWV6V/6mpJgYLm50FboZi9jFRcGN3XnCplHnebvJrB0HG4JAWmCsVJCwedQXEre70MF5Z50y1BDd/X2qIK4OLPsGQa6S9vZSekTxD8/vM+4HOHiq0aupt5Xb/UmXtFHsrGLflVl8Q0K7dK3Sv9YYNxEmdAYx2fg==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/SumOperation.java
+    visible: true
+    placeholders:
+      - offset: 62
+        length: 38
+        placeholder_text: /* Implement the SumOperation class */
+        initial_state:
+          length: 38
+          offset: 62
+        initialized_from_dependency: false
+        encrypted_possible_answer: F5Z7EZGcc2nGthFlrYouTm4buW2xUE1POs3g4bibPxXHrjJ4nYt/htIJ5tCjrptXw99xum3WcHKkCyIUdhpTwOCyYQ+0yrq23JP7DDxX5O2+4kSI40ZmK6BsCQH5Wse+YdgI6rgCnQ7C1yoG4/jHP5nFNEU7cvxfmQEcE+yMMRgJAgJ/O4Cp3O+wTblVMqMK0ynyp0ciUeVLKtcun0riuKZfO5qlkXCkWpCsfAgQ3x3+S8I7EV82okg2o3AwNpY9/Hkqe8F5yC3s7CXa+kOIh/Swe3/p/7mIn7zRZo1OX3DTQDxxY1s2qmtV4Llm/VUNGcLzcagRD61XYOspW0rk8g==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/IFoldableOperation.java
+    visible: true
+    learner_created: false
+  - name: src/ProductOperation.java
+    visible: true
+    placeholders:
+      - offset: 66
+        length: 42
+        placeholder_text: /* Implement the ProductOperation class */
+        initial_state:
+          length: 42
+          offset: 66
+        initialized_from_dependency: false
+        encrypted_possible_answer: F5Z7EZGcc2nGthFlrYouTm4buW2xUE1POs3g4bibPxXHrjJ4nYt/htIJ5tCjrptXw99xum3WcHKkCyIUdhpTwOCyYQ+0yrq23JP7DDxX5O2+4kSI40ZmK6BsCQH5Wse+YdgI6rgCnQ7C1yoG4/jHP5nFNEU7cvxfmQEcE+yMMRgJAgJ/O4Cp3O+wTblVMqMK0ynyp0ciUeVLKtcun0riuKZfO5qlkXCkWpCsfAgQ3x3+S8I7EV82okg2o3AwNpY9/Hkqe8F5yC3s7CXa+kOIh/Swe3/p/7mIn7zRZo1OX3DTQDxxY1s2qmtV4Llm/VUNGcLzcagRD61XYOspW0rk8g==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/MaxOperation.java
+    visible: true
+    placeholders:
+      - offset: 62
+        length: 38
+        placeholder_text: /* Implement the MaxOperation class */
+        initial_state:
+          length: 38
+          offset: 62
+        initialized_from_dependency: false
+        encrypted_possible_answer: F5Z7EZGcc2nGthFlrYouTm4buW2xUE1POs3g4bibPxXHrjJ4nYt/htIJ5tCjrptXw99xum3WcHKkCyIUdhpTwOCyYQ+0yrq23JP7DDxX5O2+4kSI40ZmK6BsCQH5Wse+YdgI6rgCnQ7C1yoG4/jHP5nFNEU7cvxfmQEcE+yMMRgJAgJ/O4Cp3O+wTblVMqMK0ynyp0ciUeVLKtcun0riuKZfO5qlkXCkWpCsfAgQ3x3+S8I7EV82okg2o3AwNpY9/Hkqe8F5yC3s7CXa+kOIh/Swe3/p/7mIn7zRZo1OX3DTQDxxY1s2qmtV4Llm/VUNGcLzcagRD61XYOspW0rk8g==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/Combination.java
+    visible: true
+    placeholders:
+      - offset: 84
+        length: 61
+        placeholder_text: /* Implement evaluateBetween generalized for any operation */
+        initial_state:
+          length: 61
+          offset: 84
+        initialized_from_dependency: false
+        encrypted_possible_answer: VEvuL2Kjwd8V9YoXq00GBAptQJpqB058QkXPJmY5ruQKU8uG5ujO3Os/F7OcLeVoKGOaKn2DdL8n4cEQlk8nroBk9weLWdwj/XItA44ms//7e22yHglGNCaiTp8lTU6XzXvKBZFYwrapBohVmFf5DzWw+VIFLCreUwvN87wmavCFUv6CZnMAKq52elKpU2awsXkIsmfM+WMtpAzyoa02SX7VoFiJpka8h8hxqAnPzXee4DeRfdcao0qIXpV+YbE1
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/ArrayNumberSequence.java
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 39
+        placeholder_text: /* Implement the ArrayNumberSequence */
+        initial_state:
+          length: 39
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: jtbNGaKtD8pJ4XH/EZtgGdVc+s8x25YzThO3Gv9WnGd++6IbpU/5cZ9Mh3DURAxSQy6JbFxfdNhXJ96DEbDmzXLB4+dZfT1rslqj80vjcmiZgLIwWiL1TqzMH9+y8SNRskIKcuCVaZ88uuC9V6ihY9V39n4Na9K+v7KlvgS/pB5EBt7IV1t8sWe2KhBRdS99u9hn+b1XPbSacUhQ6l1H7lkl5x0sLYAF/3oEy1J5CII3aWMde+wznhmiMH1FcK6Vn/MFjVq+ej4LiUPSiifsbPVQyHgxtP0/zq5LtSMJdGayUwvPVwkvjB0dMMeI/CVi0H7NEXalWnSGMnfrLzJjtLHMeRTjiosHcWmCrUJJ3PWBn+FZMrWmlTZ4zoHhizYUUT0Qbl+eVcunZBdWvIawwv5lY94XCPTDGrtD91BCcMKk3q0NUmKExZ7RTHigPQDkY63j01RMyRvxvblvzR4+IwXzrqjf+jo/prJP/dfJgrlGWdWhWbnlxVCJFBPfv5SOk9jqUusonFjt0s37v9ucLqfJjP/ls7Q8m9rMmrBP319rv92Kl6wiXw3o8OjnGNh1
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/INumberSequence.java
+    visible: true
+    learner_created: false
+  - name: src/IFunction.java
+    visible: true
+    learner_created: false
+  - name: src/Enumeration.java
+    visible: true
+    placeholders:
+      - offset: 87
+        length: 50
+        placeholder_text: /* Implement the evaluate() method as specified */
+        initial_state:
+          length: 50
+          offset: 87
+        initialized_from_dependency: false
+        encrypted_possible_answer: VEvuL2Kjwd8V9YoXq00GBPuOzS9/5CwsSTLwaD7Z2Q+MFLcjojcPT3scPze4Ksu2c2V+UaX7Su87mB9Pd/eyvrfMsr5tLI3QXYqtEPyJmmhwXsvsvZauzScrlFom4TjyIMlNcvN7uaHwiCj2HgQ8m/sjSrgH73NFmEnNa/S5Rd8qNux0E3oOEy84K6zA/5OMZF3FJ7kGOCN/lth0sTOwow==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/EvenIntegerSequence.java
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 58
+        placeholder_text: /* Implement the EvenIntegerSequence class as specified */
+        initial_state:
+          length: 58
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: t1y88ERSge2vLKtq9bozRMg+ppY7+eYwomyWTR4Up8BspJaUv/26tIoKu2i4KJKsmr4Ov705+JI8c/69i7tnyKQS6e9rqSwB52WuZlSBh9OrTkX759t63BYO64bpsVD8g+y5y9e4+i9sFHb3UHnNGZTX2xM3B57UdfUH84aBy8WbuSBGKfVmwmiy1Aw0mmmKXZP4llyDhEkjWNbK4PpvA5q5BL6LFBbzntiMh84U35UqkyD6QZPZfjG0ueBvNaJosuej+Pkv7j7DQIKK4PUtp6S9IQN3/XEePZSNpmsK1p9YiNOC+wHvUIetgwNEjHBBYgd9QX2sI1v9N+QDsT0YhapqY37Z2LHQ1fsMrI7yhIj3lbdJZUwa6GLHJAYzTz4p2vfGTnKULiJZe8OB80byBf1wmihjp3PwvxzQIqLGWaEwjYV2ji056P/DMFJZrG3waci3tZTEGw3N2vNvIVfp61eq/VTaBr/Jx2aO6W/dpZs6oxQur/W6sC5ziiUx0TwZ3f8wABvBBjkJYg2sAXAIOu2aCgOMzIHqxEby7EyMMvhsseu6LsjAYGPFRAFqodVi
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/AnySeries.java
+    visible: true
+    placeholders:
+      - offset: 29
+        length: 50
+        placeholder_text: /* Implement the evaluate() method as specified */
+        initial_state:
+          length: 50
+          offset: 29
+        initialized_from_dependency: false
+        encrypted_possible_answer: 7ZkOH92nrc9LgO6nY0Zap1ER2KAsrmyyZN1q1YNGu45QXyYa/I4Te8NrYF9MLPCEYUMOgHaNrTDNaDDNWaCFVAoCVHOqoX5r4O6fJKtF07AW6fbPOcNhdW+Lu/VVBD8qMja3eEWCzyqfOcuvfB+a+lZr7KqhzjnmYlaLoNuYIpcN6eYv1R0XyDU2FlK9+Ig1BotuKDmdGlXKC7vwc0EqsFh28NbES1btHia/qqPM6pAfAu2zNSMrNyYu2DD1W9vTAh+BAJ4tUKB0Te3E55Of2z/4LhPRyCXqg2O7F4mIXpc=
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true

@@ -1,0 +1,35 @@
+type: edu
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 322
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 322
+        initialized_from_dependency: false
+        encrypted_possible_answer: tiF3nGPJ/cqwFgaTuS6iAkpWDYfcB+60VfQIip6HfCe60/nxbP0N0afNlOaUzETzw9oJuw8M1J+VLWLjNTLTCQ==
+        selected: false
+        status: Unchecked
+      - offset: 542
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 542
+        initialized_from_dependency: false
+        encrypted_possible_answer: tiF3nGPJ/cqwFgaTuS6iAkpWDYfcB+60VfQIip6HfCe60/nxbP0N0afNlOaUzETzw9oJuw8M1J+VLWLjNTLTCQ==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+  - name: src/lorem_ipsum.txt
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true

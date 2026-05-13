@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Les getters/setters sont toujours nécessaires.
+    is_correct: false
+  - text: A la place d'ajouter des setters dans la classe <code>Point</code> il est
+      possible de construire un nouveau point.
+    is_correct: true
+  - text: Les getters/setters sont nécessaires pour que la classe <code>Main</code>
+      compile sans erreur.
+    is_correct: false
+  - text: Les getters/setters sont nécessaires pour que la classe <code>Point</code>
+      compile sans erreur.
+    is_correct: false
+quiz_header: Sélectionnez l'affirmation correcte.
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: src/Point.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

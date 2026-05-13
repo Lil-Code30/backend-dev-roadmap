@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+  - name: src/Complex.java
+    visible: true
+    placeholders:
+      - offset: 200
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 200
+        initialized_from_dependency: false
+        encrypted_possible_answer: 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
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true

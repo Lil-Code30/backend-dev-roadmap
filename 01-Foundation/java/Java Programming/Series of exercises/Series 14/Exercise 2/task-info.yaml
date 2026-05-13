@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+  - name: src/RationalNumber.java
+    visible: true
+    placeholders:
+      - offset: 31
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 31
+        initialized_from_dependency: false
+        encrypted_possible_answer: PvBCwlUNXVOfzMH/T0x8zlqCxvH9q0I0BEPMxERIBPe2r/RpthyJW/hu0e4uSbvzOVOkumtLyakxOKbsdOmxRSNP6JuByspN4Z/Ob8+2uuwo1VUURpts/s1dmIPa0zibrhxx3DfErKYLPwFFMCJqFeB9/0VomOV9ixewZ0FBTjzwrpXm3oGI0lpLU4b/VohlaYQRTjeQuQRr22Rajm9sPuRKELmTtb3xI6xf8Ikm/D6NVUcAeRZHZ2pN8qk0inJqKVyB7WJdRGGBMHMGlBMZ8skz0n73VqxEss+lBpSy6q02h1momA6tPqN5Bl02jky/vTahZF8c5qzayNC5BItU6/gHUQBvPWmUavfsePnNLUPsWCxVpIYhLCvH2FMwTm8TY8HI6AVBM8GdT9FR6vO+r7w12br/dxTGiPnY5KBchi0aaCilTwR5TM+Fv8YewweelFwN33DaNE4qdBglqXOzn3k+HRNM+918MsRwR9KaGXGWpB2rN3KWFCGg6j50zA/fORQysZ78nzL+6bH1ty1tpPu2HZAr+hfETOyD1SkDDvv6jQJcMlaLw0KlUVKzxmCgkPKILQguThBP4plI+dHoxUyG0yQYUPZkXHtK14oPd7OaYfHjcSyG+cghkhAl6mblgHcZ9fS21ubN/gd6PXHYOi1Dv1Wkp0B/F9fdU8u2Wh72vHdiO5/bOjRWHMXKuAPZBZrC7dD/Oool28TMnxFoOftwese+YABYgEdGAsxuLIfR3XYhAcxdnluiuf4cxfNThIbjnA7WMuZslGBLLn2PTrs6q17ecO5y1e1eg66RHwrCBxi5aF6qqnNf2cXQ9pl1wk/VHqEr8hW5RzsuNiD90nMBrooWJmDDLUIVnor0jtDJlqeyOg20xkrBmHqBTy095TZENnzknJN/AndMHsU9VSb6JepBEoVkGjTmOYM51fCgev8R8KJzZiv8SiBBfMaqLa1PKf6PoWtmHrxV7iHhYfa1TIsr47OcFVLgLivf6uGKmZcCo7ucoUloU3Ss1s7wKuYUMB9OiNzNDc6AhFx4+0fqZCEhHXsqwbQqiSx5uAjDmzTTK3+6qYqNG1eAaqr/c29WpZm2uIUbYCpTdHPNenE4l6AK2orRUqbFY/mmdJsEkCIJuF60xMmNAmUtRCXaRXA33GJmYMcFkGHnHWdOb6uEd63zj91PU0g7axBoXVNV03vjVIGiZkcEW+TzE6oSvK9KWMTdKVgxUDk+QX17t+Xr+b6qFass8RZCzYx2GCltYcLXCWAsXKjz/pmyhLNW
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true

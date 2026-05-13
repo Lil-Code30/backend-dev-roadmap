@@ -1,0 +1,30 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: "A la ligne 22, le programme affiche l'âge de <code>myCar</code> qui vaut\
+    \ 1999."
+    is_correct: false
+  - text: "A la ligne 22, le programme affiche l'âge de <code>myCar</code> qui vaut\
+    \ 2014."
+    is_correct: true
+  - text: "A la ligne 29, le programme compare les références des objets. Le résultat\
+    \ vaut false."
+    is_correct: true
+  - text: "A la ligne 29, le programme compare les attributs des objets. Le résultat\
+    \ vaut true."
+    is_correct: false
+quiz_header: Sélectionnez les affirmations correctes concernant la classe <code>Main</code>
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: alias.PNG
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: src/Car.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

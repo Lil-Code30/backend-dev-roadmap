@@ -1,0 +1,27 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 114
+        length: 45
+        placeholder_text: /* Add the code for printing the rectangle */
+        initial_state:
+          length: 45
+          offset: 114
+        initialized_from_dependency: false
+        encrypted_possible_answer: 2eYwrC87bvNqhv1aSQCOMKPXrrYz/1X3wcK7btpIoRR6mv+Naa8cBgn/aF9ktAtJRH6SiZyLLLfjJi+yKuLKSReo3NMx0r4WmHVaG9/GMteUNrsZbE3+5dbAQV+eL5Uk3LOb3bIJDB0vRQt7NA4/g2pFQz/pd/mgwN34H8DeMDLkatOkYeuqFobMDGTMxNz7TxCkyXVEnywkn29/pqTaW1jHUro2sbbAExhrwd3xehSTDr58LkIsZueuAIlRNW0c64stMEPfqmEJI0shdZStWZbt4DhRcR/QAm+J7+o6CXfY2n0AjvQwTZWt1bgJhLqC9Ig3xKazz+auA12oKPz1D5zrOgyAWPisjr1strArRrZAToL+PqKN1IM540wehE30E9S2qyaw8pc88saJNXWDmt6FiHoRWNcT8Lf+a9mE/JkwRXQ/w0rNcteLZv9tbMAtRyqcQVG0o1VzyCM9wgyQ2+K4TIXjz5FOgnXzZsECQdy9sS65UxjAxd/TmRLXF7a8lThF5cs44Zm0cjME7190mw==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+  - name: test/latest_output.txt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

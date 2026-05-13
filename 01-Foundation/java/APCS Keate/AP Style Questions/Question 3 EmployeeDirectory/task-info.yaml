@@ -1,0 +1,24 @@
+type: edu
+files:
+  - name: src/EmployeeInfo.java
+    visible: true
+    learner_created: false
+  - name: test/EmployeeDirectoryTests.java
+    visible: false
+    learner_created: false
+  - name: src/EmployeeDirectory.java
+    visible: true
+    placeholders:
+      - offset: 1030
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1030
+        initialized_from_dependency: false
+        encrypted_possible_answer: t01QiFpIPmjiZf7ikmJ6NQCutdgyOylq6bhbSUR8MGCE7AKFrss53EdUqn5UkKElLwQX6PAjl78r1z2Xm1NucMUrBW5QUHfoEsEGf6SL/D65qo00tvxBsDggCAvyF+MBrm1NHpCAZdgozhZbJ/Cum8pn7+kyVfztz+B70TwBbx8NOcT/5zXMiYPX8ykvvcDt0T8RnMa8oU/YuUvQwn89KzMJzXhjX1r+b/47zvSlFQtBlv1Uz0Hn0ExDqpO7/P5CCwihjU/fwTKZTthGuLH6NGeElZPG6upanX4PH04OamgZqXzDpFPK0g6aqIpV3k3R
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1

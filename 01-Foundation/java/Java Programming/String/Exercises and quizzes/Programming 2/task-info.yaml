@@ -1,0 +1,24 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 69
+        length: 41
+        placeholder_text: /* Complete method using StringBuilder */
+        initial_state:
+          length: 41
+          offset: 69
+        initialized_from_dependency: false
+        encrypted_possible_answer: GQ8jMmnqSSCG4iXrJaL0YZz0JrNEPtuKHtmhBS6+8FbhCG+b/5XZH/fngchOxV/eL46t7ggAXOii78gYMJHS+9B5EUGGNMAsCFNylxmU08tthxnG233EDHXhjUDmPixfyes8lIVYPX08namc4wQUa74BAghxlkU70FP4RdRxmOtG/3rxguVQQzWIjjd6AuI9FFuSufdK3+bhOkmi9pRcpUq8H4XWx6JcHiaPHnO7W7KzcsCR/bkQHuZHGcDj72ABrh44WMZNdhSQPHFR9fYZeRI8PkrVzuP5FcVt/BxmCejEJuiFJ0I568480wBp5zCU
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

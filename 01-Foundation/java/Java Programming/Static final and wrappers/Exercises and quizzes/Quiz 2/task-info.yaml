@@ -1,0 +1,33 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: 1 et 1
+    is_correct: false
+  - text: 2 et 2
+    is_correct: false
+  - text: 3 et 2
+    is_correct: false
+  - text: 8 et 2
+    is_correct: false
+  - text: 8 et 3
+    is_correct: true
+  - text: 6 et 2
+    is_correct: false
+  - text: 6 et 3
+    is_correct: false
+  - text: 12 et 2
+    is_correct: false
+  - text: 12 et 3
+    is_correct: false
+quiz_header: Quelles sont les valeurs des attributs <code>a</code> et <code>b</code>
+  de l'objet <code>d</code> au terme du programme ?
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: src/Dummy.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

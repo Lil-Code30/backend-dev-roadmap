@@ -1,0 +1,29 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: FGH
+    is_correct: false
+  - text: FGGH
+    is_correct: false
+  - text: FFGH
+    is_correct: false
+  - text: FFGGH
+    is_correct: true
+  - text: FFGGHH
+    is_correct: false
+  - text: FFGHH
+    is_correct: false
+quiz_header: Quel est l'output du programme ?
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Child.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Daughter.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

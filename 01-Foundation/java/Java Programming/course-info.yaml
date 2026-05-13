@@ -1,0 +1,46 @@
+type: marketplace
+title: Java Programming
+language: French
+summary: |
+  This course is a support in French for the programming lecture (in Java) in the first year of the ISC programme at HEIA-FR.
+
+  This course offers exercises that will be done in part during class time. Be aware that the exercises do not replace the series.
+
+  The exercises present theoretical concepts using examples, propose programming problems to be solved and answers to be given to questions (in the form of multiple choices).
+
+  The prerequisites for this course are basic programming and mathematical skills. Object oriented programming is not a prerequisite.
+programming_language: Java
+content:
+  - Primitive types
+  - Operators and operands
+  - Style guidelines
+  - Flow control
+  - Methods
+  - Arrays
+  - Exceptions
+  - String
+  - IO
+  - Objects and classes
+  - Packages visibility and encapsulation
+  - Static final and wrappers
+  - Subclasses and inheritance
+  - Abstract classes
+  - Interfaces
+  - Nested classes
+  - Genericity
+  - Lambdas
+  - Enum
+  - Annotations
+  - RSA
+  - Series of exercises
+additional_files:
+  - name: drawings/transtypage_implicite.drawio.png
+    is_binary: true
+  - name: README.md
+  - name: build.gradle
+  - name: settings.gradle
+  - name: course-info-full.yaml
+  - name: gradle/wrapper/gradle-wrapper.properties
+mode: Study
+feedback_link: https://plugins.jetbrains.com/plugin/22499-java-programming/reviews
+yaml_version: 5

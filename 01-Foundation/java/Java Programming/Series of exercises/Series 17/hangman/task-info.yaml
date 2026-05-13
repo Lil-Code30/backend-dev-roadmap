@@ -1,0 +1,80 @@
+type: edu
+files:
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+  - name: src/Hangman.java
+    visible: true
+    placeholders:
+      - offset: 1218
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 1218
+        initialized_from_dependency: false
+        encrypted_possible_answer: CRFcZ7bKljk4uFQkXw88jYbeVjKh/CI6zux6IlFkcd4=
+        selected: false
+        status: Unchecked
+      - offset: 1382
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 1382
+        initialized_from_dependency: false
+        encrypted_possible_answer: 4mhSnL81FbprPYlYTnGEXLnBfhrF5NvPehDn2FTMccc6Jz0XgVEPMck111idb+XB3/20e8ZU8s38NkRH9TkhhpN0INNDVa1t5SpHUi9KmfPHkA8QpK8aNj/CXQUpyj9J97WjKk0a01izvgKJ80mtPxCJscSUQr3/bPb6bWXTX6iVHhv9ih6PNjREZEdYXuYMsmvZObD6P9XUDYkalo3NCvFcrUbNxJUBvDa8948mstM=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/HangmanDemo.java
+    visible: true
+    learner_created: false
+  - name: src/Letter.java
+    visible: true
+    learner_created: false
+  - name: src/PlayedLetter.java
+    visible: true
+    placeholders:
+      - offset: 115
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 115
+        initialized_from_dependency: false
+        encrypted_possible_answer: rydaPfk0X4RmkWkdkoZFECzBTAnHNZ75PAuDPqOmhDS20T1M+jRPpbmPPQpj4PCSoxVwU0fs72m2ojCQNBhXOeL2UjK9FWIQN74vaxY1ssU=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/SecretLetter.java
+    visible: true
+    placeholders:
+      - offset: 106
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 106
+        initialized_from_dependency: false
+        encrypted_possible_answer: qdVovOx4tCTD7ijiTSB4McEiQ0jn1ftqIZvXmDdX/D1+6LdmlnbHIkftmKCGgWUFDTNts0rnca+PmpTKej10MsUIxxKSsw85E5Uf4TV2wXuIzH2YCfZZg8kUrTWg60jCO/5MoQGgdAJTTr62vwz2whk0EwK745bMvU7M+vxIPzg=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/WrongLetter.java
+    visible: true
+    placeholders:
+      - offset: 114
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 114
+        initialized_from_dependency: false
+        encrypted_possible_answer: rydaPfk0X4RmkWkdkoZFED6RuyYYFXWLgPrGJeFdDvNC2bUtp4dK3JRyEelNnoS/o6rz5TUhQCReUfa3lU9av1ha+xAIslYAo2B+ebg3/ns=
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true

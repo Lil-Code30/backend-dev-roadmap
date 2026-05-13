@@ -1,0 +1,57 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 2091
+        length: 94
+        placeholder_text: /* implement the call to processElements with a lambda expression
+          and a reference to method */
+        initial_state:
+          length: 94
+          offset: 2091
+        initialized_from_dependency: false
+        encrypted_possible_answer: gFa6CKsQP97VxeZpPfQadYQpdmP9sZg1pdNbhYasPXjzE3Lz0buYLEtmNBYB61qQTEbdsI6TVnco5wnePNbTnXl8aS/6k2pY+/FKQuCXXzKRhKd+xNSM0G11RXJMGRWjuxeMQpCvdrqkFT0PBjT1vQ==
+        selected: false
+        status: Unchecked
+      - offset: 2286
+        length: 94
+        placeholder_text: /* implement the call to processElements with a lambda expression
+          and a reference to method */
+        initial_state:
+          length: 94
+          offset: 2286
+        initialized_from_dependency: false
+        encrypted_possible_answer: gFa6CKsQP97VxeZpPfQadYQpdmP9sZg1pdNbhYasPXjzE3Lz0buYLEtmNBYB61qQg1CvZjisjfojr+eSJD8Zdl5c0/oJrl75NlVysB2LclK03A/a1/iM2ISbo3WxmRBiMCoNonu4Dn0uRGhwV7a6KEOhXPdLheyli0X1RflbRDU=
+        selected: false
+        status: Unchecked
+      - offset: 2517
+        length: 47
+        placeholder_text: /* Define a predicate that checks for gender */
+        initial_state:
+          length: 47
+          offset: 2517
+        initialized_from_dependency: false
+        encrypted_possible_answer: +4zR3wrbedXcL5W2b5Ip5KCERlSDAU6AWzXOFHBQ9AYlZ4YhhYMze9Y6tjxl43qZnkxk59l4X8bKHio/JIr+qg==
+        selected: false
+        status: Unchecked
+      - offset: 2571
+        length: 119
+        placeholder_text: /* implement the call to processElements with a lambda expression
+          using and() on predicate and a reference to method */
+        initial_state:
+          length: 119
+          offset: 2571
+        initialized_from_dependency: false
+        encrypted_possible_answer: gFa6CKsQP97VxeZpPfQaddOPSSrDgVHg537SmguKjwyYHif2yzIz0nPYqtVmzlJGpVZDYvRZSRqvxxsgG951cUO46oPuT5X7suhUfjh6NlP2MvFvDGorwkJHS8TgIRyK
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

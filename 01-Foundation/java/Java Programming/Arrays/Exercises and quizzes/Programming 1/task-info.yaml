@@ -1,0 +1,54 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 117
+        length: 17
+        placeholder_text: Define array type
+        initial_state:
+          length: 17
+          offset: 117
+        initialized_from_dependency: false
+        encrypted_possible_answer: KTgsNHUR7APfH457Pl9aWw==
+        selected: false
+        status: Unchecked
+      - offset: 143
+        length: 16
+        placeholder_text: Initialize array
+        initial_state:
+          length: 16
+          offset: 143
+        initialized_from_dependency: false
+        encrypted_possible_answer: 8fVCoxLQE1v3v/mXE9E4Tw==
+        selected: false
+        status: Unchecked
+      - offset: 170
+        length: 32
+        placeholder_text: Complete the for loop parameters
+        initial_state:
+          length: 32
+          offset: 170
+        initialized_from_dependency: false
+        encrypted_possible_answer: TIf9hOpwB+4PVjaE1sCN1/QjnP6hkbUs1o950vjRMvrXxqxTJlXNRog+RqMXrqZt
+        selected: false
+        status: Unchecked
+      - offset: 215
+        length: 44
+        placeholder_text: Write a statement to assign the array values
+        initial_state:
+          length: 44
+          offset: 215
+        initialized_from_dependency: false
+        encrypted_possible_answer: jZLpb5SrJEGBheoFSDQ2Tk0IqzTp5B7BpGxBZMWZ124=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

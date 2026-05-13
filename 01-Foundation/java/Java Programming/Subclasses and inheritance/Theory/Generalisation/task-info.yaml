@@ -1,0 +1,28 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Il est toujours possible de convertir une personne en un magicien ou un moldu.
+    is_correct: false
+  - text: Il est toujours possible de convertir un magicien en une personne.
+    is_correct: true
+  - text: Il est toujours possible de convertir un moldu en une personne.
+    is_correct: true
+  - text: Le downcasting ne pose jamais problème. L'upcasting peut lever une erreur.
+    is_correct: false
+quiz_header: Sélectionnez les affirmations correctes.
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Person.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Wizard.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Muggle.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

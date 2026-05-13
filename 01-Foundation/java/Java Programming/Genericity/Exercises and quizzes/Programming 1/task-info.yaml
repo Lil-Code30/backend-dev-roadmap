@@ -1,0 +1,95 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+  - name: src/ch/heifr/tic/Player.java
+    visible: true
+    placeholders:
+      - offset: 43
+        length: 35
+        placeholder_text: /* Write Player class definition */
+        initial_state:
+          length: 35
+          offset: 43
+        initialized_from_dependency: false
+        encrypted_possible_answer: K5la4IwiP95EyqfYrZhLJm4+DwMuwp3iEgilPBhcM97vlxkp6eKJIn8ybBjPW/rG
+        selected: false
+        status: Unchecked
+      - offset: 316
+        length: 32
+        placeholder_text: /* Write getPosition() method */
+        initial_state:
+          length: 32
+          offset: 316
+        initialized_from_dependency: false
+        encrypted_possible_answer: SEH7fj85qzh9FgyAqJ0DELCNPf99BEdEOfrx544H6xJnG8WcrfUPAktrex2zydicxs6m7PmP4k1ZV8+/Pyd8IhDhkmwFZzxp2TSjzr7Xchb4TM2qBQ710I0tkceem3Ou8u/GJEv4lkzr6HexgN/CPA==
+        selected: false
+        status: Unchecked
+      - offset: 350
+        length: 25
+        placeholder_text: /* Write move() method */
+        initial_state:
+          length: 25
+          offset: 350
+        initialized_from_dependency: false
+        encrypted_possible_answer: SEH7fj85qzh9FgyAqJ0DEKDBk19qfjnvRxwe4zd63B2Lhyi3K6UnNKydaoqp7vZvfQ6foPCBgTQZc4eFZ6SE9TcQxqmuvNtwtpMFfDMp2OJhCkoNpGnDNFxP9a5SyO7fWMjmiHFZf3pCKTOjhy0I1EjXGfoBYYQ/uhRuNtP2MsJisAkzOC1H46kC/YQNem1J
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/ch/heifr/tic/Movable.java
+    visible: true
+    placeholders:
+      - offset: 23
+        length: 40
+        placeholder_text: /* Write Movable interface definition */
+        initial_state:
+          length: 40
+          offset: 23
+        initialized_from_dependency: false
+        encrypted_possible_answer: +IszU2sLU405ZWI8OEONm0ZXcUwEgDefUg00v5NK8mId2QziRVwJoT89eh4HDaKj
+        selected: false
+        status: Unchecked
+      - offset: 66
+        length: 29
+        placeholder_text: /* Write move() definition */
+        initial_state:
+          length: 29
+          offset: 66
+        initialized_from_dependency: false
+        encrypted_possible_answer: CgpjT9gxUKDZUFHAZcF5qsO7FEQsyQiEaYMn8Hw+a5E=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/ch/heifr/tic/Localisable.java
+    visible: true
+    placeholders:
+      - offset: 43
+        length: 44
+        placeholder_text: /* Write Localisable interface definition */
+        initial_state:
+          length: 44
+          offset: 43
+        initialized_from_dependency: false
+        encrypted_possible_answer: k8j4CUsvB98e6h7I5FlOX4x9VItIzzNcMOcf1rtdtBJwQgO5i2UPhbEsf0WSIJS+cpUJ1hczF3cKTGlVO4zW9Q==
+        selected: false
+        status: Unchecked
+      - offset: 90
+        length: 36
+        placeholder_text: /* Write getPosition() definition */
+        initial_state:
+          length: 36
+          offset: 90
+        initialized_from_dependency: false
+        encrypted_possible_answer: UzciQH7eDzcjNtdQTg5G7nH3m4zaZHRTVWf707EBlpE=
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1

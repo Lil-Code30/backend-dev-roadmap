@@ -1,0 +1,25 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 108
+        length: 64
+        placeholder_text: /* Implement the method by traversing the bidimensional array
+          */
+        initial_state:
+          length: 64
+          offset: 108
+        initialized_from_dependency: false
+        encrypted_possible_answer: rql4W0Wez9uNdiyzNb7PrQBct3gVqlHeOO6I1gwb5cpv2NaRnNnNAZ7q5wd/6yQrUK1g2cpitCAj1R6uObOXL6RDZdvGEdF2kL04O23z3cRE45VNhOaUyOyVC619apdPQXOqNeP2NZlwVW6BpaJm/9InKaYc2HxMBVa2sBBz71s/2RKHjOzuK/fQOg0LVf8s0zlBg0rE5rAKzbm5HeFXGzl/5PSvSN37nQanqMvmmAGBu0tQnJ1PhUyvt+2zuPrL1+T/qePetMSbArAQ6Kx79C8UWrAu8pjfD5MDPwnJeck=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

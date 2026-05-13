@@ -1,0 +1,31 @@
+type: edu
+files:
+  - name: src/Task.java
+    visible: true
+    placeholders:
+      - offset: 500
+        length: 47
+        placeholder_text: /* Complete the implementation of the method */
+        initial_state:
+          length: 47
+          offset: 500
+        initialized_from_dependency: false
+        encrypted_possible_answer: m0AzkLNHM81FegakcG4YDptv+YNBM8+fTwwRqnB2nYcM8EK1sekkduSgKWycW/qfPU0hSnKwU5jCM51cwltXRkCmSd5cstJHx+o5IpnDxKA=
+        selected: false
+        status: Unchecked
+      - offset: 869
+        length: 45
+        placeholder_text: /* Modify the call to callItSeveralTimes() */
+        initial_state:
+          length: 45
+          offset: 869
+        initialized_from_dependency: false
+        encrypted_possible_answer: 5qiT0LFAj44oePrGWv9LZpq8wGLn9udatUnYnkRNhhsMWHxGPBMk+azvzupPzKmyLe2pD2+7LusG3mYjpYj4iZrSwPLTElvctYqUqn3gwaxr58pI8XH6CG1RWEAL3lJS
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

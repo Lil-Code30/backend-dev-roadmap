@@ -1,0 +1,81 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+  - name: src/Compass.java
+    visible: true
+    placeholders:
+      - offset: 52
+        length: 36
+        placeholder_text: /* Complete attribute declaration */
+        initial_state:
+          length: 36
+          offset: 52
+        initialized_from_dependency: false
+        encrypted_possible_answer: uqvXRkIkOwX2SMDCOTftA/hQfi5ztHNeptOTyK8XQn6v7glDoooSUC15wWaBpS+H
+        selected: false
+        status: Unchecked
+      - offset: 103
+        length: 36
+        placeholder_text: /* Complete attribute declaration */
+        initial_state:
+          length: 36
+          offset: 103
+        initialized_from_dependency: false
+        encrypted_possible_answer: uqvXRkIkOwX2SMDCOTftAzIlzDJJegryHEQF0GjLlIY=
+        selected: false
+        status: Unchecked
+      - offset: 153
+        length: 36
+        placeholder_text: /* Complete attribute declaration */
+        initial_state:
+          length: 36
+          offset: 153
+        initialized_from_dependency: false
+        encrypted_possible_answer: uqvXRkIkOwX2SMDCOTftA728QKzKS1QyYVecnfLOLKZ74HT4H8O4I+nVDdQFAt5G
+        selected: false
+        status: Unchecked
+      - offset: 204
+        length: 36
+        placeholder_text: /* Complete attribute declaration */
+        initial_state:
+          length: 36
+          offset: 204
+        initialized_from_dependency: false
+        encrypted_possible_answer: uqvXRkIkOwX2SMDCOTftA30Ro0yEh7wjgD9zVkexhNc=
+        selected: false
+        status: Unchecked
+      - offset: 681
+        length: 36
+        placeholder_text: /* Complete getDirection() method */
+        initial_state:
+          length: 36
+          offset: 681
+        initialized_from_dependency: false
+        encrypted_possible_answer: +SbLCqxpGGEFcjJxiNJTmRNTdq+jOVPBWF7tnSwCiZi06EN22DG+PbRjvBPY3qyWdz9HofOR34xxyYfmSPNYWi13ydjNi5Yiuaa1CYliTjG/RhjYEcElXa3yo9lkTCAgESYAJuh2dFO4z+qJOA6qRgfnpwmG/exwTJzhk3WDAKaHG+ByltwT5Ajjs1CB+YR2ShesiDQ5Lys/d3NG16OzfqhynWzLCBPhBfddjTeWzE2vmJ4EREEGW+7D38uEHsvFJSntTaZQbCi3h41YxXk3wFTodFoOZ/ooGQBHbhbBGMYy2oHlfaI9ysxuaa93tEOVMtBMv+okGjn0v7zpBcj4nFZ6ZWAdQi5PwArzuVlVEM6q3fYw7K0whde/KnT7kgmU
+        selected: false
+        status: Unchecked
+      - offset: 1392
+        length: 38
+        placeholder_text: /* Complete stringToDegree() method */
+        initial_state:
+          length: 38
+          offset: 1392
+        initialized_from_dependency: false
+        encrypted_possible_answer: on/sur0CWG0ibtaPUp4I4d1JHU8JXML2icosHTQAZh898d4gbtqTXYWftCTeUJsgmcvapyx4W2O3PG6XVxrpYcVp+5uB6wxZ7HtNOiE4jP4yOfcEPooq2kfVz9GkCs8FgtxQP7hWYWIdju7Kd3GyUmWSORCuw06Kj6JV4KgmIAOFU1oALO1lmWdYaFkbYUknOkUPIz9pQteYX4/X4wwNF0wkt5g5z+izJPte1UcwMgKYYAFQ8JRhrAj9mooE5iLOkTfrDOhdyvZf4DXx4UMjOEmQfe/ZnF6qO4CWcKKF5SZQth/l4HL3ItNsk+LzBEA8knquU5AOeEWZUn8tpRC9s27sKi5Y9WXtZHI7+mVxifg=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: compass.png
+    visible: true
+    is_binary: true
+    learner_created: false
+status: Unchecked
+record: -1

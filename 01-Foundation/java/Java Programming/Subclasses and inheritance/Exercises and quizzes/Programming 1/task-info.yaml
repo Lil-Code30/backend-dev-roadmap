@@ -1,0 +1,107 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+  - name: src/ch/heiafr/tic/Form.java
+    visible: true
+    placeholders:
+      - offset: 209
+        length: 20
+        placeholder_text: /* Write modifier */
+        initial_state:
+          length: 20
+          offset: 209
+        initialized_from_dependency: false
+        encrypted_possible_answer: ulGneMT3pRDBYFty2bd4mA==
+        selected: false
+        status: Unchecked
+      - offset: 288
+        length: 20
+        placeholder_text: /* Write modifier */
+        initial_state:
+          length: 20
+          offset: 288
+        initialized_from_dependency: false
+        encrypted_possible_answer: ulGneMT3pRDBYFty2bd4mA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/ch/heiafr/tic/Triangle.java
+    visible: true
+    placeholders:
+      - offset: 46
+        length: 31
+        placeholder_text: /* Write necessary statement */
+        initial_state:
+          length: 31
+          offset: 46
+        initialized_from_dependency: false
+        encrypted_possible_answer: SyQ6Hqv1l9YuYDPtSbW4Gw==
+        selected: false
+        status: Unchecked
+      - offset: 131
+        length: 23
+        placeholder_text: /* Write constructor */
+        initial_state:
+          length: 23
+          offset: 131
+        initialized_from_dependency: false
+        encrypted_possible_answer: wE6C8j7mLrqYWl2KvGT6PYyEIToZzfvfuzQUYLeQ7n6IvoL79ogvkN7w775q5jIrca76TqovyDTpXG2rvhoQ9i8ZrglWceo1CZmZWSx56pM=
+        selected: false
+        status: Unchecked
+      - offset: 156
+        length: 70
+        placeholder_text: /* Write the print() method (don't forget the @Override annotation)
+          */
+        initial_state:
+          length: 70
+          offset: 156
+        initialized_from_dependency: false
+        encrypted_possible_answer: SEH7fj85qzh9FgyAqJ0DEM4pNesFPMDo4zy3YdpPW7iiz7WkXB2aO0uGPa/KKeO2mPW+rklQCdo+9bkFXtJHemkhryhNGoWu+VGlfVHrydKoq8mD4/Cdr/KLaArGnn6F1pIWeFp4zQ0j2VuTME0u8dCYh0JiVU3SC6Qw+Af2TSMTsTfe3Ps8OV92t+MFoMcik4a6y4FLpyiMaglvYuCSMGMMc2o6RKP8P9tUkx+g5uSbhtwj+TqMsrAoXXWawC7mHfC+rebWbykULwGdUVr/WIadlE6x222hGnprMfm7xsFXmDcVtMWJENzOL4CC6ubfh9ZJ7rrLjcaOhmM7jiw9ttFb8pnaWILhxj2Qwc41ZA+xjDx4pmZoJNoPRzGlxuNQwBfxRL03ceOj1vduH8IuuOQHScl6r5RDBUv0ETJAvhAHWKREB05/bDJyfASMJ/jsRFi8xV8vesdutwOBz5gN0WqSlHfLz+RO+l48QbRR/nPoKFWPTEqAcaipJfNC5B6hnD2K9sJ7QDdP1Yn75Varbqy5jP0nV+iguxW8Y6baAS5HhblRK8QjuPTTUdSilURO
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/ch/heiafr/tic/Square.java
+    visible: true
+    placeholders:
+      - offset: 44
+        length: 31
+        placeholder_text: /* Write necessary statement */
+        initial_state:
+          length: 31
+          offset: 44
+        initialized_from_dependency: false
+        encrypted_possible_answer: SyQ6Hqv1l9YuYDPtSbW4Gw==
+        selected: false
+        status: Unchecked
+      - offset: 129
+        length: 23
+        placeholder_text: /* Write constructor */
+        initial_state:
+          length: 23
+          offset: 129
+        initialized_from_dependency: false
+        encrypted_possible_answer: xpRs/WPrhG5xHG8AmqaKA45G3ZXK93JrXRekS3q3zw8lWjM76nk/OW5tdfusHDDrtrsaM+N+FQNw2XgP41NG4g==
+        selected: false
+        status: Unchecked
+      - offset: 154
+        length: 70
+        placeholder_text: /* Write the print() method (don't forget the @Override annotation)
+          */
+        initial_state:
+          length: 70
+          offset: 154
+        initialized_from_dependency: false
+        encrypted_possible_answer: SEH7fj85qzh9FgyAqJ0DEM4pNesFPMDo4zy3YdpPW7iYTQwt4Ry2OK5bUyYJDfABWfrGRze2/H06zEmiLnIO54JInSLrtEpQAq3ZIPpQCW2ktFZ+Y8/HCDFpueQgj7I97or7JQ/4ICpfKpafFXcACTl1LhOSkaVSrexSkbVkG984oflECpZfjINrQ8eDvqEq0UcBRkM9mSSdPFoardLH0SxlhRRJO1M1JDGmoZBSrPPdc8brw+YOtssWFtJVb7YCLK6RvfzDABS8Oe8jGfNgMrBWdZZWZSiizSZnYGJj82E=
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1

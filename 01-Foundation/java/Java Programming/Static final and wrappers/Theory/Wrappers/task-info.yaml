@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Il est possible de passer d'un Wrapper à un type primitif et vice-versa.
+    is_correct: true
+  - text: Les types primitifs sont des objets.
+    is_correct: false
+  - text: Il est nécessaire d'utiliser un wrapper pour transformer une variable de type
+      <code>float</code> en une variable de type <code>String</code>.
+    is_correct: false
+  - text: Les wrappers sont mutables.
+    is_correct: false
+quiz_header: Sélectionnez l'affirmation correcte.
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: wrappers.PNG
+    visible: true
+    is_binary: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

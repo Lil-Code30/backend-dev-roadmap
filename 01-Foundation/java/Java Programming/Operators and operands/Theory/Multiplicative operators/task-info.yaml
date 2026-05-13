@@ -1,0 +1,81 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 94
+        length: 59
+        placeholder_text: /* Add a literal value for printing 192.0 to the console */
+        initial_state:
+          length: 59
+          offset: 94
+        initialized_from_dependency: false
+        encrypted_possible_answer: /XDLVwx1PQ+8UvLEsAlszg==
+        selected: false
+        status: Unchecked
+      - offset: 184
+        length: 83
+        placeholder_text: /* Add an operator and an operand (literal value) for printing
+          21 to the console */
+        initial_state:
+          length: 83
+          offset: 184
+        initialized_from_dependency: false
+        encrypted_possible_answer: KgHRMQ8unZasZYJTGLW7Bw==
+        selected: false
+        status: Unchecked
+      - offset: 298
+        length: 51
+        placeholder_text: /* Add an operator for printing 1 to the console */
+        initial_state:
+          length: 51
+          offset: 298
+        initialized_from_dependency: false
+        encrypted_possible_answer: 3etmF8LJ5WTh3phoMzu9+w==
+        selected: false
+        status: Unchecked
+      - offset: 379
+        length: 77
+        placeholder_text: /* Add an expression with a division for printing +Infinity
+          to the console */
+        initial_state:
+          length: 77
+          offset: 379
+        initialized_from_dependency: false
+        encrypted_possible_answer: CIEvYfDPsoMj5TPu8mGiKg==
+        selected: false
+        status: Unchecked
+      - offset: 484
+        length: 77
+        placeholder_text: /* Add an expression with a division for printing -Infinity
+          to the console */
+        initial_state:
+          length: 77
+          offset: 484
+        initialized_from_dependency: false
+        encrypted_possible_answer: OarGSQm4vd1OzNKhlQo96w==
+        selected: false
+        status: Unchecked
+      - offset: 589
+        length: 71
+        placeholder_text: /* Add an expression with a division for printing NaN to the
+          console */
+        initial_state:
+          length: 71
+          offset: 589
+        initialized_from_dependency: false
+        encrypted_possible_answer: XKqunozF/MThazDHqWC95w==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+  - name: test/latest_output.txt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

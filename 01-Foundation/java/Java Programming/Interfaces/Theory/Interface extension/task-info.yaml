@@ -1,0 +1,36 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Une interface peut avoir plusieurs super-interfaces.
+    is_correct: true
+  - text: Une classe peut avoir plusieurs super-classes.
+    is_correct: false
+  - text: Une classe concrète qui implémente une sous-interface doit réaliser toutes
+      les méthodes abstraites héritées par la sous-interface.
+    is_correct: true
+  - text: Une classe qui implémente une sous-interface sans réaliser toutes les méthodes
+      abstraites héritées doit être déclarée <code>abstract</code>
+    is_correct: true
+quiz_header: Sélectionnez les affirmations correctes.
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Transformable.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Scalable.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Translatable.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Rotatable.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Form.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

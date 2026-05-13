@@ -1,0 +1,35 @@
+type: edu
+files:
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+  - name: src/s16/vobject/Rectangle.java
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 49
+        placeholder_text: /* Implement the Rectangle class - version (a) */
+        initial_state:
+          length: 49
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: zJu72+4RUtvqMYzvFyykTNFDeAEM113HG36cQXa9T7gOmEUfgTaVarYUIM6YXfiL7Jdb4MhIkqx3p2H5j766fSS5xaqnJmZGw9mRwTGjI8XMWchZVsV4GAeW3Lqg7wKmeA1O0RUmTIXYbUyRpx9LdWqSU+7i/DrowopXGayAjh+KUffkpmOsmp9iXq4WgnOWibuT7+Bs4DA3LX2cJLHuBdKAILrV6qBlm6xp2KRqt8xwWUok1CWHDsNZFMSgiho0j6bUbllqhYINqhizlVCeaoBE3iCB9CktwuVx0uh0N7WvqlXU81LPkml8z9nVJg0JCDgBCMTIcFY1CqJY0ZmgZlLMDlzd/1DJnnNSq3V6q9Kusf13F5HYdMuZregL8ykt65zwhONCwlQPmKVp9eNZ1eVFDj2TcwgWlRpyRp+FiFyijYovGA/n6cbpHnzuTcHhRJzrwStM+FbU2Bb4D4HmqtlEj27wy35qr334qMOloE5nWpnEqDrTmeNnSTuTSqop6o1hMycZL0CCOk+CRV43av9+LGqIQmrmKpwzx8gU/H1NI03/WlIAfmpbosfN0I6ezXFRii5soNUE/Q3IsfQxe7MNbQaCOq8Xch84VGht+TlSrlAS8zeWSldV4bEOUqxB6k+P3BvhHQUPAYo8HaZfdeeC5GG0Lo+g8Wi9YzWD+ti9zKg5MK3g7iWeQ8Oa9GkSAfYwcPvEH93/iIoFu2YKV0BRTd+OPQey1EvRSUXp4XBh2H6RabpvJ6Z23Es+brhFdjK3Zdzg9Y7yIYl4s6Wa0DR6+KBYsDAap8Jx0qZL5TYpvjfsWFzhXalu1iimSZogH2dFPuV85iAJ8s6MaChxpUwyACViF+zvJbh8HmiH2qa5E2Had3UYKMBCq7eGPGXB
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/s16/vstatic/Rectangle.java
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 49
+        placeholder_text: /* Implement the Rectangle class - version (b) */
+        initial_state:
+          length: 49
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: +iPbWnQETQSrujpsANccYg826vyh0LNgYMaciWoQrGPkNIStjO8P0TaIuzcYJe9hTJeYsTDQpc0/7UnRXfyWZWeTqV6hiKGDcrT3GTc0jS0DD3RLd0tg2b78NXh1oXZhY6oGmJKWpuBJFaucXeYeByeLy9g1xnm+EUZRlyKbK/kGy+fg0jCZaj9wmsgz6Ca9wsNz25X/vrtMjtv4VjObjR+eou1EhK5q576wK7P4VocVfjzlsio9vqTjBg2snEZphfofNg6udx/X9GQ0DEyG0JDu3JEIfPD0Xpb6KThmp9P4Dp0rPNv5VvZCtf6yIOO7ygd72pRayZfVWl6E/vjV5zgB/lPoFyq3JDFLRW9yLbzBDVD/l0lHax5mrKkQHPuIm4VARHbffLdTHBpv/vNsJUMCnUdHs0NWIRsGVSVI5L572akXnrthGi9AU3nlsbEOppCnH4wIQjk+FEWcu4uPgq6oPBZenQw2ou+iICue/neA6rn/0dXLg5K7igJoov+lKQvAdFKkcqx+fnbZbNAI8Ig9L4Ks2aazku3iQOMzd1eiOKtgWI77EvdhTUxTvKOjRxqKaQHgQvBeLEj0CD6Mjd3JhJv4Gs4ChEX+80pCYxuwWoOe7kYPDPEtU+RN8ypp/siz+UrzYpMwVbJd/pvutFirk1j6BwP53ysM3KrQc9mYztxntT7Z94DThWCPD/X6crH6SAIjpZ1KQ6XPTZ9WZiCWNtGi6CcYZCYh7UAU98uXLv6e+rkly2OSbuNceEMx0/DzcyobTbF2nyUk/IdTmdWCTZEc3rCNNTeK8JnpPBywVrFTE+WtdZasAq9TVlz9Ve/fjTSjIxf5YGYmK2f6Jie3dwR1xI+gEcG5f66GKNxodz5PGxkvlfY5mbMKeCufCxwpoZQg5AbGLW1ZWUlte4CdpIvzDIRhQvXSVN4CbG/4k8xMm0kAuELQoNXzXjLSr75VFufoAwHlqJB9Gcs/5vcga+3c/nPoffD60yXXOYvtGuaRqG6T50f8JquwBX26ij405UCp/nLpPE7AH63swzMlUhxTipaDVH9gO0UutqH8oXMu9Htbl3CfR6yngvecg81HNoBl4Q3tmR7MMQuF4gwNhffkyrvkpkmgRXaBPpJuwdbqRhmXTchKV87b7BwZXYqPLHvW0nB4n+1RISupGpaPW32X4429uSkd+cyP2Mc=
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1

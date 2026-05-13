@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Il est possible de modifier la valeur de <code>PI</code> après son initialisation.
+    is_correct: false
+  - text: Il est possible de modifier la valeur de <code>radius</code> après son initialisation.
+    is_correct: true
+  - text: L'attribut final sur un attribut de type objet empêche la modification des
+      attributs de l'objet.
+    is_correct: false
+  - text: L'attribut final sur un attribut de type objet empêche la modification de
+      sa référence.
+    is_correct: true
+quiz_header: Sélectionnez les affirmations correctes.
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: src/Circle.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

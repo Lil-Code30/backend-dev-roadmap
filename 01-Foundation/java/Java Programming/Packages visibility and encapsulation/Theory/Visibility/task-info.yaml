@@ -1,0 +1,70 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: <code>B</code> peut accéder à l'attribut <code>private</code> de <code>A</code>.
+    is_correct: false
+  - text: <code>B</code> peut accéder à l'attribut <code>protected</code> de <code>A</code>.
+    is_correct: true
+  - text: <code>Main</code> peut accéder à l'attribut <code>protected</code> de <code>A</code>.
+    is_correct: false
+  - text: <code>Main</code> peut accéder à l'attribut <code>public</code> de <code>A</code>.
+    is_correct: true
+quiz_header: Sélectionnez les affirmations correctes.
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 141
+        length: 39
+        placeholder_text: /* is int x = a.protectedA possible? */
+        initial_state:
+          length: 39
+          offset: 141
+        initialized_from_dependency: false
+        encrypted_possible_answer: 9DKMbxWl7M1UXFos+vHxnClwcH1V3JN5t0napi+Mrxc=
+        selected: false
+        status: Unchecked
+      - offset: 187
+        length: 38
+        placeholder_text: /* is int y = a.packageA; possible? */
+        initial_state:
+          length: 38
+          offset: 187
+        initialized_from_dependency: false
+        encrypted_possible_answer: eCZIf1MFyS4jzoTZABN2wofXzBjIiKvZDzO7oCRffx4=
+        selected: false
+        status: Unchecked
+      - offset: 232
+        length: 35
+        placeholder_text: /* int z = a.privateA; possible? */
+        initial_state:
+          length: 35
+          offset: 232
+        initialized_from_dependency: false
+        encrypted_possible_answer: QsZklzh+yyTTDPmzGpaSVixN+MP6FKTdfpwtIEN0oek=
+        selected: false
+        status: Unchecked
+      - offset: 274
+        length: 33
+        placeholder_text: /* is B b = new B(); possible? */
+        initial_state:
+          length: 33
+          offset: 274
+        initialized_from_dependency: false
+        encrypted_possible_answer: V8zP7B+z0jj1vSMyod8LSzOHdc/uqq8N24tR+avnaBk=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: visibility.PNG
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/A.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/B.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

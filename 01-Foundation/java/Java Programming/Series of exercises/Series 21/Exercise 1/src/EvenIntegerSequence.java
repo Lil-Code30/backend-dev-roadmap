@@ -1,0 +1,1 @@
+/* Implement the EvenIntegerSequence class as specified */

@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Le code fonctionne de la même manière avec ou sans annotations.
+    is_correct: true
+  - text: Une annotation n'a toujours qu'un seul paramètre.
+    is_correct: false
+  - text: Il est possible de répéter les annotations pour une même déclaration.
+    is_correct: true
+  - text: "Les déclarations de classes, méthodes, attributs ainsi que les types peuvent\
+    \ être annotés."
+    is_correct: true
+quiz_header: Sélectionnez les affirmations correctes.
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

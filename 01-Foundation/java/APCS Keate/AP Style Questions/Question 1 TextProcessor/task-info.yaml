@@ -1,0 +1,34 @@
+type: edu
+files:
+  - name: src/TextProcessor.java
+    visible: true
+    placeholders:
+      - offset: 828
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 828
+        initialized_from_dependency: false
+        encrypted_possible_answer: jvYiuUznVLRb4PU+TJ+zvOdOjjMwoy0c5zdgUr/hH+rXxxOzvlb+Ds69+S+OSPpTfdPPL/k+OFtx3fhgAguArCunJ2VH/9rQwNQyvLqExJiajsQTcR5ZKnEgnxUKXNuB7XbxVW5N61Ee5E/qlt+o905Z3Ak0LvnLSiFjW/2tQxTWepfV8D2szOehhDNzhEsr6Bhhv02IgdqTZ84D8ZeSADGukZ55chYLl9wOfKiwFBLmoitdIPffETEgijBJewqyluh5zAsuasjb0bkqwDLaJbTY0rqnfpGmn+oMZv70+UtFN0jvB9cEgVWBw2l0S4nF5gypBNI9ESmPp30T8Y1NCEteizvoiQqXKZbBSm/1QbxJWd2gwc32UlNvki4Z53I9s37KeFlFPtu2d6g3f0wSDhgsNX5NXef+nIc3jmmOvSWMUNLFvSyF7h5itGe97uMJpkia8aVrTxMpHW0gbyB69VZNjYYWlFt6PmyNMv+hnedPoWJrcvexD6PN/KF5F3UtzaUjHUid5Dw20uBfU2qlWK4enBazh4/lA2TOoym/4MGGBwiL4eOuQtuoeA3ozl2U6NbX1SebE9y/iRR984Z7krRsEMskdzC7MUGndCurC3imFewcGJSJfEZ33q2daMDlsUCcj3t7RvP06th98+wRgWtzV7mlufe1GsNxuz0CuXPTWqtv+4d9YhOdcya21m/bADusTTQNDS+luH551tMX6+RM4tEJleJce1IviDF5zcZgm5sU3ST8IewrdtsS8gysYbk9ZfF0H5bDCWiIHK115CUuqLXQdecAVvxVfFFx+AW8bDZqUlud1S6LfhPYhC7Vvn6Qo/HMWDrdL2BQtKm65fk1+IsGp6T8Hsef/dyxbhoFZAT4dG99Cc+63PpscCiH96HXKCtEQmcqY+4IoflfWJhxMAxvKd86c9bUGHshpm7+G63vnTQh2NKrUUftZoIEgVVdPeucULnNCnAb5yS11cZSmbSei9I6omVERg/pHCZIdt0Upm1Xvr0W1R2g5faQLFX64zIF+wRACulGK/ElvKSqTyHv8cfRI1FbOs1cVj5hoHZLK2eh1V1bhPqIYQFz
+        selected: false
+        status: Unchecked
+      - offset: 1222
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1222
+        initialized_from_dependency: false
+        encrypted_possible_answer: 1/DHq1hIC9eniglxzkgUMFtLKa9bwzIM6nY0NBXcAr8qKvbVdr4WD6Bu8dzH24QobENLuEJ3PY4LdK/1B0aG5KH6gLB4z8FAKJTHHy1sMim0I2tG2gZXlkmAHSUe7ZY3bMGaPB/mMPvBxNu5qcMQhADhjI/v0OBi1dMQ759+8IcmqCQsK+XIDFxptFIjaHHRzD8+p3bLatMkPzesO8JcHePyCec/VylIC+FYuyDSDMrBn+ORcduyd5liAU7ZJqtwhJFn2YQVjiK/TZJt+XP2hVS6vAsMAnWTwdKcyg+ftEibdFeR8lySqMFowEL76Ink2o3JuiqCo2+MLIVJoVRoTfSq7Vyhv8wHWL+E5SRun+3JzbVglIwykbqYxmmQVFCxbt5xMJe4C5+Nn7S2BaX/QA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/TextProcessorTests.java
+    visible: false
+    learner_created: false
+  - name: src/Document.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,38 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: AABABCAf
+    is_correct: false
+  - text: AABABCBf
+    is_correct: true
+  - text: AABABCCf
+    is_correct: false
+  - text: ABAABCAf
+    is_correct: false
+  - text: ABAABCBf
+    is_correct: false
+  - text: ABAABCCf
+    is_correct: false
+  - text: ABACBAAf
+    is_correct: false
+  - text: ABACBABf
+    is_correct: false
+  - text: ABACBACf
+    is_correct: false
+quiz_header: Quel est l'affichage de ce programme ?
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/A.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/B.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/C.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

@@ -1,0 +1,48 @@
+type: output
+files:
+  - name: src/Task.java
+    visible: true
+    placeholders:
+      - offset: 68
+        length: 55
+        placeholder_text: "/* complete initialization, condition and conclusion */"
+        initial_state:
+          length: 55
+          offset: 68
+        initialized_from_dependency: false
+        encrypted_possible_answer: XZrB+dwzW7KQxx07PplvtmQ6CUvxrv2be5YzF6kLAW+wyd6AAb8IBmBJjGj9WZeY
+        selected: false
+        status: Unchecked
+      - offset: 209
+        length: 53
+        placeholder_text: /* Replace condition for checking for divisibility */
+        initial_state:
+          length: 53
+          offset: 209
+        initialized_from_dependency: false
+        encrypted_possible_answer: A5ylGJXa3Y01PBkUXUMWuidod1DsCQ0FNg4axFnOvrY=
+        selected: false
+        status: Unchecked
+      - offset: 377
+        length: 65
+        placeholder_text: /* Here you need to add either a break or a continue statement
+          */
+        initial_state:
+          length: 65
+          offset: 377
+        initialized_from_dependency: false
+        encrypted_possible_answer: Rq4vdlPumh9xvBZ54ndm+Q==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+  - name: test/latest_output.txt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

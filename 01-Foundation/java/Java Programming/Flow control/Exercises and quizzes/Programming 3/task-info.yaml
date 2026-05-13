@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: src/Task.java
+    visible: true
+    placeholders:
+      - offset: 67
+        length: 46
+        placeholder_text: /* Write your program using two while loops */
+        initial_state:
+          length: 46
+          offset: 67
+        initialized_from_dependency: false
+        encrypted_possible_answer: iVmwrCI3TN8QoZYbLewkZm+WI3BE2hf9bo8FNcebTu7dx8xnpu5J3qqA4LwNu4VTJn8x2hHt8bpW2f+7PnF0EsBxxvpKsZJuzIZEXuPrMW5BqUp9fPDRLd9T4tiH8BDK+swYYsewghU12wCdUBXiulp7UyUD6qTI7TzQnTsCViwLrjfAzqTVrHMk0k1GjGzqxiELf034Uo4T0o2qq9OImoq3jOSn0QgTWTG7CNuTMVM=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

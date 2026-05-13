@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: "<code>int[] a;</code>"
+    is_correct: true
+  - text: "<code>int[] a = {1, 2.0, 3};</code>"
+    is_correct: false
+  - text: "<code>boolean[] a; a = new boolean {true, false, true};</code>"
+    is_correct: false
+  - text: "<code>int[] a = new int[] {1, 0, 3};</code>"
+    is_correct: true
+quiz_header: Quelles lignes de code ne produisent <strong>pas</strong> d'erreur de
+  compilation ?
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

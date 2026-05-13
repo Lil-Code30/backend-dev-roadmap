@@ -1,0 +1,97 @@
+<html>
+<p><strong>Mad Libs Revisited</strong></p>
+
+<p>Recall the information from the MadLibs Lab. In 1953, a writer for the television show, <i>The Honeymooners</i> stumbled upon the idea of Mad Libs!
+    Mad Libs is a game that asks those playing to provide different words based on their parts of speech without looking
+    at a provided story. Once the words are put in the provided blanks, the story is read allowed and takes
+    on a new, and often comical meaning because the provided words were given without context! You can read more about
+    Mad Libs and its creator in his <a href="http://www.butte.edu/departments/cas/tipsheets/grammar/parts_of_speech.html">New York Times obituary</a>.
+<p></p>
+<strong>Assignment:</strong>
+<br>    In the <strong>MadLibs Lab</strong>, the user only provided you with one of the parts of speech to fill in for
+all values of that part of speech. For example, you only took in one adjective, but you filled in that adjective 4 times
+because it appeared 4 times. This time, you will be asking the user for different values for each part of speech. For
+example, if your story has 4 adjectives, you will ask the user for 4 adjectives and use each of them once. You will also be
+reading in the story from a text file.
+<p></p>
+Text files of Mad Libs short stories created using ChatGPT are included in this project. Some minor changes have been
+made to adapt the stories to our project.The citation for these stories is:
+ChatGPT. “Mad Libs Story Creation.” OpenAI, 2 July 2025, chat.openai.com. You can choose which
+story you would like to use. Each story gives different options of words one must provide. To see what words one must
+provide, you may open the text files, but <strong> do not change them</strong>. If you do, your lab may not work as intended.
+<p></p>
+Write a program that asks a user to input different parts of speech as they are written and then print out the story with
+the words provided by the user. The program should be able to run repeatedly so users can enter a new list of words however
+many times they want to see different versions of the story with new words. Mad Libs provides parts of speech to the user,
+so you will as well. To review parts of speech, you can visit this <a href="https://www.nytimes.com/2011/06/10/arts/television/leonard-b-stern-creator-of-mad-libs-dies-at-88.html#:~:text=Mad%20Libs%20was%20conceived%20in,a%20humor%20writer%2C%20happened%20by.">site</a>.
+<p></p>
+1. Fill in the constructor to initialize the following instance variable arrays with the parameter variables: <strong> pluralNouns, nouns, verbs ending in -ing, adverbs, verbs, adjectives, places</strong>, and any other blanks the story you chose
+asks for. You may change the name of the instance variables to match the needs of your story. For example, if your story does not have places, but it has
+numbers, you may change the instance variable array and any other methods associated to it to reflect numbers instead of places.
+<strong>Be sure to change any arrays you do not need.</strong>
+<p></p>
+2. Fill in the following methods to print out the contents of each list: <strong>printNouns, printPluralNouns, printVerbs, printVerbsEndingInING, printAdjectives, printAdverbs,
+    printAdverbs, printPlaces</strong>, and other print methods to print out any other list of blanks your story asks for. If your story does not
+have one of the parts of speech, you may comment the method out or change it to reflect what your story does have to make the program run more efficiently.
+Make sure the output is formatted nicely, so it is easy for the user to read. Notice these methods are <strong>private</strong> methods. They are helper methods to the method <strong>printLists</strong>, so
+they do not need to be declared <strong>public</strong>.
+<p></p>
+3.  Fill in the <strong>printLists</strong> methods to print out all the lists with one method call. Make sure the output is formatted nicely, so it is easy for the user to read.
+<div class="hint">
+    Remember to call the private methods you just created in this method!
+</div>
+<p></p>
+4. Fill in the <strong>createStory</strong> method to return the story as a <strong>String</strong> with the blanks of the story filled
+in with the user input from the specified lists. For example, if the story calls for a verb, fill the blank in with a
+verb from the user entered verb list.
+<div class="hint">
+    Use the <strong>String</strong> method, <strong>split</strong>, to break the story apart into an array with String elements around
+    the part of speech you are looking for. The String <a href="https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/String.html">API</a>
+    can be found here for further information on <strong>split</strong>. The first example, <strong>PLURALNOUN</strong>
+    is commented out step by step to help guide you for the rest of the method.
+</div>
+<div class="hint">
+    You will need to go through each list once it is filled to access the user entered data.
+</div>
+<div class="hint">
+    Be sure to search for <strong>ADVERB</strong> and <strong>VERBENDINGINING</strong> before <strong>VERB</strong>.
+    If you search for <strong>VERB</strong> first, you will end up replacing part of <strong>ADVERB</strong> and
+    <strong>VERBENDINGINING</strong> because <strong>VERB</strong> is in both of those <strong>String</strong>s. Pay
+    attention to order for <strong>PLURALNOUN</strong> and <strong>NOUN</strong> as well.
+</div>
+<p></p>
+5. Fill in the type of exception the main method might throw after its declaration in the client class. This exception is
+one we have discussed relating to <strong>reading from a file</strong>.
+<p></p>
+<p></p>
+6. Change the file name in client class to match the story you want to work with. This does <strong>not</strong> have a
+placeholder attached to it as it is <strong>optional</strong>.
+<p></p>
+7. Create a loop in the client class to continue playing Mad Libs until the user enters any form of the word "no".
+<p></p>
+<div class="hint">
+    You will first need to prompt the user, then read in the user's response, trim the response, and then create the
+    loop and its conditional.
+</div>
+<p></p>
+8. Fill in the first section of the loop in the client class to initialize the following arrays: <strong>nouns, pluralNouns, verbs, verbs ending in ing, adjectives, adverbs, places</strong>, and any other blanks the story asks for.
+<strong>Be sure change any arrays you do not need to reflect parts of the story you do need.</strong> This will initialize the arrays' size to the number of each part of speech blanks in your provided Mad Lib.
+For example, if there are 6 verbs, the array for verbs should be of length 6. If you have more arrays than parts of speech, you may set the length of these to 0.
+Then, fill each array with user input for each of the words. This will allow for the user to have full control of what to enter!
+<p></p>
+<div class="hint">
+    Use a loop to fill each array with user input.
+</div>
+<p></p>
+9. Create a <strong>MadLibsRevisited</strong> object in the loop in the client class.
+<p></p>
+10. Call <strong>printLists</strong> in the loop in the client class to print all the user input to make sure the words
+entered in are in the correct list.
+<p></p>
+11. Call <strong>createStory</strong> in the loop in the client class to print out your story!
+<p></p>
+12. Prompt the user again to ask if they would like to continue playing, read in and trim their response.
+<p></p>
+13. Verify your code works by running the program and playing MadLibs, checking to see if the words you enter are put in the correct spots.
+<p></p>
+14. Fill in the comments at the top of each class with your name and pertinent information.

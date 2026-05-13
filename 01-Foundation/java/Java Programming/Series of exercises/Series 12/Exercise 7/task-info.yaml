@@ -1,0 +1,22 @@
+type: edu
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 371
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 371
+        initialized_from_dependency: false
+        encrypted_possible_answer: 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
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true

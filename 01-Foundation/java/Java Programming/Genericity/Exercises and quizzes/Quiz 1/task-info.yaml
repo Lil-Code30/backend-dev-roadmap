@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Deux classes concrètes appelées <code>FruitTree</code> et <code>BaubleTree</code>.
+    is_correct: false
+  - text: Une classe mère <code>Tree</code> générique et deux classes concrètes <code>Fruit</code>
+      et <code>Bauble</code> qui héritent de <code>Tree</code>.
+    is_correct: true
+  - text: Une classe concrète <code>Tree</code> et deux classes génériques <code>Fruit</code>
+      et <code>Bauble</code>.
+    is_correct: false
+  - text: Une classe concrète <code>Tree</code> avec une interface générique <code>Decorator</code>.
+    is_correct: false
+quiz_header: Sélectionnez l'affirmation correcte.
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

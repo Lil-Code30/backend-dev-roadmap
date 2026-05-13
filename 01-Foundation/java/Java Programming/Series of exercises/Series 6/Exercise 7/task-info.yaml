@@ -1,0 +1,22 @@
+type: edu
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 24
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 24
+        initialized_from_dependency: false
+        encrypted_possible_answer: 7ZkOH92nrc9LgO6nY0Zap4od4gUVGWhnrrQlDTOWs3FIgbrHE3vegz4mSCjgeHLB3qDweEn1TetLnplb7w0jnTWpdK7qEw/cNiVfJR3feCHvybOEBD9VwhvIx+vrcOj9Ygv+4riPoum5/92nH7I24AeH78Ee7QGqcSOBVXIaCNk=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true

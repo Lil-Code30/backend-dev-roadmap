@@ -1,0 +1,114 @@
+<html>
+<p><strong>Student </strong></p>
+
+<p>Many different programs exist to store, sort and create different lists of students of schools.
+    Students can be examined in many different ways through the characteristics they hold.
+<p></p>
+<strong>Assignment:</strong>
+<br>You will be examining a school of students over the next two labs. In this lab, you will be focusing on the
+<strong>Student</strong> class. <strong>Students</strong> have first and last names, ID numbers, GPAs, and expected graduation years.
+Their GPAs are calculated from an array of <strong>String</strong>s.
+<p></p>
+
+1. Complete the constructor with parameters by setting the instance variables to the values in the parameters.
+<p></p>
+<div class="hint">
+    Use the keyword <strong>this</strong> to help differentiate between instance variables and parameter variables.
+</div>
+<div class="hint">
+    Don't forget to call the helper method, <strong>calcGpa</strong> method to set
+    <strong>gpa</strong>. Notice <strong>calcGpa</strong> has a <strong>private</strong> modifier because it is only used
+    internally as a helper method. <strong>public</strong> access is not needed. Assume that it is working as intended so
+    that you can use it freely.
+</div>
+<p></p>
+2.  Fill in the getter methods for this class. There are 5 <strong>private</strong> instance variables, so there should
+be 5 getter methods.
+<p></p>
+
+3. Fill in the <strong>calcGpa</strong> method, making sure to fill in the type returned and the method body.
+<p></p>
+<div class="hint">
+    To calculate the GPA, you will need to traverse through the given array <strong>grades</strong> and find the average,
+    given where A has a value of 4, B has a value of 3, C has a value of 2, D has a value of 1, and F has a value of 0.
+    Other <strong>String</strong>s are not valid, so if another <strong>String</strong> is encountered, a warning should
+    be printed and the program should be exited using a <strong>System</strong> method, which can be found in its
+    <a href="https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/System.html">API</a>.
+</div>
+<div class="hint">
+    Remember, you cannot always use <strong>==</strong> to compare to <strong>Strings</strong>.
+    The <strong>String</strong> class methods are found in its
+    <a href="https://docs.oracle.com/en/java/javase/15/docs/api/java.base/java/lang/String.html">API</a>.
+</div>
+<div class = "hint">
+    Also, remember the difference between
+    <strong>integer</strong> and <strong>double</strong> division. The number of <strong>Strings</strong> is the length
+    of the <strong>grades</strong> array.
+</div>
+<p></p>
+4. Complete the <strong>assignEmailAddress</strong> method to assign students a <strong>String</strong> email. A
+student's email is formatted as follows: the first letter of the student's first name followed by the student's
+last name, the student's expected graduation year, and <strong>@serrahs.com</strong>.
+<p></p>
+5. Write the <strong>sameStudent</strong> method to determine whether two students are the same. Two students are
+the same if their first and last names are the same and if they have the same ID number.
+<p></p>
+<div class="hint">
+    Remember, you cannot always use <strong>==</strong> to compare to <strong>Strings</strong>.
+    The <strong>String</strong> class methods are found in its
+    <a href="https://docs.oracle.com/en/java/javase/15/docs/api/java.base/java/lang/String.html">API</a>.
+</div>
+6. Fill in the missing parts of the client class to read in the necessary information to create a
+<strong>Student</strong> object. Then, create a new Student object <strong>kid</strong> with these values.
+<p></p>
+<div class="hint">
+    Read in the first name, last name, ID number, and expected graduation year of the <strong>Student</strong> from the user
+    using <strong>Scanner</strong> class methods and save them.
+    The <strong>Scanner</strong> class methods are found in its
+    <a href="https://docs.oracle.com/javase/10/docs/api/java/util/Scanner.html">API</a>.
+</div>
+<div class="hint">
+    Remember we have learned a new method that can return an array of <strong>String</strong>s based on a delimeter.
+    Recall that a delimeter is a set of characters that separates different pieces of data, in this case different
+    grades. The method takes in a delimeter and creates an array of <strong>String</strong> elements by splitting the
+    <strong>String</strong> around the given delimeter.
+    The <strong>String</strong> class methods are found in its
+    <a href="https://docs.oracle.com/en/java/javase/15/docs/api/java.base/java/lang/String.html">API</a> for more
+    information.
+</div>
+
+7. Verify your code works. The following table holds test values and their expected results.
+<table>
+    <tr>
+        <th>Student Creation</th>
+        <th>Method Call </th>
+        <th>Expected Results</th>
+    </tr>
+    <tr>
+        <td>Student jolie = new Student("Jolie", "Keate", 247723, new char[]{'A', 'B', 'C', 'A'}, 2024);</td>
+        <td>double checkGPA = jolie.getGpa();</td>
+        <td>checkGPA should be 3.25</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>String jEmail = jolie.assignEmailAddress();</td>
+        <td>jEmail should be JKeate2024@serrahs.com</td>
+    </tr>
+    <tr>
+        <td>Student mike1 = new Student("Mike", "Hernandez", 217723, new char[]{'A', 'B', 'B', 'A', 'A'}, 2021);</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Student mike2 = new Student("Mike", "Hernandez", 217723, new char[]{'A', 'B', 'B', 'A', 'A'}, 2021);</td>
+        <td>boolean checkSameStudent = mike1.sameStudent(mike2);</td>
+        <td>checkSameStudent should be true</td>
+    </tr>
+
+</table>
+<p></p>
+8. Fill in the comments at the top of each class with your name and pertinent information.
+<p></p>
+9. Use the given <strong>StudentClient</strong>
+class to test the accuracy of your code. You may alter this class to fit your needs and test appropriately.
+</html>

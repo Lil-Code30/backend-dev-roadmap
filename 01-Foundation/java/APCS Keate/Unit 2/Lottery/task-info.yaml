@@ -1,0 +1,124 @@
+type: theory
+files:
+  - name: src/Lottery.java
+    visible: true
+    placeholders:
+      - offset: 385
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 385
+        initialized_from_dependency: false
+        encrypted_possible_answer: n/B9nuQzo37nQKcf4NW+AQq8cEy9gxv8GCkE6uH8L1+zqEkXbEm2ywPJsD4AbdrhLy3YIeDxOWG0fyASbaH6WpxbznnV9Fz+aLVj2jw4hW1N3o5grSTQtKJdZiZ1ByOoiFDM0Y2mpyCsQN6tBbfxoZ/Mo7xRXJePUn8dQbARD31cPf7oxenFeDNOy8Rw5tGwih+ECUDoTOECtI6oJMqnYqszNsxwFPcudiadCHG+lxnKF02owe3+nPmek8kJnvkqkcTTWftd+bDPHaF4y8DGCaXH9+2hCfV1QmxlnUZUhUCmNLUQXksIbL6VRtxUHG7r97qFWJubr7NAscFsuHl0EsI2ea5621O+8HBBv9smOfkhZ288ic7Hifv4S5RQn2Fw7GKvOCkCleDABPoRvXYINpaMVLJbAwx7ZcbzZkPAalchQyU2hvjYJIGkUDHfWfMqVAannCeC1FHR5thfR0nb6Ru2nO50UiaDaA6pGoT9JUEF3/TLZ7c7Za5d6tXTZrqfFaZyfj18onbdg1zP+Rie1sHUmrmdE9reMrXifvQqQpDJhDgNEZ6Qx39J6q8On6WpA9WwRFZv/Qg5tN6Zvb6cqT8ZVTd6kURcCyL0qndu08luezrwg0bV4vLOMn7jRLcojT5mC3bDNu8iyOfRtxT4zQ==
+        selected: false
+        status: Unchecked
+      - offset: 601
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 601
+        initialized_from_dependency: false
+        encrypted_possible_answer: vInyNoI2yrsAOfPAF6gxNoIx/UHUIZO8cvwa3GMRfjJtF+JeLiVNa3CqWlK2FpFdfSGbYctqU+RDbKVWpUiFRPC18lI2vOb4wbV2QpW5YKehpJL/t/Sw6isbhD2qEMuv
+        selected: false
+        status: Unchecked
+      - offset: 788
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 788
+        initialized_from_dependency: false
+        encrypted_possible_answer: aWAPaaZgcpju/p9oTku3iHsG378R41JxFheofUqd5+0=
+        selected: false
+        status: Unchecked
+      - offset: 1072
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1072
+        initialized_from_dependency: false
+        encrypted_possible_answer: WGi9u4lzvySFyyvVMUp5tUKJnWaIub/Li7GhR6ZRTL6pyyzneBAlwkKpPMMGVvpkWNs/EF4bTv/HpeVYML6gBw==
+        selected: false
+        status: Unchecked
+      - offset: 1332
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1332
+        initialized_from_dependency: false
+        encrypted_possible_answer: wwrpYF8WD273eQoo1FZRwBRKiWYt/3xB3dmAJzQ8TQvUhBqwOklBOHQnnVTydo17jl/6uXz+cxzJy8bUFP+nqR+ITA9P1dlOBf62MJ6GAJPdq4hN7L15ubgcLXTHlLjyUNRAyHf+mt52ZfBFB9Z2Ciz/0CxoD9TcPm4y/3lG8E+WXJCRvSSIkIDHJAmT0Bm8mWKgNWy7vdTkZOzQ2fHSOw==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/LotteryClient.java
+    visible: true
+    placeholders:
+      - offset: 167
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 167
+        initialized_from_dependency: false
+        encrypted_possible_answer: 6J072/lcpPGdQoX8RHSjNVT+3o0u8vWaugj7FBrW/KIfj0IZkEuBo7kIfE/qmis+
+        selected: false
+        status: Unchecked
+      - offset: 310
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 310
+        initialized_from_dependency: false
+        encrypted_possible_answer: 7KOaecjBfWpy5bfRrJClzlqZv4PYiXtyMyw/N74P3NH0Q0AH5PPK+Ffmbt8s/8ju
+        selected: false
+        status: Unchecked
+      - offset: 388
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 388
+        initialized_from_dependency: false
+        encrypted_possible_answer: yOoYBzj0JQdh2/jihwvrSA==
+        selected: false
+        status: Unchecked
+      - offset: 534
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 534
+        initialized_from_dependency: false
+        encrypted_possible_answer: RhuuobHlSj907EJvfL02HPLUQyMhFVfQXppAw9gvt4s=
+        selected: false
+        status: Unchecked
+      - offset: 566
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 566
+        initialized_from_dependency: false
+        encrypted_possible_answer: HMxfXAmk/N0kGxosICOuiJc72jsJNkTGlPucv9emFhc=
+        selected: false
+        status: Unchecked
+      - offset: 618
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 618
+        initialized_from_dependency: false
+        encrypted_possible_answer: Jl5n/gJ/evwa84hyW30qL4OU86LCiJwfG/cnii44PybI3Myvzwhc6leV2ujfiFUL
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true
+post_submission_on_open: true

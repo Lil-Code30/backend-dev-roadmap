@@ -1,0 +1,20 @@
+type: theory
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Person.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Wizard.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Muggle.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/SpellCaster.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

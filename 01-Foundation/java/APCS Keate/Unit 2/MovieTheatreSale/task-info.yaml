@@ -1,0 +1,326 @@
+type: edu
+files:
+  - name: src/MovieTheatreSale.java
+    visible: true
+    placeholders:
+      - offset: 1284
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1284
+        initialized_from_dependency: false
+        encrypted_possible_answer: 9b1TuOYKdhpORfakKGE0Og==
+        selected: false
+        status: Unchecked
+      - offset: 1339
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1339
+        initialized_from_dependency: false
+        encrypted_possible_answer: acCLR6d8lZlaKiOmSKW94w==
+        selected: false
+        status: Unchecked
+      - offset: 1398
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1398
+        initialized_from_dependency: false
+        encrypted_possible_answer: kMct9QllpgXEwu8BrJ/bGA==
+        selected: false
+        status: Unchecked
+      - offset: 1461
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1461
+        initialized_from_dependency: false
+        encrypted_possible_answer: WDB0s/H5AQsqQjjvQ9btpSXjRX9tv6N6JGg83jES0io=
+        selected: false
+        status: Unchecked
+      - offset: 1526
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1526
+        initialized_from_dependency: false
+        encrypted_possible_answer: Cz+/htKp6gPxYJK5E8KAg7rnEYv0+BEeDELyt4zVbAQ=
+        selected: false
+        status: Unchecked
+      - offset: 1589
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1589
+        initialized_from_dependency: false
+        encrypted_possible_answer: /nkdpRjzeSRZ/42Fg5ZyJ61RO62ZwQjjd77ExDr2XXY=
+        selected: false
+        status: Unchecked
+      - offset: 1652
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1652
+        initialized_from_dependency: false
+        encrypted_possible_answer: WvGroCZ7vgH2aFzI8xVHDzVt1QK+ShFB8Lht2qAvw38=
+        selected: false
+        status: Unchecked
+      - offset: 1716
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1716
+        initialized_from_dependency: false
+        encrypted_possible_answer: GL0IhUaVRSf3zNQm4WJgGMrT0AgH0kV71SKBUkkJAd8=
+        selected: false
+        status: Unchecked
+      - offset: 2225
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 2225
+        initialized_from_dependency: false
+        encrypted_possible_answer: N8zmWb5DXQFmlYvBjEA1lw==
+        selected: false
+        status: Unchecked
+      - offset: 2269
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 2269
+        initialized_from_dependency: false
+        encrypted_possible_answer: OWv3LTxxX3k9/UH5tZOsAd8L+C+q401AIzIrCJMRq9w=
+        selected: false
+        status: Unchecked
+      - offset: 2298
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 2298
+        initialized_from_dependency: false
+        encrypted_possible_answer: B32H4xjFtl8yhKC200kQ5w==
+        selected: false
+        status: Unchecked
+      - offset: 2340
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 2340
+        initialized_from_dependency: false
+        encrypted_possible_answer: 1qQ9kQ9eUXSirgUkxBvydQ==
+        selected: false
+        status: Unchecked
+      - offset: 2579
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 2579
+        initialized_from_dependency: false
+        encrypted_possible_answer: /nkdpRjzeSRZ/42Fg5ZyJy8xkqJ9KVZP/Q/GLWD3HvX2hXsGxQYI1x4v6LDmf5wEhwZ9YMC0x1vw3OVV3eXVxpLa7cnYrMU8Pxd23qi1mjEAj4T1CELY4Bhi9hkCIkTTzTdNbRRz0TEPwZgEtwNdSnw9WyDRTe5i362m1pOfvCcOzCBihp+JbiZ7+eGa7Nv4t856yzn6nj4GBGfWRJVMFg==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/MovieTheatreSaleClient.java
+    visible: true
+    placeholders:
+      - offset: 441
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 441
+        initialized_from_dependency: false
+        encrypted_possible_answer: KlBPWlsa7V4ufzfySvvgJQDRn44aBIpKwrXhsDY/oDY=
+        selected: false
+        status: Unchecked
+      - offset: 617
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 617
+        initialized_from_dependency: false
+        encrypted_possible_answer: NATXtlUT511nXr1gGtsfpSVAnaqdwI6JOWwcNmVO/4Y=
+        selected: false
+        status: Unchecked
+      - offset: 693
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 693
+        initialized_from_dependency: false
+        encrypted_possible_answer: A6XqHCHMF0hKwUzHN+dy9ABc/vGk+vumF5GEPj6ZdNw=
+        selected: false
+        status: Unchecked
+      - offset: 1272
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1272
+        initialized_from_dependency: false
+        encrypted_possible_answer: HAnFyR5PeYWOe6Kr2Ixx2opJd7b26Ki3N2x+0FJGEnUrWOXnX9cKOhhE/qpY7Ktq
+        selected: false
+        status: Unchecked
+      - offset: 1563
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1563
+        initialized_from_dependency: false
+        encrypted_possible_answer: 1quI5MBsiBhfjnICKvtm2Q==
+        selected: false
+        status: Unchecked
+      - offset: 1773
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1773
+        initialized_from_dependency: false
+        encrypted_possible_answer: DcQleDazWk1bk2wCZDu/KC0hZL3AM/jGTEnRbZg6Fco=
+        selected: false
+        status: Unchecked
+      - offset: 1985
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1985
+        initialized_from_dependency: false
+        encrypted_possible_answer: iHEwFgrHQaFwJ8nNBrcrgPSyXEM0t1hp7EUl3rfUQxM=
+        selected: false
+        status: Unchecked
+      - offset: 2188
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 2188
+        initialized_from_dependency: false
+        encrypted_possible_answer: T8TwvdkRCb5044R/bQGzcLTZ4X8AeAG8VJSc+HFVF+RfmmpeJuDEuA2EOEKa1vyX8wpLji89twHCp2aWAHk6mg==
+        selected: false
+        status: Unchecked
+      - offset: 2482
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 2482
+        initialized_from_dependency: false
+        encrypted_possible_answer: iHEwFgrHQaFwJ8nNBrcrgCz564fvlv8Natzfk3ZD2s8=
+        selected: false
+        status: Unchecked
+      - offset: 2698
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 2698
+        initialized_from_dependency: false
+        encrypted_possible_answer: DcQleDazWk1bk2wCZDu/KC0hZL3AM/jGTEnRbZg6Fco=
+        selected: false
+        status: Unchecked
+      - offset: 2946
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 2946
+        initialized_from_dependency: false
+        encrypted_possible_answer: kQefkl9gOzS1C0WWzccIdzPREj6ztTWP9EEiUDK3rGc=
+        selected: false
+        status: Unchecked
+      - offset: 3194
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 3194
+        initialized_from_dependency: false
+        encrypted_possible_answer: jQQ2aAvWFNRXN/b8Le8dGeX4nuZKhs/ZjlIloswtTNs=
+        selected: false
+        status: Unchecked
+      - offset: 3444
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 3444
+        initialized_from_dependency: false
+        encrypted_possible_answer: HEFu/17FXdmpMVN1Q7hFS7OHpeZEiDbtHe/9CL3cphw=
+        selected: false
+        status: Unchecked
+      - offset: 3782
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 3782
+        initialized_from_dependency: false
+        encrypted_possible_answer: yNth8CqeWn9G6P/DoXuyqyNsDXgLN9v49UhkfVw9uUMEJVJGiujJR+5hkeKmUp2KHOd6NWCM0yThg7xcJGMwq7F/47MQi3sQpdPdYOH5Sxo=
+        selected: false
+        status: Unchecked
+      - offset: 4112
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 4112
+        initialized_from_dependency: false
+        encrypted_possible_answer: sZRbNCnGFDT/ky/p4t//q6K9XORWiwT49LbjVe2b3WswtIdAFwLHTy+CheDbkJ4JJsr+2bFgFZ8QNLzS9CZwYK1xeTCMAirVQqoso7NZlcugLgm5jyp+/Ck1dRPVf9U+T2cfd/C+TFSHUMp2IFIsCtlOUlukaPjpMKb7eRxJopLC27rz8JPnP9JUXA4MQO7K
+        selected: false
+        status: Unchecked
+      - offset: 4229
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 4229
+        initialized_from_dependency: false
+        encrypted_possible_answer: CLLpQazrMWxq43ApyUt6Rxf1vxd1tZZ7dgWY3BtSuw8kilXhRUNHZH0ExHXufU4Ey4p34ZD6+m9+ELCno4F6RQ==
+        selected: false
+        status: Unchecked
+      - offset: 4413
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 4413
+        initialized_from_dependency: false
+        encrypted_possible_answer: u4IU6xHosaSnjd6ZYX/wJcCoaNM1JjQohulk08X36Ks=
+        selected: false
+        status: Unchecked
+      - offset: 4453
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 4453
+        initialized_from_dependency: false
+        encrypted_possible_answer: hPCGMtq5LjZmA9ye76lrFCa1/6ZPnxICZBw3194CpeeD5WyJewtOyjMoMLVgFYOmme13aTVvGZRsWq+oXbHyguDEwEWqk3eZR2p7mmBI5IDHMFPqkvb8v2llu5Jn6Gx22ixUGBJ8Kglju9c1yPT8aTRYcE7rK/Ei8d6xboNFP7JRfxAxcLVyMVKhewhQC3qtXaW16kCAEZ5OuGuJTcbYFA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/MovieTheatreSaleTest.java
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true

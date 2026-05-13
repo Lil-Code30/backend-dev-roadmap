@@ -1,0 +1,107 @@
+type: edu
+files:
+  - name: src/Task.java
+    visible: true
+    placeholders:
+      - offset: 418
+        length: 52
+        placeholder_text: /* Implement an observer using an anonymous class */
+        initial_state:
+          length: 52
+          offset: 418
+        initialized_from_dependency: false
+        encrypted_possible_answer: OIpm9W6N4JBivpKKFgBxdQ8N1xXs/3jHpK3coIpGqGQ=
+        selected: false
+        status: Unchecked
+      - offset: 560
+        length: 53
+        placeholder_text: /* Implement an observer using a lambda expression */
+        initial_state:
+          length: 53
+          offset: 560
+        initialized_from_dependency: false
+        encrypted_possible_answer: OIpm9W6N4JBivpKKFgBxdQ8N1xXs/3jHpK3coIpGqGQ=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+  - name: src/Entity.java
+    visible: true
+    placeholders:
+      - offset: 22
+        length: 20
+        placeholder_text: /* Add attributes */
+        initial_state:
+          length: 20
+          offset: 22
+        initialized_from_dependency: false
+        encrypted_possible_answer: ev9A4o2rTjaLoPehfKLGB1BCG/BDs6Y46HEiIZXcvfw=
+        selected: false
+        status: Unchecked
+      - offset: 106
+        length: 26
+        placeholder_text: /* Implement getValue() */
+        initial_state:
+          length: 26
+          offset: 106
+        initialized_from_dependency: false
+        encrypted_possible_answer: tiF3nGPJ/cqwFgaTuS6iAkpWDYfcB+60VfQIip6HfCdq8nbXk53XHqsIRVmx0K1vPVHr8KjV2YH7ZnDzwf95/Q==
+        selected: false
+        status: Unchecked
+      - offset: 185
+        length: 54
+        placeholder_text: /* Implement setValue() with the observer mechanism */
+        initial_state:
+          length: 54
+          offset: 185
+        initialized_from_dependency: false
+        encrypted_possible_answer: gTvn/tpUYCS92tCkU0W4SS8z9phFkYAAHAu04WL9ZSFTBxOiUDux+8hstGaVjGCPJR4fzvDeXTP1dkAD+vBhMQ==
+        selected: false
+        status: Unchecked
+      - offset: 308
+        length: 29
+        placeholder_text: /* Implement setListener() */
+        initial_state:
+          length: 29
+          offset: 308
+        initialized_from_dependency: false
+        encrypted_possible_answer: blrkn44SzDKhn6hg8hVS5fk+2YOclhsd5rJgKv/x8jvucEpMnelLrBffs1qTQr8TlbyLNNCT+CBITmxappiRzA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/MyListener.java
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 32
+        placeholder_text: /* Implement MyListener class */
+        initial_state:
+          length: 32
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: 347JhnX3DXcvvdtMXojcxbYdsUR/d+GJSLNg4mPSOWsThjEf1f4/VKSpEwfuOU0K8JLg5VDGZm15wCQUEFAhSAG8ogeGgFnAFOYUtx7XP9gJgSSTpbqrKTWO5FWu6pLvAcQW1d8YhQ4bxAryRXD19Zq4lmFQjehYfKbLVZejyZD4XjsjFbOg2xRdQzQxhcz0ovyw/DsTsLsv1g5HzXgqzTFj8zQNMUElCgXFUTc88ulkzbtyxyeJANNkBkpjLFyt
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/ValueChangedListener.java
+    visible: true
+    learner_created: false
+  - name: src/StubbornListener.java
+    visible: true
+    placeholders:
+      - offset: 68
+        length: 43
+        placeholder_text: /* Implement the onValueChanged() method */
+        initial_state:
+          length: 43
+          offset: 68
+        initialized_from_dependency: false
+        encrypted_possible_answer: rydaPfk0X4RmkWkdkoZFEAF10N+JX1JcZeC92LPh2FVv0BcnGHtVxvyWcNIkGidsBYPXISzQ7jbJE46XIrHmhxPNU0NArL7mufFoETCExho45pcTy+HSwHwKs9af7xRjGcuUjhZn+N7SLeK+nPH0ofylAX4BKKumrNNdTtdTRIY=
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true

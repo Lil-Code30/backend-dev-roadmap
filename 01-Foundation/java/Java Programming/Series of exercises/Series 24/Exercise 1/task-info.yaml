@@ -1,0 +1,221 @@
+type: edu
+files:
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+  - name: src/AnySeries.java
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 42
+        placeholder_text: /* Implement the class ProductOperation */
+        initial_state:
+          length: 42
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: 8bzxOpaQ7PN0llC9vEZ7Q2dOCk9+GRzii6X8EOQk9ZMzr4IEdpAbOtM1oc8DL8Yod/WYgUswvMMnZ3qiieGoo/yLKuUKjfrb3JZfN2x75IzHmnvDB0eUzOOK2xiLf31dnM8q3p4dXqa+rg4WuuofOXm1YUCcCVY/2dH8g1Ye/yjcB9ZzeHgqZEoYLouGgzvtruLvS68vHg80D9mL+4sa596p0i4u+2mVe2k7ca/Wdve+Uub6qBOnMWAz+Gla3V/g8Qky/WTRqgfDdjPxMhEYTGokdP/Behd3r2zrB6FAk7eVfg+XyfQDvz2Bj5F57NNMjvqyFjPPhm7YWDnav9vqidrnerbDXVOg5uditTTz7ln5owL9VIl1brow2ersoaq8ci/NP1k4YeoGJAwx+eDxPDDFuanf4M7GG1Bu1xKJ1zUqhcf4icyZjlGOGTUj4PbBSziRFwJic5yjMf99hWmk54UmLx1m69d4HxKgnUNO2yQ=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/ProductOperation.java
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 42
+        placeholder_text: /* Implement the class ProductOperation */
+        initial_state:
+          length: 42
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: kgWGz9/YPbW1KEZlshF5LtG/b02D0utoabYwyI+65V9prwKQNqQsguBuRZRgbXOve2s1coyibM2nPDG8Git/bSjEgsnZf3cJn4NLh161/yn6T0daisKeOHAFNBFVfyo+s7dmTUqFwjH4ot4MvisL2gz5cx8LJrK92mvOjLRjijggGTxnBydAvFllYaUV/WLeFpsyPJjEA4umUyD1oAQ89lMJOQbGIUpEX6RnncER5Exk9nU79RcLJqW+XnzJO1MrASMqN5UNZH/ufeGcyP/o6uTNblR1CSpkRQkDlbMVtJqEylSpVIgdcSsQXiJZIWafW7Yod/NQ4hNT7qouYuhIR3vquTI8Cs1D1O5h8kB/g7k=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/IFunction.java
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 47
+        placeholder_text: /* Implement the generic interface IFunction */
+        initial_state:
+          length: 47
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: +IszU2sLU405ZWI8OEONmwgNETtbnoIE9etE8YMd+YSUhFlSMZySYiL/w9U4rxbup/kSlKJ+IHBxbLn09YBQkw==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/IFoldableOperation.java
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 56
+        placeholder_text: /* Implement the generic interface IFoldableOperation */
+        initial_state:
+          length: 56
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: +IszU2sLU405ZWI8OEONm96Zsbn2R0pbFAfQJtvrdrr+otq/1Z4adFvwnh612KLAzcSw2nN50BF0DaTtcfH76gWezySXZhliTDjWny5OeidvWpGw5MrrOG/Yr6w3/Xx7lqkBk+GKVKHIoOkN8ufWqw==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/Enumeration.java
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 49
+        placeholder_text: /* Implement the generic interface Enumeration */
+        initial_state:
+          length: 49
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: +IszU2sLU405ZWI8OEONm7/k5ncu13kHmJ7k8DPaEXQy0ssQQqbfNFpwY7BrxEhPFkAenp8vcZilBu0y3lxG3ItzTvUir8Qb0slw86z2ITIeU9JRojyFtkUK1Fpf0vvrLz9n2/vnpTCWTPegThmn/C3GRT8/K7el3XA/x1QHOi86LH5jcRp+hpRCYTIBrH5U5Psu3vEc5bIKqCd+PUi+qfwk5AXHdlXHbu5RQP52KThEU6d7h0vOPp0s8ZDEWZyqt2J5bzRT4MVArxfeuVJJgX5NRYmvkT+GZSAAODm5vgnvZJzY2LSfCYCIe9diy637vf1dmvpuAdmgokoD3T6CmHrE1HFOjpyGEKGV1/9MQcCTqHgC3a+tM49cAmckIazBJjaHwTs1wG7aaA0r8HrEq6UBdTuv1SE3GBMI/UVJuP5VJIjMHoghMQz72PlkeJH+
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/ArraySequence.java
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 73
+        placeholder_text: /* Implement the generic class ArraySequence that implements
+          ISequence */
+        initial_state:
+          length: 73
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: jtbNGaKtD8pJ4XH/EZtgGQUAHP5VyWDThG3Yet0N62uc79B0I7KG4K71Um2VsvMOmfqNsgFFTe4kEhPlOCkPErpDO12vyO8U86mDGHlkacZ6ZTNlxq5+7w8HBssycAd+XSB4x9atB3cMwxeTTQ6NtGXR5CCP2sT2Cf2bEox637elLkWaiGo/x7FVV1XJlr/jBE2HsQJZjTn+Fq6UXsqtE8/3d+KUglk7R16NOGYIXwJeCclfkGK4791JZDQbL7yQFxWnyaDtmEFpQjt9EqrafWpFgY+RTGRgtAQymcoCzA4SO/8ykiDC46xFlYf/sQ40mPRiYo0uEfx09AS4kO+GuqN9xz4koncY3A0VJLkc+rND/PvjLAwSBaZUiYe3sb4+ZHDe70JZc4WpDPv+RATU5B8TGKg86yNsOEJYDOQoCSFgd3BAXtcORzI0t91UJjGKRZisbL1/CZKrWtTRRWIbPEpMKYFT1TMjXhlarPt9ANU=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/ISequence.java
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 47
+        placeholder_text: /* Implement the generic interface ISequence */
+        initial_state:
+          length: 47
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: +IszU2sLU405ZWI8OEONm+8yX9zmYiyyLZAwo3C/cL8rqoi+kemWiUjAX9cc7D/Z1KwpnbYmndeqgflUsSUEaoWRSZv5W/91/pDlsLtrcuq53zXnp25TVLVrmSt2MrPZ
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/MaxOperation.java
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 38
+        placeholder_text: /* Implement the class MaxOperation */
+        initial_state:
+          length: 38
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: tPeskvMzvG5OeG0Zcdp+irnnCRBc41tlUf0cwNGTMfnfVwP6hv67OnW4twBzDVlHzWTeZHCimLlkFd0pNLujA8TYtz8gq7T8BZquehVZtyK9wFu++hRytFx6qf1J6fTp7Lr0a5IXXQ7gyIYRErJXfcSyr2hf6soqwKUJuF4WE9gzKC0RGJ0RaqXgtcGATUTZpkuzYq0clxcjGGSNBaVB9C6fpr6CYkzJbbYdDavGCPF5YHj0U71xeHS/f2aYwhACafUbHwxuNrdt4kAJeOOYRyo+5gX27Z4wQ85/n49AF+0ls6jhUUb9Pzr5cxA30g75SXMhrKa7xys0SzFgEzE/NuGl8FscyL/4fx9sXvfbEKVxKkmw91/xgtrxizMjOQR3vUipvw1u6OCcTFuhZfhYIg==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/PlayWithSeries.java
+    visible: true
+    placeholders:
+      - offset: 321
+        length: 40
+        placeholder_text: /* Declare the Combination instance c */
+        initial_state:
+          length: 40
+          offset: 321
+        initialized_from_dependency: false
+        encrypted_possible_answer: NRtws1/YaSZa+XhB7gb7HlisFsy39rtrqLbuMABTvBv8vpPpR2PzLH/Y2FRLRPVhp4ZKBf0vcZHFLast/qASxl2mJPIZdQ+i99rdLoFXApzvlZDJ218dWi6b+opS1Mt5ULxWuVrS2/UFDSBCG6dvwWPgoddNqwnoc/CaO72zsRFfTNWtzEkK3CQFQpPVClqx
+        selected: false
+        status: Unchecked
+      - offset: 776
+        length: 40
+        placeholder_text: /* Declare the Enumeration instance e */
+        initial_state:
+          length: 40
+          offset: 776
+        initialized_from_dependency: false
+        encrypted_possible_answer: gumDlVj5AxHH/jp9jGoFnc+JQ43IzvjNkHw0zSmunUgStJO6kjnaHhxESAg4/TetPzedVfATMyn2iNobW4eEjPNVJJPgxRjC6NmbwNFwu7XB7TZ9b2inp0ijKWq2Mq9BUHxhkuIkmSk91SCsZGTx2XIMmQ+b9/0/U2IsMhN8Ff0KATW7j3xR/wZKKnOCmoNO
+        selected: false
+        status: Unchecked
+      - offset: 1162
+        length: 38
+        placeholder_text: /* Declare the IFunction instance f */
+        initial_state:
+          length: 38
+          offset: 1162
+        initialized_from_dependency: false
+        encrypted_possible_answer: 3VDw2sStSgaBFrrB7zYq/GGItiJLh/Uun2c3mzrh+SY3lCA1V0Is6/gLMJybNI3L6pGH1rBCNtpoWSilLiT+T56vir8t4Rw10GMHTd97XkB3CS2sHUwQrOIbGOGl3Euf/8JpozNIYfu+79O8Z7Ngdl8LYLrVHxej3mX4w+p+uFf4u00XrrozOILDwPIeY7h7I6j989jH9TWpG5959tY6Iw==
+        selected: false
+        status: Unchecked
+      - offset: 1566
+        length: 53
+        placeholder_text: /* Implement the missing instructions as specified */
+        initial_state:
+          length: 53
+          offset: 1566
+        initialized_from_dependency: false
+        encrypted_possible_answer: GAhcISlYSRoTDI+oLGUhyC7ghNH0gEgm5xTbhnie6F8FD7EpulUxryfWkhStO/+a6QRTCu7r/+GnP137rnFt7kmc4FlG1mr0YPzD40Ml3RgrxXezHAzBqkzBPQnEq2q21c9U4tWG1e89WVEOrLbu1dDM63/bdTJULhepNPG96YB7dNWxIAtta+SlylNRzXY1kdslwi73KtYUalzRWUjsp+MeAZDbh/AdFRH8qXry8saG0gtYRDndAF1NLArx6oS5iZXRjtLyxrWYPz80Vop00Nf/hn8Q6gsslf/Lote29oI=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/SumOperation.java
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 38
+        placeholder_text: /* Implement the class SumOperation */
+        initial_state:
+          length: 38
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: Du95QJpII7BqBnAUMfnsRJW94FYvzy7uZWFFtg4ZkaAhpclzpX33Na7wWFrDAs4zVIE3K3WncZpmzoEoPWxslqi8qZgrFKarHmJAfDZarQxba+PhMHNlsfkfVGsHy02Z1OLI8FHRj239FsFjI6L4EGwY95GwLHC8hC4WECYq35wGspa9mL2TuYuyCJtlaD5xZ+HcoZgFHiB1FxW5dt8uocaDRoURspnlLp26cd5J11ER8uo2vW9w1ncIRCsAg7iud6ekFcG83BuT7C1/TqCeG4rWWB+bwFPjqbFtBq+BBrmaUTKnZdpylQNv/XbOh0ZCDC/UoKbRNuBsM78rFbCcOt+eDgk0TyTDrX9D4YUTaLg=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/Combination.java
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 49
+        placeholder_text: /* Implement the generic interface Combination */
+        initial_state:
+          length: 49
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: +IszU2sLU405ZWI8OEONm5s3rrmqclExSHFkZ4Y+cizzY9QxcokQ1k2rfCkb+WZYnuTyUetyBm90rQS+e0miFgYm3T6pWvN422sHFD5QIYWzAb2r6nFpoFewSEQSSlxJgelyMbdEpitI21qiX6lh51gLLFa2jlMAC8DS9DnM8d+ySVbCh+Mto7B7AbJk5R+CuJRqwHGY96DnsXP/JVgWMI5uPi31Wd3asVXJuZdAnTPIxgsfc4Gw0JZfm3b1w2go34JtMRvEtHgQrcfqRFznoUkY2kQedfYv3U7GXhIzlMPcUqiJR/ANzvBRgn2U9k4iGcD37p3FYa6YDB5ywHzYv2rFG9UCA2NqVL0h074aZbA5YjpyVY8iGT4W/t77bM31kRSRayw8pUKBURR0YJlTf3xWYXH2Jt1VT7/SBtnelmxFavumOA6lZhTNArN5mSNqKvhAREEVLfixLSIHQMVkxQ==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/EvenIntegerSequence.java
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 45
+        placeholder_text: /* Implement the class EvenIntegerSequence */
+        initial_state:
+          length: 45
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: t1y88ERSge2vLKtq9bozRMg+ppY7+eYwomyWTR4Up8Ay9yeUmnudKzhBTWPK0mhnw45p10BNhqYWa8aYJlEJqTeYDWl28IzubmWMYHZpZSkmU9GKSCQeRoIfqS1oMu2i+tMl/sw3GqSxVWQD3VPqaDh/6m3q7LTtTSpiDnyVDljBvv/D1JXgZFA4EnK9ILlkxNSGXMkuZhpx2v4jyuzh/IMkICUfM24k5sGJwWKKbncvgvvvKqM2Nan1womApN/R85MEwDwXAGRkmlrZbHYd+kiHm46XJoq2V7e8K0veRcuZF0iOaJEZjG/UINC2D1FO2akjwjyCfOynnlBVEX5TCmAlkZKK6QFFsQ2u5UiUVmaWCVtZMQ85XWCzRY3ZPYIaGRaAV/y4FIbS1+efaABrqp9/pK5MH7ZhqSrPVtI7u6LbNwysUWEWU+ZdAhomydLCtjJlKJ7irunyQkIad85OukPEJE+fS5o8oQDrEOLD0W4ly7/FxKDy9zOrJJxRbRWt89iVyEdK2LiBEBKx5XIlNBg6yVAsb+Sc/J5fLvE6l0a4oWNyOaUO2eK5Lh/8EMPWbaxvA72hBQ8wtALj3WwTNZc+i8Y0Gd42ZIyMyDeTapo6SeZ7b9wblaF/Aw7Ygefsz49+sYZXd48wN6APsypVow==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/ConcatOperation.java
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 41
+        placeholder_text: /* Implement the ConcatOperation class */
+        initial_state:
+          length: 41
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: Vf450tskauyMJxuX3FuSg0mwAjpDSWH61u29AuUvkMRmz24e5FIuQj17PEZkZGLWL5W9+Ts/ceJt5yWUsVyaHZMQYlY8dVGWLHs8dzRqnSJLqrk4xL0WLrvcDA37PmSz/cI1cNoorUW9x4TWUIxyZAluUkElX1YXXa5B62skInKo4xsY7D/hcqmovKc8I4ztgxdFyqppgkHUi3rVbmaQDzt9fSXF50ShVjG+0r9hGdkIlZdhZM+Gj+9/Gfp3kaHAUB+xBRWUc81MlnFOwQqMsiK9LMq62hZRR/5ttybIR/Q5Owkmu2t4dCbpKMrfGJ36pDP74edeWDLA0m7dKlvaEe4H/qsdw2oJ9dNbsOF8eO4=
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true

@@ -1,0 +1,22 @@
+type: edu
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 372
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 372
+        initialized_from_dependency: false
+        encrypted_possible_answer: WUeQ7LZ2Q2QA4LimKUhQPNdNS+naBbIU6jkVbeJmIOhX1XrnYbMOZ2s5s9JJ05n4Jy+OYtDvfAdIbhJU7CrUZvbYhxtp3kQ4VT4xVmvZhxc+mLmif8irNnf3TrVFD+HB20GMlRjcso5NQjJvxS3wh6KDDJy3yw+D+RqdYRNGUko7gyIE6DJGe+oJfYLeqZGDKZqRxak9kVZdA+FlL4NH1oBqjMa368eQoVkr/3kjCrBsjqqDh5x85ilbNqKiaOPkYwO/Zot/vM4VdMo21Yf6zsDp+/wQ5+XsO34U8JN/fepjv15WaA0hgZNpx78/WOcQUTyEfU0Y2S8IkIA/Dn4PuBDhGUM1HrmSs5CRPYvJBRom94nANGvF8/npjus+GMnqJs7xXXEY3extxqcKkVXNOGjdGIhy5i0Btsc21rkwnNxlD7XFcUIe/nCpY4+fGn3nqNE4mAgwD2cQmvMFrUzywubnnUSOnyE6JIXcEZdcr1gh4/Vl5eWlkM8ulXfHJrj9VbHsCgeFrVqS3hkaZHF2B2ReJPmzHCFWSsTRYW3Q2RRx9EAgXIo4ykgMmAM1NAY+TveVIpcxu98KEuhBMYYq6mQ2Y7JxnhoORCInXn00ZmW3s3dCvd1SNVt27qNNdMbY2UaO8C3vatLPPAkEJ9R4vqwX0HANPVx4dUvF5L1ifnHlnIHnppQSjv6rgootaNkKnqs5yXztIIXJ0UilJweXEMP4UA8vef9e3D0DZ0tejFNCat7QsKKgq2QZ+QwFxghWdRu4Yfh0msc8OMZqBDsCxXCYVcYANEefg51dSEvL/kzCwgtriD56eGPrwcZUy9xb/XzyDfrNryl0UyrQArSNkqMb9CG1ezJdYrHO0jIKc6pCfPPvFi/udpdnlqq6lAQNxehgZ+ToIrwUSxPfFxao7ljcUmxSLAlC+k4c57RYZcPf5fZx+CSCnqZJGHNl6RRn233As2Pue5Z+g5O666XDOQVIRqDttHnvymbbVl8/Bvk7rzcfBVlqJQdiw8MtJ2pwFTau8314W7JNLDwEw82P98sqrp5c2WDbvpgxTSXHJPRhhIJQaSWlIpfeVrqKMpMzMY6XTwggnNC7Bztujg0cH62aMYBbPQrtDQOHgqKAmBEu+2azs/aeqSnLcDHLK+uhmh5sAYGaxbOMaNWeB3qtHb1XKd6n1sPUVDfyUCCVlX28UItPfJu3fv2Q7xB9zOlSS0Fiht0GN32x7nxjFiLUXIhbp580D8pi2cdohnZ3UglRY5RRc7BQY1KlKNv4X8bMkLoJeTP7ls2OMHGgEiha9G4ZXuJjZXMOaWNuAd793b8CFZ6qX2IbxKU3EoQ3fb4EyYeiBWQ3MKAbK9RBnMArGZ/750dawKsgcE6BO0n6BbVEeFtOeh6OA56ztdLQq6DEEvxL7/Gl12J9elL9KL5dFP9CfCjk+1Dz0v8U4X/bgpLRzE8njjg/a6kAJx5f5kqmCQ+3aKEicOaTGNv5LYzSG8rxlk7uIkMHhmF5RaFGICDJGo/lLUp4zuCAD0LULejO8nrEl71OHGVKDXE7uWU2RyUjnv0GJ/N9RW2qjhfCQl8U+3XcZ4xmTUFfEliRFdGc2ttL5Sev1k5q3xGlygHvcSN+Z97dtZo59+wiXj+WWp64+b7B08yDnhbhgTbUIRyVGDyyvA2URF7d9xdkTR0EcO1KlR6BSBjwlQCHqGYPv5Ftp9FgARFYqtBXN0MYuXG0nEg/kOxlPSSi7DYsdaMBaVIpbYNdNUrDqJeC7Zn2JTs=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true

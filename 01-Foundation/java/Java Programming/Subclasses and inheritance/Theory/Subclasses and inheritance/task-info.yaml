@@ -1,0 +1,36 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: <code>Car</code> possède les attributs de <code>Vehicle</code>.
+    is_correct: true
+  - text: <code>Car</code> peut utiliser les attributs de <code>Vehicle</code>.
+    is_correct: false
+  - text: <code>Vehicle</code> possède les attributs de <code>Car</code>.
+    is_correct: false
+  - text: <code>Car</code> et <code>Truck</code> sont des sous-classes de <code>Vehicle</code>.
+    is_correct: true
+quiz_header: Sélectionnez les affirmations correctes.
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Vehicle.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Car.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Truck.java
+    visible: true
+    learner_created: false
+  - name: inheritance.PNG
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: class_diagram.PNG
+    visible: true
+    is_binary: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

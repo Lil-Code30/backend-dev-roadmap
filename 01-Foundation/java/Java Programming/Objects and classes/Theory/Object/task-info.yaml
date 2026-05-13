@@ -1,0 +1,28 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: La classe <code>Engine</code> possède deux méthodes.
+    is_correct: false
+  - text: La classe <code>Engine</code> possède un constructeur par défaut.
+    is_correct: false
+  - text: Les méthodes de la classe <code>Car</code> peut accéder aux attributs <code>type</code>
+      et <code>power</code> de n'importe quelle instance de la classe <code>Engine</code>
+      avec l'opérateur <code>.</code>.
+    is_correct: true
+  - text: La méthode <code>newCarFromFactory()</code> de la classe <code>Car</code>
+      prend un objet en paramètre.
+    is_correct: false
+quiz_header: Sélectionnez l'affirmation correcte.
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: src/Car.java
+    visible: true
+    learner_created: false
+  - name: src/Engine.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

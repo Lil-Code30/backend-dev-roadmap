@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Les interfaces peuvent contenir un constructeur.
+    is_correct: false
+  - text: Les interfaces peuvent contenir des constantes et des méthodes par défaut.
+    is_correct: true
+  - text: Une classe peut implémenter plusieurs interfaces.
+    is_correct: true
+  - text: Une classe peut étendre plusieurs classes abstraites.
+    is_correct: false
+quiz_header: Sélectionnez les affirmations correctes.
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/AbleToCompare.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Person.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

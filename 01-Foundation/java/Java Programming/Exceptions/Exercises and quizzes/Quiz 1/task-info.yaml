@@ -1,0 +1,19 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: 10
+    is_correct: false
+  - text: 20
+    is_correct: false
+  - text: 30
+    is_correct: false
+  - text: 40
+    is_correct: true
+quiz_header: Quelle est la valeur de "a" au terme du programme ?
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

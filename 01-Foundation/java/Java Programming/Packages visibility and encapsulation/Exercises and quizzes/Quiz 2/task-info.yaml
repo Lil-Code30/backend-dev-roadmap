@@ -1,0 +1,23 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: <code>publicD</code>
+    is_correct: true
+  - text: <code>protectedD</code>
+    is_correct: false
+  - text: <code>packageD</code>
+    is_correct: false
+  - text: <code>privateD</code>
+    is_correct: false
+quiz_header: Quels sont les attributs de Dummy qui sont accessibles dans la classe
+  <code>Main</code> ?
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Dummy.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

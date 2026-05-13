@@ -1,0 +1,110 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 214
+        length: 54
+        placeholder_text: /* Copy the expression with the correct parentheses */
+        initial_state:
+          length: 54
+          offset: 214
+        initialized_from_dependency: false
+        encrypted_possible_answer: QXATR4K18NQ2ZJ9K3hPHhQDWDY3XXII8pX+2bRhrf4M=
+        selected: false
+        status: Unchecked
+      - offset: 534
+        length: 73
+        placeholder_text: /* Add the result of the expression above to be printed to the
+          console */
+        initial_state:
+          length: 73
+          offset: 534
+        initialized_from_dependency: false
+        encrypted_possible_answer: 8UVYmCE3KV9h9Jl9gJBq4w==
+        selected: false
+        status: Unchecked
+      - offset: 658
+        length: 73
+        placeholder_text: /* Add the result of the expression above to be printed to the
+          console */
+        initial_state:
+          length: 73
+          offset: 658
+        initialized_from_dependency: false
+        encrypted_possible_answer: k80H4LUDrVhJUY/8CU3OMA==
+        selected: false
+        status: Unchecked
+      - offset: 782
+        length: 73
+        placeholder_text: /* Add the result of the expression above to be printed to the
+          console */
+        initial_state:
+          length: 73
+          offset: 782
+        initialized_from_dependency: false
+        encrypted_possible_answer: JxzSYzoVWb+pEphQD8QY7g==
+        selected: false
+        status: Unchecked
+      - offset: 948
+        length: 73
+        placeholder_text: /* Add the result of the expression above to be printed to the
+          console */
+        initial_state:
+          length: 73
+          offset: 948
+        initialized_from_dependency: false
+        encrypted_possible_answer: guZZ+yY7JH0E0qAAg3mGWQ==
+        selected: false
+        status: Unchecked
+      - offset: 1140
+        length: 73
+        placeholder_text: /* Add the result of the expression above to be printed to the
+          console */
+        initial_state:
+          length: 73
+          offset: 1140
+        initialized_from_dependency: false
+        encrypted_possible_answer: fi0hwhLLnCVl6XovQkdXag==
+        selected: false
+        status: Unchecked
+      - offset: 1454
+        length: 54
+        placeholder_text: /* Copy the expression with the correct parentheses */
+        initial_state:
+          length: 54
+          offset: 1454
+        initialized_from_dependency: false
+        encrypted_possible_answer: 7gDqp6miqzWzu8e7xlTYfw==
+        selected: false
+        status: Unchecked
+      - offset: 2211
+        length: 53
+        placeholder_text: /* Add the value of i to be printed to the console */
+        initial_state:
+          length: 53
+          offset: 2211
+        initialized_from_dependency: false
+        encrypted_possible_answer: ijcwhvxjNfjEK6UzHhlJtQ==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: precedence.png
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+  - name: test/latest_output.txt
+    visible: false
+    learner_created: false
+  - name: precedence.drawio.png
+    visible: true
+    is_binary: true
+    learner_created: false
+status: Unchecked
+record: -1

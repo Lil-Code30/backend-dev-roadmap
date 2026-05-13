@@ -1,0 +1,23 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Les attributs de <code>p1</code> sont modifiés.
+    is_correct: true
+  - text: "<code>d</code> contient la valeur de la distance euclidienne entre (0.0,\
+    \ 0.0) et (3.0, 4.0)."
+    is_correct: false
+  - text: Les deux points <code>p1</code>et <code>p2</code> ont les mêmes attributs.
+    is_correct: false
+  - text: L'opérateur <code>.</code> ne permet que d'accéder aux méthodes.
+    is_correct: false
+quiz_header: Sélectionnez l'affirmation correcte.
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: src/Point.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

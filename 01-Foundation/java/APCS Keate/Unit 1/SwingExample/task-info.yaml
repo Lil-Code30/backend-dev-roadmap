@@ -1,0 +1,42 @@
+type: edu
+files:
+  - name: src/SwingExample.java
+    visible: true
+    placeholders:
+      - offset: 614
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 614
+        initialized_from_dependency: false
+        encrypted_possible_answer: WOvcnKGWT8eisPJgyJKK3fImk07pQXd6+9VD3cmvMqW2FTGKYwkdBznbJRyEUbHuP2BEZYgVc8LUejOH05oquN7IIp94QABqzcSAjaB1yD+4yw3rqDXmYKtnEzNrtIZ4
+        selected: false
+        status: Unchecked
+      - offset: 1107
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1107
+        initialized_from_dependency: false
+        encrypted_possible_answer: C5o3i2hpqU2g2bIbI1bkGeLKvJrGAQoZhakEPtSjYfB4GdfvUBmgNSD0mwQrCEwcs2uCTyfwI+j2rLp3SmTx6f0VYtRN/qg2sXt1SG4s1EQWUJLJ+GEpoCL2P3wwPLtUfC1wUXYkRjtFI5hF2LJLobOf3ru6JW8vQ8QoyQfd/9molVX4j2K43yWHMbAU1BIrTdDdzJfaLpupx/o2vwtRwYAW+RsPZkb5VAEM3TcTOvc4d6NY43Wa+qGKQyOOt6fFBEpKIgjY1VE9L9is2bU0ROZZ9RpgsVVMr1DzqgwltjMBV7USPAHzcjj9Xw0FUurgWUD1Qg7J9WjEp8fUtFkqiA==
+        selected: false
+        status: Unchecked
+      - offset: 1631
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1631
+        initialized_from_dependency: false
+        encrypted_possible_answer: qGAqVNDZqP4TgDOKwouBTkABbVp8R3RluJifCL91bb28MNxxjjHByFpYvWlWHj6fqrBr6Ks1vsJ9wQittV2iTr3jEkqIM3k6Rh5HLcB+qyHfQKr3pO4ad0C3AyIzIh8fNyQ6fz8hpIf3OIDXg/+0egOWob9jaIYVHCTP+s4P9Fx/XNR14DUBrr60sYg0mZWPX2tJcZGchnv6qr8mVvzKZsDfmh8GmGg5hspwFUfJW+ZteZhmlE0ZxbheIIfQruTnFaOWMjW/JJn3/N3pjyUxusPiWMasITOzoF80btbxjEGkBLwmRhZ0rxYiXD8/4mt1w1ED1M4cGwOX9T9udaX5xQ==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/SwingExampleTest.java
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true

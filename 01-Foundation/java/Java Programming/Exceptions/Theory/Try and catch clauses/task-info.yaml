@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: "try { } catch(Exception) { }"
+    is_correct: false
+  - text: "try { } catch(Exception e) { }"
+    is_correct: true
+  - text: "try { } catch(IllegalArgumentException & NullPointerException e) { }"
+    is_correct: false
+quiz_header: Quelle sont les lignes qui compilent sans erreur ?
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: TryCatchImage.PNG
+    visible: true
+    is_binary: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

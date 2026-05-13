@@ -1,0 +1,28 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Un constructeur n'a pas de type de retour.
+    is_correct: true
+  - text: Un constructeur est une méthode.
+    is_correct: false
+  - text: Un constructeur retourne une valeur.
+    is_correct: false
+  - text: La classe Point ne possède pas de constructeur par défaut.
+    is_correct: true
+  - text: "Le premier constructeur de la classe <code>Point</code> initialise le point\
+    \ à (1.0, 1.0)."
+    is_correct: false
+  - text: "Le deuxième constructeur de la classe <code>Point</code> initialise toujours\
+    \ le point à (0.0, 0.0)."
+    is_correct: false
+quiz_header: Sélectionnez les affirmations correctes.
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: src/Point.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

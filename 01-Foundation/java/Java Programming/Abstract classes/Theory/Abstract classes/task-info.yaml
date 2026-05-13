@@ -1,0 +1,33 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Une méthode abstraite contient un corps.
+    is_correct: false
+  - text: Une classe possédant une ou plusieurs méthodes abstraites est forcément abstraite.
+    is_correct: true
+  - text: Une classe abstraite ne peut pas être instanciée.
+    is_correct: true
+  - text: Une classe abstraite doit obligatoirement redéfinir les méthodes abstraites
+      de la super-classe.
+    is_correct: false
+quiz_header: Sélectionnez les affirmations correctes.
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: abstract.PNG
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Shape.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Circle.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Rectangle.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

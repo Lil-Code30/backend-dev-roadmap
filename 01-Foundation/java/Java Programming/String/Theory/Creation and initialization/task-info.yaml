@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Un 0
+    is_correct: false
+  - text: Une valeur négative
+    is_correct: false
+  - text: Une valeur positive
+    is_correct: true
+  - text: Cela ne compile pas
+    is_correct: false
+quiz_header: Quelle est le résultat de <code> "HelloWorld".compareTo("Hello World")</code>
+  ?
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

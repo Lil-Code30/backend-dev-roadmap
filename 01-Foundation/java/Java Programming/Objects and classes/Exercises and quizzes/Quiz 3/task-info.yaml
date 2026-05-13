@@ -1,0 +1,27 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "<code>d1.number</code> = 2, <code>d2.number</code> = 1"
+    is_correct: false
+  - text: "<code>d1.number</code> = 2, <code>d2.number</code> = 2"
+    is_correct: false
+  - text: "<code>d1.number</code> = 3, <code>d2.number</code> = 2"
+    is_correct: false
+  - text: "<code>d1.number</code> = 3, <code>d2.number</code> = 3"
+    is_correct: false
+  - text: "<code>d1.number</code> = 3, <code>d2.number</code> = 4"
+    is_correct: true
+  - text: "<code>d1.number</code> = 4, <code>d2.number</code> = 4"
+    is_correct: false
+quiz_header: Quels sont les valeurs de l'attribut number de d1 et d2 au terme du programme
+  ?
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: src/Dummy.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

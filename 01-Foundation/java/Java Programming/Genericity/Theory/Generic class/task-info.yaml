@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Les raw types sont habituels.
+    is_correct: false
+  - text: La généricité permet d'éviter la création de classes pour chaque type d'utilisation
+      nécessaire.
+    is_correct: true
+  - text: La convention utilise les lettres minuscules pour les paramètres représentant
+      un type.
+    is_correct: false
+  - text: Les diamonds (<>) devraient être utilisés lors de l'initialisation d'un objet
+      générique.
+    is_correct: true
+quiz_header: Sélectionnez les affirmations correctes.
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Box.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

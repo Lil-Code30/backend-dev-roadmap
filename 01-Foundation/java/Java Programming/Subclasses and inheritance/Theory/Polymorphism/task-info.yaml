@@ -1,0 +1,21 @@
+type: theory
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: diagram.PNG
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Animal.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Dog.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Fish.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

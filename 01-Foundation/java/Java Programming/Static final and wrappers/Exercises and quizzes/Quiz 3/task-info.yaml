@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: A F S B D G C
+    is_correct: false
+  - text: A S F D B G C
+    is_correct: false
+  - text: A S F B G D C
+    is_correct: false
+  - text: A S F B D G C
+    is_correct: true
+quiz_header: Quel est l'affichage de ce programme ?
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: src/Dummy.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

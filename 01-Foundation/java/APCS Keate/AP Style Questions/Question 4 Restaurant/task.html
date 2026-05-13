@@ -1,0 +1,150 @@
+<html>
+<p><strong>AP Style Question 4</strong></p>
+Code has been added in places it normally would not be on the AP Test to ensure the program runs. This has been noted in
+each class with a comment. For instance, the implementation of the methods and constructor and the instance variables
+of the <strong style="font-family:courier;">Table</strong> class would not
+be available to you on the test as the return values of the methods
+<strong style="font-family:courier;">getStatus</strong> and <strong style="font-family:courier;">getCapacity</strong> would give
+you any information you would need to answer the question. It might be easiest to pretend you cannot see this code where noted.
+<p></p><strong>You may not alter any code other in the assignment other than where noted with
+    /* TODO */</strong>.
+<p></p>
+Parts of this question were generated using Claude and were heavily edited by me for clarity and consistency with the AP Test.
+<br>Citation: <i>FRQ 4</i>, Claude, Sonnet 4.5, Anthropic, 21 January 2026, https://claude.ai/chat/.
+<p></p>
+SHOW ALL YOUR WORK. REMEMBER THAT PROGRAM SEGMENTS ARE TO BE WRITTEN IN JAVA.
+<ul>
+    <li>Assume that the classes listed in the Java Quick Reference have been imported where appropriate. </li>
+    <li>Unless otherwise noted in the question, assume that parameters in method calls are not
+        <strong style="font-family:courier;">null</strong> and that methods are
+        called only when their preconditions are satisfied. </li>
+    <li>In writing solutions for each question, you may use any of the accessible methods that are listed in classes
+        defined in that question. Writing significant amounts of code that can be replaced by a call to one of these methods will not receive full credit.</li>
+</ul>
+This question involves managing tables at a restaurant. A restaurant manages its tables using the
+<strong style="font-family:courier;">Table</strong> class and the
+<strong style="font-family:courier;">Restaurant</strong> class. The
+<strong style="font-family:courier;">Table</strong> class is used to store information about each table in the
+restaurant: a table's <strong style="font-family:courier;">status</strong>, indicating whether the table is
+<strong style="font-family:courier;">"available"</strong>, <strong style="font-family:courier;">"reserved"</strong>,
+<strong style="font-family:courier;">"occupied"</strong>, or <strong style="font-family:courier;">"awaiting bill"</strong>
+and its <strong style="font-family:courier;">capacity</strong>,
+the maximum number of people who can be seated there. The
+<strong style="font-family:courier;">Table</strong> class is provided in the assignment and has
+already been implemented.
+<p></p>
+The <strong style="font-family:courier;">Restaurant</strong> class maintains a two-dimensional array of
+<strong style="font-family:courier;">Table</strong> objects, <strong style="font-family:courier;">seating</strong>.
+The rows of the two-dimensional array
+<strong style="font-family:courier;">seating</strong> specify the section of the restaurant where the table is located,
+and the columns specify the position of the table in the section where the table is located. A partial declaration of the
+<strong style="font-family:courier;">Restaurant</strong> class is provided in the assignment.
+<p></p>
+Write the <strong style="font-family:courier;">Restaurant</strong> method
+<strong style="font-family:courier;">rowWithMost</strong>. The method should return the index of the row in
+<strong style="font-family:courier;">seating</strong> that contains the most occurrences of the parameter
+<strong style="font-family:courier;">target</strong>. If multiple rows have the most occurrences of
+<strong style="font-family:courier;">target</strong>, any of those row indices can be returned. If no rows have an
+occurrence of <strong style="font-family:courier;">target</strong>, -1 is returned.
+<p></p>
+Suppose <strong style="font-family:courier;">seating</strong> has the following contents. For each element, the
+first value listed is the <strong style="font-family:courier;">status</strong> of the table and the second is the
+<strong style="font-family:courier;">capacity</strong>.
+<p></p>
+<table>
+    <tr>
+        <th></th>
+        <th>0</th>
+        <th>1</th>
+        <th>2</th>
+        <th>3</th>
+        <th>4</th>
+    </tr>
+    <tr>
+        <th>0</th>
+        <td><strong style="font-family:courier;">available<br>4</strong></td>
+        <td><strong style="font-family:courier;">occupied<br>2</strong></td>
+        <td><strong style="font-family:courier;">available<br>4</strong></td>
+        <td><strong style="font-family:courier;">reserved<br>6</strong></td>
+        <td><strong style="font-family:courier;">occupied<br>2</strong></td>
+    </tr>
+    <tr>
+        <th>1</th>
+        <td><strong style="font-family:courier;">occupied<br>4</strong></td>
+        <td><strong style="font-family:courier;">occupied<br>2</strong></td>
+        <td><strong style="font-family:courier;">occupied<br>4</strong></td>
+        <td><strong style="font-family:courier;">available<br>2</strong></td>
+        <td><strong style="font-family:courier;">reserved<br>6</strong></td>
+    </tr>
+    <tr>
+        <th>2</th>
+        <td><strong style="font-family:courier;">reserved<br>8</strong></td>
+        <td><strong style="font-family:courier;">available<br>4</strong></td>
+        <td><strong style="font-family:courier;">occupied<br>2</strong></td>
+        <td><strong style="font-family:courier;">available<br>4</strong></td>
+        <td><strong style="font-family:courier;">available<br>2</strong></td>
+    </tr>
+    <tr>
+        <th>3</th>
+        <td><strong style="font-family:courier;">available<br>6</strong></td>
+        <td><strong style="font-family:courier;">reserved<br>4</strong></td>
+        <td><strong style="font-family:courier;">reserved<br>8</strong></td>
+        <td><strong style="font-family:courier;">occupied<br>2</strong></td>
+        <td><strong style="font-family:courier;">reserved<br>6</strong></td>
+    </tr>
+    <tr>
+        <th>4</th>
+        <td><strong style="font-family:courier;">occupied<br>2</strong></td>
+        <td><strong style="font-family:courier;">available<br>4</strong></td>
+        <td><strong style="font-family:courier;">reserved<br>6</strong></td>
+        <td><strong style="font-family:courier;">available<br>2</strong></td>
+        <td><strong style="font-family:courier;">occupied<br>4</strong></td>
+    </tr>
+    <tr>
+        <th>5</th>
+        <td><strong style="font-family:courier;">reserved<br>4</strong></td>
+        <td><strong style="font-family:courier;">occupied<br>2</strong></td>
+        <td><strong style="font-family:courier;">available<br>4</strong></td>
+        <td><strong style="font-family:courier;">reserved<br>6</strong></td>
+        <td><strong style="font-family:courier;">reserved<br>2</strong></td>
+    </tr>
+</table>
+<p>The element <strong style="font-family:courier;">seating[0][1]</strong> indicates that
+    the table in <strong>Section 0</strong> and <strong> Position 1</strong>  is
+    <strong style="font-family:courier;">occupied</strong> and has a capacity of
+    <strong style="font-family:courier;">2</strong> people.</p>
+<p></p>
+Suppose a <strong style="font-family:courier;">Restaurant</strong> object
+has the instance variable <strong style="font-family:courier;">seating</strong>.
+The expected behavior of <strong style="font-family:courier;">rowWithMost</strong> for this object is as
+follows:
+<ul>
+    <li>
+        The call <strong style="font-family:courier;">rowWithMost("occupied")</strong> should return
+        <strong style="font-family:courier;">1</strong> because <strong style="font-family:courier;">occupied</strong>
+        appears 3 times in row 1 and fewer than 3 times in each of the other rows.
+    </li>
+    <li>
+        The call <strong style="font-family:courier;">rowWithMost("available")</strong> should return
+        <strong style="font-family:courier;">2</strong> because <strong style="font-family:courier;">available</strong>
+        appears 3 times in row 2 and fewer than 3 times in each of the other rows.
+    </li>
+    <li>
+        The call <strong style="font-family:courier;">rowWithMost("reserved")</strong> should return either
+        <strong style="font-family:courier;">3</strong> or <strong style="font-family:courier;">5</strong>
+        because <strong style="font-family:courier;">reserved</strong>
+        appears 3 times in row 3, 3 times in row 5, and fewer than 3 times in each of the other rows.
+    </li>
+    <li>
+        The call <strong style="font-family:courier;">rowWithMost("awaiting bill")</strong> should return
+        <strong style="font-family:courier;">-1</strong> because no element of
+        has the <strong style="font-family:courier;">status</strong> of
+        <strong style="font-family:courier;">awaiting bill</strong>.
+    </li>
+</ul>
+Complete the method <strong style="font-family:courier;">rowWithMost</strong>.
+<p></p>
+
+<strong>Fill in the comments at the top of the <strong style="font-family:courier;">Restaurant</strong> class with
+    your name and pertinent information.</strong>
+</html>

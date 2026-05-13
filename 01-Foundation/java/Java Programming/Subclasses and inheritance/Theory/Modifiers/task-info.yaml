@@ -1,0 +1,31 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Il n'est pas possible de créer une sous-classe à partir de la classe Child.
+    is_correct: true
+  - text: Il n'est pas possible de créer une sous-classe à partir de la classe Parent.
+    is_correct: false
+  - text: Il n'est pas possible de modifier l'attribut LEGAL_AGE.
+    is_correct: true
+  - text: Il est possible de modifier l'attribut att1 de Parent dans la classe Main.
+    is_correct: false
+quiz_header: Sélectionnez les affirmations correctes.
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Parent.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Child.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/GrandChild.java
+    visible: true
+    learner_created: false
+  - name: src/abc/Dummy.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

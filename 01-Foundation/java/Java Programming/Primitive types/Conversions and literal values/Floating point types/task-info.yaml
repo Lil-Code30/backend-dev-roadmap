@@ -1,0 +1,41 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 336
+        length: 41
+        placeholder_text: /* Add explicit conversion if required */
+        initial_state:
+          length: 41
+          offset: 336
+        initialized_from_dependency: false
+        encrypted_possible_answer: 2zfD6yWu+HYNE1XrVqYdUQ==
+        selected: false
+        status: Unchecked
+      - offset: 451
+        length: 58
+        placeholder_text: /* Declare an int variable named i1 initialized with f1 */
+        initial_state:
+          length: 58
+          offset: 451
+        initialized_from_dependency: false
+        encrypted_possible_answer: GdcQT3m/dogb9uaxXcXfncuNbpN71CK65b942ivip08=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tableau_types_conversion.png
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+  - name: test/latest_output.txt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

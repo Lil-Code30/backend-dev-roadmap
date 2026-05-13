@@ -1,0 +1,105 @@
+type: edu
+files:
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+  - name: src/DeadDiskException.java
+    visible: true
+    learner_created: false
+  - name: src/Disk.java
+    visible: true
+    learner_created: false
+  - name: src/DiskDevice.java
+    visible: true
+    learner_created: false
+  - name: src/InvalidIndexException.java
+    visible: true
+    placeholders:
+      - offset: 187
+        length: 41
+        placeholder_text: /* Choose the appropriate mother class */
+        initial_state:
+          length: 41
+          offset: 187
+        initialized_from_dependency: false
+        encrypted_possible_answer: O9b6onizyee6rjlKOIOS4v0uhChnO7lbHpo+9Wj+R6E=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/Raid.java
+    visible: true
+    learner_created: false
+  - name: src/Raid0.java
+    visible: true
+    placeholders:
+      - offset: 512
+        length: 57
+        placeholder_text: /* Implement the Raid0 class based on existing classes */
+        initial_state:
+          length: 57
+          offset: 512
+        initialized_from_dependency: false
+        encrypted_possible_answer: ZdWj0n08Abtk6qG1vCDOTr1M2YTLKQ92yPh81FmBQojkYBLWWj4WdPvvdpnHbBiG8hIn5xKynm8h8fHmAHm2Tz803yhve9y8cmuQuqHqZGJL2YECYG5qRb7CyVIeGn64eEpwHcMohJ0UloVO6yG0MZFvBQto481ynt49H3nYbQJDnuPD/wmwQJJ+mP6Vyi+oTNCOF6t/V3ab3SfYhGbu3kI/LWbUxNH4sQPEIjVJQWK/2Lf3nPc2C13lPQHZfRwRtIJMOnXvXC+suYw601XmvoB4gzfqVa1swEbQMYi2m7sAnCtoS/vRt/R+h5H2TUkXKry3ZSJgd6htlAbRNGHp75qHltc68jWwfUaeosr99M6yeR3eFBz6DZU/ZiXy3ODYBjxPCn/jgyN8wAtJAP9LQKD6sJftOu+9res8lR05J++jOxnRqgZMABYsY+6K6fpw4u6E1Pcv4g7sWVpO+9dQTQ02cCwhEyWX6V9oYzEAfRN9aNt1DoRW6nWvtQWsFH9mPSQEYWWZHhx1e+MqE4BshiDRJaj7KGwICB9O3hWHUpC9+uTYl3V0CVrBwRySEtz5igi7RqlvwwOgSapUxzh1wTKi3VSNQw+ESb5ANGGrmQFcDDD3zrPZ60fRtaKoeOYouj46X8VdM9fBmuTyi5+KwNfhP+vZ+WQcCPAF3h5BREKlWC6v+XfSEaNvIOsp45mOu0IcbwwTopG1YtbKiFD4bV1k/Kacp5KOL69+8R+Zdu+XIknuAPAfdREDGGHUCEoWZE9B8EJfM9ejy9ufGv5Zft5fjOZfw7X1Z6Btqyalubr9JFQfsI2bTX4d7D7uSvTthCCayZk/uRLHhjbe70bfqPC5iUT7L0lHWSTP1tsU+MvQBRIIlk9CWM4vGhEuIoudObzYcjxDTIQhNM/iyqYLYh+DBAGIxFlPOfo5RPEKqI3k/uxdrxur5G3eQXH+EJzcSbYgAHWODkO196jHKszgiK8P93qljYF55A4IyZK8kQw6XHfOhYxRFwpF01Tnzb3aOh7BGiRXLL8onF1mnWVavIAwQv4q08jIkGIq+KI+pvRaSAzrEjvtpq+AuJfTvxJTSq73nkbKeYpkucW3gR+9xgMJ2ohtPiax/jmtMW6juYoiGVKLLAzFZp/7fDXbdNKi
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/Raid1.java
+    visible: true
+    placeholders:
+      - offset: 347
+        length: 57
+        placeholder_text: /* Implement the Raid1 class based on existing classes */
+        initial_state:
+          length: 57
+          offset: 347
+        initialized_from_dependency: false
+        encrypted_possible_answer: L7XqPSuuJWmdIvlg6I5bI2r+ffyxGuLc+0oP36Y2l4n6tCHpTAWQ3V128f/nVxzrnf2pi7a2V20XaF18IdXhg+fjlzlMNlNP4H7D3Woc1c8zK/1wweXtWTJ1WCf94fcnI7b9pHF3Ay5ajX/pqtokHBPlSOnOMpI1dj8CmljMnNHfF/9OZs12IfvGn3/ZNLfEc3SMU1hJjFlbXM8rmVNsg+wmEiWK2E5sm3D/yD0U854KHlwNw3iAWo5li3fDK/fDCEmeUVyh+MITXLUmRtUp3rz5/dHHwQgDM8aaO4ssGqhWGXqLsU6B48XEuLtxXur/gFPnMXnJ8b/hrCqt+SCXBjIdTXRV1c33nTxqos0KRdKJkwJVAYZrJSOXs6edjG4aDm6XQmd1LWMyaptffJu/ok/+SBb36XEz5bbQ9u/NZFmf5zP1vayumWOTtAgAQO/HGEFnYnORj+jJ7IDLX5OtoO5tAfMpiGbpXk6LxbYGw/O8YKTagWidfjA6U6kzPtO91bjc9YbHYFudgeua/ZRS2x5YvIfaCvnbSwo6/gGfMiZLUkT2bCvCiKI2Ev6gURFzBlalW9lHsqONxZwSMBthMPOcO1NkOB+vB0UWJZilA/aKhaUU+ZGRKfH9PBLkmBP3OlENKi+CClAhmHrdf5+FBAG9G9yFOAIM3dv2OR+7+/9j3j3bi/FjxmCzcRiB+NNpY3+7ymUD0tU/xK+JQ2MV8CZYzfvG800aAgiq1nfKbrXOTXO6wjQDIsu635DLx8UE
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/SingleDiskDevice.java
+    visible: true
+    learner_created: false
+  - name: src/FunWithDisks.java
+    visible: true
+    placeholders:
+      - offset: 1591
+        length: 88
+        placeholder_text: /* Create a disk configuration that reproduces the problem in
+          the brainteasers method */
+        initial_state:
+          length: 88
+          offset: 1591
+        initialized_from_dependency: false
+        encrypted_possible_answer: tiF3nGPJ/cqwFgaTuS6iAkpWDYfcB+60VfQIip6HfCdq8nbXk53XHqsIRVmx0K1vPVHr8KjV2YH7ZnDzwf95/Q==
+        selected: false
+        status: Unchecked
+      - offset: 1729
+        length: 88
+        placeholder_text: /* Create a disk configuration that reproduces the problem in
+          the brainteasers method */
+        initial_state:
+          length: 88
+          offset: 1729
+        initialized_from_dependency: false
+        encrypted_possible_answer: tiF3nGPJ/cqwFgaTuS6iAkpWDYfcB+60VfQIip6HfCdq8nbXk53XHqsIRVmx0K1vPVHr8KjV2YH7ZnDzwf95/Q==
+        selected: false
+        status: Unchecked
+      - offset: 1982
+        length: 75
+        placeholder_text: "/* Question 1: Is there any problem with this raid0 and with\
+      \ this raid1? */"
+        initial_state:
+          length: 75
+          offset: 1982
+        initialized_from_dependency: false
+        encrypted_possible_answer: hPCGMtq5LjZmA9ye76lrFFDWQZ0S/CfRsNI4FN1admUQzp5koBC0SL88xC03A98o8tuMGf2gwwYsHAlK6l0+1C6qUk49WiA96hVytt1fjfnf9/r3TRNkoLSciawKBk43BVeEXrA85uQKEQlN0449tkaq7SwFMgUtRF0xqNfHh0B+N2Sg3tpA2Flf+M1M4WgING0jnNY29RUpNRzdfhwVNeD+1SPKkaxZHYK3nyHLR775sdqds+XQq/5trGhMvrcSmsr2IxdGPIstLtQwmgFLVA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: img.png
+    visible: true
+    is_binary: true
+    learner_created: false
+status: Unchecked
+record: -1

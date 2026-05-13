@@ -1,0 +1,168 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 218
+        length: 28
+        placeholder_text: /* Define the return type */
+        initial_state:
+          length: 28
+          offset: 218
+        initialized_from_dependency: false
+        encrypted_possible_answer: UmqeXCv7wRIU/lW6XCNeTA==
+        selected: false
+        status: Unchecked
+      - offset: 261
+        length: 31
+        placeholder_text: /* Define the parameter type */
+        initial_state:
+          length: 31
+          offset: 261
+        initialized_from_dependency: false
+        encrypted_possible_answer: UmqeXCv7wRIU/lW6XCNeTA==
+        selected: false
+        status: Unchecked
+      - offset: 315
+        length: 49
+        placeholder_text: /* Write the statements to round to 5 centimes */
+        initial_state:
+          length: 49
+          offset: 315
+        initialized_from_dependency: false
+        encrypted_possible_answer: oA0mXU6p+sqPsM0oye5Z1eJNU7uNtdjIbICIKkJWPVA=
+        selected: false
+        status: Unchecked
+      - offset: 980
+        length: 27
+        placeholder_text: /* Call the right method */
+        initial_state:
+          length: 27
+          offset: 980
+        initialized_from_dependency: false
+        encrypted_possible_answer: PzQ+Z/gBzbYIChd36Xv5Tg==
+        selected: false
+        status: Unchecked
+      - offset: 1051
+        length: 27
+        placeholder_text: /* Call the right method */
+        initial_state:
+          length: 27
+          offset: 1051
+        initialized_from_dependency: false
+        encrypted_possible_answer: PzQ+Z/gBzbYIChd36Xv5Tg==
+        selected: false
+        status: Unchecked
+      - offset: 1129
+        length: 27
+        placeholder_text: /* Call the right method */
+        initial_state:
+          length: 27
+          offset: 1129
+        initialized_from_dependency: false
+        encrypted_possible_answer: PzQ+Z/gBzbYIChd36Xv5Tg==
+        selected: false
+        status: Unchecked
+      - offset: 1214
+        length: 27
+        placeholder_text: /* Call the right method */
+        initial_state:
+          length: 27
+          offset: 1214
+        initialized_from_dependency: false
+        encrypted_possible_answer: PzQ+Z/gBzbYIChd36Xv5Tg==
+        selected: false
+        status: Unchecked
+      - offset: 1301
+        length: 27
+        placeholder_text: /* Call the right method */
+        initial_state:
+          length: 27
+          offset: 1301
+        initialized_from_dependency: false
+        encrypted_possible_answer: PzQ+Z/gBzbYIChd36Xv5Tg==
+        selected: false
+        status: Unchecked
+      - offset: 1389
+        length: 27
+        placeholder_text: /* Call the right method */
+        initial_state:
+          length: 27
+          offset: 1389
+        initialized_from_dependency: false
+        encrypted_possible_answer: PzQ+Z/gBzbYIChd36Xv5Tg==
+        selected: false
+        status: Unchecked
+      - offset: 1831
+        length: 28
+        placeholder_text: /* Define the return type */
+        initial_state:
+          length: 28
+          offset: 1831
+        initialized_from_dependency: false
+        encrypted_possible_answer: etghV0oYWdcPJvvjLiDSJQ==
+        selected: false
+        status: Unchecked
+      - offset: 2531
+        length: 32
+        placeholder_text: /* Fill up the main signature */
+        initial_state:
+          length: 32
+          offset: 2531
+        initialized_from_dependency: false
+        encrypted_possible_answer: 6J072/lcpPGdQoX8RHSjNa7D2K+ZWutDcmijzuqWUfY=
+        selected: false
+        status: Unchecked
+      - offset: 2568
+        length: 32
+        placeholder_text: /* Fill up the main signature */
+        initial_state:
+          length: 32
+          offset: 2568
+        initialized_from_dependency: false
+        encrypted_possible_answer: iFLwoBjt0+EE55cv5x+v+w==
+        selected: false
+        status: Unchecked
+      - offset: 2696
+        length: 37
+        placeholder_text: /* Fill up the for loop parameters */
+        initial_state:
+          length: 37
+          offset: 2696
+        initialized_from_dependency: false
+        encrypted_possible_answer: QNS+DYq+D82CQVPjaYsRNca5Vy8Al/KCdBjVYyuRU84=
+        selected: false
+        status: Unchecked
+      - offset: 2767
+        length: 27
+        placeholder_text: /* Call the right method */
+        initial_state:
+          length: 27
+          offset: 2767
+        initialized_from_dependency: false
+        encrypted_possible_answer: PzQ+Z/gBzbYIChd36Xv5Tg==
+        selected: false
+        status: Unchecked
+      - offset: 2851
+        length: 27
+        placeholder_text: /* Call the right method */
+        initial_state:
+          length: 27
+          offset: 2851
+        initialized_from_dependency: false
+        encrypted_possible_answer: j4os92muaK0AeShfQqbJ+tpm/pKCLzYMbiviz8/N3QA=
+        selected: false
+        status: Unchecked
+    learner_created: false
+    highlight_level: NONE
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/latest_output.txt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

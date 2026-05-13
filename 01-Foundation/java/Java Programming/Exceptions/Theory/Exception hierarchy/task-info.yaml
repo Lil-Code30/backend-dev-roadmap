@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Il faut traiter les exceptions de type "Error".
+    is_correct: false
+  - text: Il faut traiter les exceptions de type "RuntimeException".
+    is_correct: false
+  - text: Il faut traiter les exceptions de type "Exception" autre que "RuntimeException".
+    is_correct: true
+  - text: Les exceptions contrôlées ne peuvent pas être ignorées au contraire des exceptions
+      non-contrôlées.
+    is_correct: true
+quiz_header: Quelle sont les affirmations correctes ?
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: Hierarchy.PNG
+    visible: true
+    is_binary: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

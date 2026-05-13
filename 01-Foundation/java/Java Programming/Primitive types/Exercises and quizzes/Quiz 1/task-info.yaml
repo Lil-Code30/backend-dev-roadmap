@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: (1)
+    is_correct: false
+  - text: (2)
+    is_correct: true
+  - text: (3)
+    is_correct: true
+  - text: (4)
+    is_correct: false
+  - text: (5)
+    is_correct: true
+quiz_header: Sélectionnez une ou plusieurs options de la liste
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

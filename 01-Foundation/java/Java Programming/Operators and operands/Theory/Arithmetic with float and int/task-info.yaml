@@ -1,0 +1,87 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 136
+        length: 72
+        placeholder_text: /* Complete with the value of i as evaluated from the statement
+          above */
+        initial_state:
+          length: 72
+          offset: 136
+        initialized_from_dependency: false
+        encrypted_possible_answer: ijcwhvxjNfjEK6UzHhlJtQ==
+        selected: false
+        status: Unchecked
+      - offset: 277
+        length: 72
+        placeholder_text: /* Complete with the value of i as evaluated from the statement
+          above */
+        initial_state:
+          length: 72
+          offset: 277
+        initialized_from_dependency: false
+        encrypted_possible_answer: ijcwhvxjNfjEK6UzHhlJtQ==
+        selected: false
+        status: Unchecked
+      - offset: 429
+        length: 72
+        placeholder_text: /* Complete with the value of i as evaluated from the statement
+          above */
+        initial_state:
+          length: 72
+          offset: 429
+        initialized_from_dependency: false
+        encrypted_possible_answer: ijcwhvxjNfjEK6UzHhlJtQ==
+        selected: false
+        status: Unchecked
+      - offset: 590
+        length: 72
+        placeholder_text: /* Complete with the value of i as evaluated from the statement
+          above */
+        initial_state:
+          length: 72
+          offset: 590
+        initialized_from_dependency: false
+        encrypted_possible_answer: ijcwhvxjNfjEK6UzHhlJtQ==
+        selected: false
+        status: Unchecked
+      - offset: 737
+        length: 72
+        placeholder_text: /* Complete with the value of i as evaluated from the statement
+          above */
+        initial_state:
+          length: 72
+          offset: 737
+        initialized_from_dependency: false
+        encrypted_possible_answer: ijcwhvxjNfjEK6UzHhlJtQ==
+        selected: false
+        status: Unchecked
+      - offset: 888
+        length: 72
+        placeholder_text: /* Complete with the value of i as evaluated from the statement
+          above */
+        initial_state:
+          length: 72
+          offset: 888
+        initialized_from_dependency: false
+        encrypted_possible_answer: ijcwhvxjNfjEK6UzHhlJtQ==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+  - name: graphe_expressions.png
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: test/latest_output.txt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,9 @@
+content:
+  - Implicit and explicit transtyping
+  - Boolean type
+  - Char type literal
+  - Char type conversion
+  - Integer types literal
+  - Integer types conversion
+  - Floating point types
+  - Conversions

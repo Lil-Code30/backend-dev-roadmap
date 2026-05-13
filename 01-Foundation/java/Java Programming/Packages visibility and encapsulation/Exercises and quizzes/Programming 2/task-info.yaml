@@ -1,0 +1,131 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+  - name: src/ch/heiafr/tic/Watch.java
+    visible: true
+    placeholders:
+      - offset: 48
+        length: 20
+        placeholder_text: /* Write modifier */
+        initial_state:
+          length: 20
+          offset: 48
+        initialized_from_dependency: false
+        encrypted_possible_answer: +iBVIwl2rySML4zTDKVBOg==
+        selected: false
+        status: Unchecked
+      - offset: 82
+        length: 20
+        placeholder_text: /* Write modifier */
+        initial_state:
+          length: 20
+          offset: 82
+        initialized_from_dependency: false
+        encrypted_possible_answer: +iBVIwl2rySML4zTDKVBOg==
+        selected: false
+        status: Unchecked
+      - offset: 117
+        length: 29
+        placeholder_text: /* Write first constructor */
+        initial_state:
+          length: 29
+          offset: 117
+        initialized_from_dependency: false
+        encrypted_possible_answer: BuSawDp6PbLapmfqdg3uQ0ufJ02s6Kcra3beKJLwh3CIU3YHkL+KOosWTLWrSgm580QHm06obF2mzg0VQWgh95yD/KP9/JbFpZZ+v9q7QWcZNzVw6Z+pvktXCMilTctvu1pl9GInsG0rYqL1Sq5A1Q==
+        selected: false
+        status: Unchecked
+      - offset: 148
+        length: 30
+        placeholder_text: /* Write second constructor */
+        initial_state:
+          length: 30
+          offset: 148
+        initialized_from_dependency: false
+        encrypted_possible_answer: BuSawDp6PbLapmfqdg3uQ+zvSR5moH88JOtlQY5A4uxQ7wEIv29B0hKZswKSk5OkvSW6gMxrQovW4ZlCw+hS9ZKXc7Yjm9vxCvnUG+VK9FKMKQJeqQbf0f6fYj60mtMulfMDuzOUPeEFra/gGTKGHQ==
+        selected: false
+        status: Unchecked
+      - offset: 180
+        length: 30
+        placeholder_text: /* Write method addMinute() */
+        initial_state:
+          length: 30
+          offset: 180
+        initialized_from_dependency: false
+        encrypted_possible_answer: HWP/qb/NKjyDai2qzpmOWdqryV7l87m3r6w4eKONut1hZkP7b8xZp0Q6PltqJeUee1xetYiRcXsOY4jAoiNHvo/Rze+A3JDPGXb8HWSzMPjZJkAkhxJVYWx97cGPWt6RHJcIp/zR/vWt4UUv4MVdfdiV+Y0Mukvz6ZTTAfshUuIowNzQtIibW/Ese9YlFJ/ILU/YgJ+R0EpxTUbdoq3Uo7dT2RfmuqEEvFFqN/MNJPoh8+4YXAAU2KxcQR8ckXens7f2yN3wVYehTTpziviEE/tYpwxGVLBQMB0xfsSRZyY=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/ch/heiafr/tic/Person.java
+    visible: true
+    placeholders:
+      - offset: 49
+        length: 20
+        placeholder_text: /* Write modifier */
+        initial_state:
+          length: 20
+          offset: 49
+        initialized_from_dependency: false
+        encrypted_possible_answer: +iBVIwl2rySML4zTDKVBOg==
+        selected: false
+        status: Unchecked
+      - offset: 86
+        length: 20
+        placeholder_text: /* Write modifier */
+        initial_state:
+          length: 20
+          offset: 86
+        initialized_from_dependency: false
+        encrypted_possible_answer: +iBVIwl2rySML4zTDKVBOg==
+        selected: false
+        status: Unchecked
+      - offset: 121
+        length: 29
+        placeholder_text: /* Write first constructor */
+        initial_state:
+          length: 29
+          offset: 121
+        initialized_from_dependency: false
+        encrypted_possible_answer: 4eaWM4kPN6LjM9/Kba8oSqatIprtWiw3IgD+LJcQR7M5Vf50LKwFB50eqGebJlrc5qVHDe0AW7klGQdY8r8f5zZ07svlWJxDzk5PUQTu4Kaxq+5pDrasyvfemc6z/Gll
+        selected: false
+        status: Unchecked
+      - offset: 152
+        length: 30
+        placeholder_text: /* Write second constructor */
+        initial_state:
+          length: 30
+          offset: 152
+        initialized_from_dependency: false
+        encrypted_possible_answer: 4eaWM4kPN6LjM9/Kba8oSh8gXP+ej75Kab/CGiUeq0YBlyIicYnRkNwGi5ySzBhIj3jgJPB27HaluMcswGxPoc8/3Tvs3GgWV/V0lwBqaXuEOETB6g0Wmg0O3hOkocrj
+        selected: false
+        status: Unchecked
+      - offset: 184
+        length: 29
+        placeholder_text: /* Write hasWatch() method */
+        initial_state:
+          length: 29
+          offset: 184
+        initialized_from_dependency: false
+        encrypted_possible_answer: rndNd0C3iFBbIm0gOX7nYrty8TZBq7oDsWXp6YNcZCgpymE4RxpQtUnJ8X2J+rW8y6yi9eQtPCnakD46PWM2Lxj+4IIFfq+pgpVTHjN7BLk=
+        selected: false
+        status: Unchecked
+      - offset: 215
+        length: 29
+        placeholder_text: /* Write setWatch() method */
+        initial_state:
+          length: 29
+          offset: 215
+        initialized_from_dependency: false
+        encrypted_possible_answer: A0lwX9Gqbbdjo3qvrkiXZZ/B9CkzY0qR3ztIMSSy/tfmoMS99RpRjI6+yQrtxTVrhRpC0Yq+YXPAvIvMP86DLDDTBKS60buubJxYkKp+xfs=
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1

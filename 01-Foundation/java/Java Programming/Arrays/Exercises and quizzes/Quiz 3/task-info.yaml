@@ -1,0 +1,28 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "value = 12, array = [2, 4, 7]"
+    is_correct: false
+  - text: "value = 12, array = [2, 4, 6]"
+    is_correct: false
+  - text: "value = 12, array = [2, 3, 6]"
+    is_correct: false
+  - text: "value = 12, array = [2, 3, 7]"
+    is_correct: false
+  - text: "value = 11, array = [2, 4, 7]"
+    is_correct: false
+  - text: "value = 11, array = [2, 4, 6]"
+    is_correct: false
+  - text: "value = 11, array = [2, 3, 6]"
+    is_correct: true
+  - text: "value = 11, array = [2, 3, 7]"
+    is_correct: false
+quiz_header: Quelles sont les valeurs de <code>value</code> et <code>array</code>
+  à la fin du programme ?
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

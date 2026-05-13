@@ -1,0 +1,19 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: 8 8 0 11 1
+    is_correct: false
+  - text: 8 0 8 8 8
+    is_correct: false
+  - text: 8 0 8 11 8
+    is_correct: false
+  - text: 8 0 8 11 1
+    is_correct: true
+quiz_header: Sélectionnez une option de la liste
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

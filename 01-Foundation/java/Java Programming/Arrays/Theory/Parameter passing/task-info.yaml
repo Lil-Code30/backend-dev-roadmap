@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Java n'utilise que le passage par valeur.
+    is_correct: true
+  - text: "Lorsqu'une méthode reçoit un tableau en paramètre, ses valeurs sont copié\
+    es en mémoire."
+    is_correct: false
+  - text: "Lorsqu'une méthode reçoit un objet en paramètre, sa référence est copiée\
+    \ en mémoire."
+    is_correct: true
+quiz_header: Cochez les affirmations correctes (aucune ou plusieurs réponses sont
+  possibles).
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

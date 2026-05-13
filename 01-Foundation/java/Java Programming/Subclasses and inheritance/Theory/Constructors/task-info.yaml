@@ -1,0 +1,39 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "Lorsqu'on initialise un <code>Student</code>, les instructions des constructeurs\
+    \ sont exécutées dans l'ordre -> <code>Student</code>, <code>Person</code>, <code>Wizard</code>."
+    is_correct: false
+  - text: "Lorsqu'on initialise un <code>Student</code>, les instructions des constructeurs\
+    \ sont exécutées dans l'ordre -> <code>Student</code>, <code>Wizard</code>, <code>Person</code>."
+    is_correct: false
+  - text: "Lorsqu'on initialise un <code>Student</code>, les instructions des constructeurs\
+    \ sont exécutées dans l'ordre ->  <code>Person</code>, <code>Wizard</code>, <code>Student</code>."
+    is_correct: true
+quiz_header: Sélectionnez l'affirmation correcte.
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Person.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Wizard.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Muggle.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Teacher.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Student.java
+    visible: true
+    learner_created: false
+  - name: constructors.PNG
+    visible: true
+    is_binary: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

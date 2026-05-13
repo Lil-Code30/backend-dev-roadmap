@@ -1,0 +1,19 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: public static helloWorld()
+    is_correct: false
+  - text: static void helloWorld()
+    is_correct: false
+  - text: public static void helloWorld()
+    is_correct: true
+  - text: public void helloWorld()
+    is_correct: false
+quiz_header: Quelle est la signature de la méthode "helloWorld" ?
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

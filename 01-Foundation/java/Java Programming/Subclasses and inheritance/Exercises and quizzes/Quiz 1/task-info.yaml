@@ -1,0 +1,36 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: A est un B
+    is_correct: false
+  - text: A est un C
+    is_correct: false
+  - text: B est un A
+    is_correct: true
+  - text: B est un C
+    is_correct: true
+  - text: B a un A
+    is_correct: false
+  - text: B a un C
+    is_correct: true
+  - text: C a un A
+    is_correct: true
+  - text: C a un B
+    is_correct: false
+quiz_header: Sélectionnez les affirmations correctes.
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/A.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/B.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/C.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

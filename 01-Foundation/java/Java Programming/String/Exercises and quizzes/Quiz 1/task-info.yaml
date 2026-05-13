@@ -1,0 +1,19 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: ARBADACa
+    is_correct: false
+  - text: ADACaARB
+    is_correct: true
+  - text: aCADABRA
+    is_correct: false
+  - text: DACaARBA
+    is_correct: false
+quiz_header: Quelle est la valeur de 's' au terme du programme ?
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

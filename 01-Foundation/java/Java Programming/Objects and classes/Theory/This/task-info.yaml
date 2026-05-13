@@ -1,0 +1,23 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Le mot-clé <code>this</code> a le même effet que <code>this()</code>.
+    is_correct: false
+  - text: <code>p1</code> est passé implicitement en référence lors de l'appel <code>p1.distanceOrigin()</code>.
+    is_correct: true
+  - text: <code>distanceOrigin()</code> n'a pas accès aux attributs <code>px</code>
+      et <code>py</code> de <code>p1</code>.
+    is_correct: false
+  - text: "Le code dans la classe <code>Main</code> affiche (0.0, 0.0)."
+    is_correct: false
+quiz_header: Sélectionnez l'affirmation correcte.
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: src/Point.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

@@ -1,0 +1,35 @@
+type: edu
+files:
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+  - name: src/s14/va/Date.java
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 44
+        placeholder_text: /* Implement the Date class - version (a) */
+        initial_state:
+          length: 44
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: a8gZDiHRLVNTfHJG0SvWYYls6d7PdL9mj0fSxSCEesga1nPfElmWJYlNBBQKxVfO11PsG2o2+PJaa5blj5TZKyHYpWFPY+vaywQnDfxOeXhznMZJ+WoKXAbAgBz69I25xD25rwd8Gp93s82y2Rj+nI2MbmkBux3VZSVlQCNSxL9weBR6Xgbtr30nL3v31i6Zz0VQqYBpGiADkwOmnvdfESvfFFMyxD6vl4II4ukdirJuHnky3n0Ps9Wbqge0FcA3LJG9DleM7z7XzkjkkVARfcEgMo3hJE1eugTQ4ltKtAyzYQ4GK6JZ+qciJxl4hbvFKpaEdAxU4QP1Mi4e7GBWr3NhrXh3afC19ZfbkIXTcGpCmtyQqI2FZU5i/Hy6yu88+3snnNuhGr0HR8Cdsb28vTMA6FsnKyc6cLzQWTqcPFMm48qTcU7YAgI3Z5JjRF2NsCnp3Ki+ORtq2J6oODQbZA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/s14/vb/Date.java
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 44
+        placeholder_text: /* Implement the Date class - version (b) */
+        initial_state:
+          length: 44
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: NmQ9hxQ+uRGmjg4vQmwvmi4h6iU7cE4RUEZltrRHrQGiPrrewfNuBwFtD54wpbq4ke7Yj8sxPY4ByM+ZCjHBjCWTWw9O3MVEWn1ueNI90F5btAl1xOtCUdf9k/jiHMjXEKvG07EUYkOd4frDaww4il+frfIVGdxN40wlch8eIAgATcAz1EofDWE4VNKdPS0VI6ssRL0LkIpYcDQVFJIkxw6Sx821v526x25ZXVOLy7ND357fElilZRlvfr5+sfIltXM7nrszcrSENXLkaPuA/TMXjSEX/ZvglTZaMc6FbzplAy4Rcl+3bfHWZBBD+bmeDL0sb2xnJj9SLCb0gY2BKKAaq7QicAY7XIVq5QqWB8jyq+1H6X69KA8v9uVzZwV1aR12NBPQpQH+bYfp/xK/cidt73QeS5pt0j7OCdCyApBkdVH0+Jsgkb0dgEF7jTq1pcPxfGq4SVS56iYv9x3d8Q==
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1

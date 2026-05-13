@@ -1,0 +1,32 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "L'ouverture de flux, la fermeture de flux, la lecture/l'écriture"
+    is_correct: false
+  - text: "la fermeture de flux, la lecture/l'écriture, l'ouverture de flux"
+    is_correct: false
+  - text: "L'ouverture de flux, la lecture/l'écriture, la fermeture de flux"
+    is_correct: true
+quiz_header: Quelles sont les trois phases permettant la communication avec un flux
+  binaire ?
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: stream.PNG
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: writing.PNG
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: input.txt
+    visible: true
+    learner_created: false
+  - name: output.txt
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

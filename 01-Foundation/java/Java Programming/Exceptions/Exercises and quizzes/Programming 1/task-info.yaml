@@ -1,0 +1,64 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 356
+        length: 31
+        placeholder_text: /* Complete the if condition */
+        initial_state:
+          length: 31
+          offset: 356
+        initialized_from_dependency: false
+        encrypted_possible_answer: aXj0aWGz/oOo1gE0V1lJYMdmF2wr0X6O8OkFmXQdhQsV+1HoMzA2dZtl83dxyKWuOfga6B1kx7VcogfMADx3uQ==
+        selected: false
+        status: Unchecked
+      - offset: 400
+        length: 41
+        placeholder_text: /* Throw the exception without message */
+        initial_state:
+          length: 41
+          offset: 400
+        initialized_from_dependency: false
+        encrypted_possible_answer: HWYFIutyFFGiquykT1MyC95U/RMSoSgqEyXZiUSrbhEkycCXWlFPF16wDZuAVs4X
+        selected: false
+        status: Unchecked
+      - offset: 741
+        length: 21
+        placeholder_text: /* Try/catch block */
+        initial_state:
+          length: 21
+          offset: 741
+        initialized_from_dependency: false
+        encrypted_possible_answer: PZx0xBo0v00eAKdsNOUkGg==
+        selected: false
+        status: Unchecked
+      - offset: 832
+        length: 21
+        placeholder_text: /* Try/catch block */
+        initial_state:
+          length: 21
+          offset: 832
+        initialized_from_dependency: false
+        encrypted_possible_answer: uDZH5CwL3gEHG4JOp0qRUz/UCmF5DPygC5xgaP7cDoQ4W3dy53wy6GNTpisyVAOX
+        selected: false
+        status: Unchecked
+      - offset: 911
+        length: 21
+        placeholder_text: /* Try/catch block */
+        initial_state:
+          length: 21
+          offset: 911
+        initialized_from_dependency: false
+        encrypted_possible_answer: 92rpG6pg4b0Zy5eKbrg9bg==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

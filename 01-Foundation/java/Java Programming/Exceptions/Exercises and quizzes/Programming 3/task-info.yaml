@@ -1,0 +1,45 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 159
+        length: 43
+        placeholder_text: /* Add the required exception annotation */
+        initial_state:
+          length: 43
+          offset: 159
+        initialized_from_dependency: false
+        encrypted_possible_answer: OHjtY9tXXqbG6TBwyFp7xqxryI6GOH7j8vPt4FcaYvM=
+        selected: false
+        status: Unchecked
+      - offset: 620
+        length: 43
+        placeholder_text: /* Add the required exception annotation */
+        initial_state:
+          length: 43
+          offset: 620
+        initialized_from_dependency: false
+        encrypted_possible_answer: l+YaZTLmnK+tY35Zn7w+NgBLSZPFAeHVIeQS7RCWMzU=
+        selected: false
+        status: Unchecked
+      - offset: 1150
+        length: 114
+        placeholder_text: "/* Call the methods findNumber, convertInteger and embedNumber\
+      \ for producing the expected result without errors */"
+        initial_state:
+          length: 114
+          offset: 1150
+        initialized_from_dependency: false
+        encrypted_possible_answer: hPCGMtq5LjZmA9ye76lrFHdnRjucfvTpIrns44lCOvqkD7nAkg8zRbrYvCYN90jN7LbRUtb4hgOWmyfnmMYPxGTkv0fOFmctWG+nNWsAWTwaOIbg1pjDGcISUHhm3j06PvFc7owBI2/Zs2HmZAOkfU3Cq1U7QNPCkspXPp0V/QR4m2IOqU7cIKS7rPTBb/3iUWTrMmEAHVDRMqKDNcMaIF951jtv4jJktlBJ1f0v6y2zqXxvw+AIknE0WdaLosi1eUDEhYm1nyjCqJBtX1+B8mNr35Vc6hCH+90O9rBAQrKd+M4GGYN87yEKvY0hoCOZixai+GBZmI/RV4gBE85Jz4Dk7rw5thfTD35BU3v3NF+0jZFfVyLPOTXmQtlMrxHNAoTgKB9/BzJpRpfTpfrJcWS5K1m7Us4jBJv0CmQwnEMk8VAJhilqCCOtVg3svhhbgxNXTaEsaEgm6ggYcduKAOCf32gcnb2paM0H5v9+2v+CvNCtbbzjrtTd2eWAE4dJdpks6r1St3e8+n3M5u/K1cKsNBaoxvU0i3oXYPp6IG7NUg5A59bi2riKP6wA3JJQBHGJoNg+c5RYXnX8KlIHH6l0iu3kYUdzgks+jLS+xbmcACpNHWrkr02FvM2RtlVZuUkoAyyRFoUukhkMmEi7fbKexxtfkeR9MzIRmys3ufMmlJIiNvT255Gi0Mp9LUZo
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

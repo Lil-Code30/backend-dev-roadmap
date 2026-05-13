@@ -1,0 +1,19 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: "(int x, int y) -> { x + y }"
+    is_correct: false
+  - text: (x) -> x + x
+    is_correct: true
+  - text: "(int x) -> { return x + x; }"
+    is_correct: true
+  - text: "x, y -> x + y"
+    is_correct: false
+quiz_header: Sélectionnez les expressions lambda correctes.
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

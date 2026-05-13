@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: La valeur affichée est "0 0".
+    is_correct: false
+  - text: La valeur affichée est "0 2".
+    is_correct: false
+  - text: La valeur affichée est "2 0".
+    is_correct: true
+  - text: La valeur affichée est "2 2".
+    is_correct: false
+quiz_header: Sélectionnez l'affirmation correcte.
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: src/Dummy.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

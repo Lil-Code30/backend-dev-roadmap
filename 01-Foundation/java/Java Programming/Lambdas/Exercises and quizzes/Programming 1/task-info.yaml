@@ -1,0 +1,47 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 707
+        length: 34
+        placeholder_text: /* Sort with an anonymous class */
+        initial_state:
+          length: 34
+          offset: 707
+        initialized_from_dependency: false
+        encrypted_possible_answer: 7yx/CXXcEb9PBwkYVRr4NNFIJ9JCfB9blO9ZSXK44ssBiSLWrJLl93bLtsalswPVsY/C+7U9NSJu3forc/tE1DOiAHyYtaqA+adHLVcUdJn+audzDkoB5Q3EEWMiGiRZrOxv1VaSn6vf1QQjGvnjIz8ViPyStZpZSEAwhysz5e6UsKk0QZaSqIh4Z4Cej8CHt/wiJacxDJy9l1UyACVlRuAR2Rj19M4F9a1CV1AZZ1mZTvdcoMNIBO5py9YJ6HWwqNmf+fklLXZN3k8/acBoXUWqzOdVkk4d2Ie2mossXlRlLNWLcjr+npoCxTExmVsvM0lWRm/EWD9ehzvgrnk3Ig==
+        selected: false
+        status: Unchecked
+      - offset: 897
+        length: 35
+        placeholder_text: /* Sort with a lambda expression */
+        initial_state:
+          length: 35
+          offset: 897
+        initialized_from_dependency: false
+        encrypted_possible_answer: 7yx/CXXcEb9PBwkYVRr4NI5FlGXP7lMPgmVXUjzhktn0AY1vsa08OqIORbHEgecg65y6B7BDalbzA9u0C+hU3Q==
+        selected: false
+        status: Unchecked
+      - offset: 1097
+        length: 32
+        placeholder_text: /* Sort with method reference */
+        initial_state:
+          length: 32
+          offset: 1097
+        initialized_from_dependency: false
+        encrypted_possible_answer: 7yx/CXXcEb9PBwkYVRr4NIR6foBpx/RV4RlNO4FxQoB/efl2u3lkC9RffwpdByqc7X5KfTU1QkoSenSwdz6kcg==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+  - name: src/ch/heiafr/tic/MyComparator.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

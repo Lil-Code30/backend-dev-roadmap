@@ -1,0 +1,79 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 140
+        length: 59
+        placeholder_text: /* Initialize y for printing 110101 to the console below */
+        initial_state:
+          length: 59
+          offset: 140
+        initialized_from_dependency: false
+        encrypted_possible_answer: uXuAwcIR6s9nl6CcEcGA9v7oEdUMvC4y0RSaoXBvAW0=
+        selected: false
+        status: Unchecked
+      - offset: 275
+        length: 59
+        placeholder_text: /* Initialize y for printing 100010 to the console below */
+        initial_state:
+          length: 59
+          offset: 275
+        initialized_from_dependency: false
+        encrypted_possible_answer: g/CZrG3K/Uqf9a/MP9U/tA==
+        selected: false
+        status: Unchecked
+      - offset: 407
+        length: 60
+        placeholder_text: /* Initialize y for printing 1010011 to the console below */
+        initial_state:
+          length: 60
+          offset: 407
+        initialized_from_dependency: false
+        encrypted_possible_answer: X5fa26ElCdFMd0nZpAYnBQ==
+        selected: false
+        status: Unchecked
+      - offset: 619
+        length: 72
+        placeholder_text: /* Complete with the value of i as evaluated from the statement
+          above */
+        initial_state:
+          length: 72
+          offset: 619
+        initialized_from_dependency: false
+        encrypted_possible_answer: ijcwhvxjNfjEK6UzHhlJtQ==
+        selected: false
+        status: Unchecked
+      - offset: 757
+        length: 72
+        placeholder_text: /* Complete with the value of i as evaluated from the statement
+          above */
+        initial_state:
+          length: 72
+          offset: 757
+        initialized_from_dependency: false
+        encrypted_possible_answer: ijcwhvxjNfjEK6UzHhlJtQ==
+        selected: false
+        status: Unchecked
+      - offset: 849
+        length: 58
+        placeholder_text: /* Initialize x for printing 11100 to the console below */
+        initial_state:
+          length: 58
+          offset: 849
+        initialized_from_dependency: false
+        encrypted_possible_answer: 73tt9esMXJw7mCduD3Z2Fg==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+  - name: test/latest_output.txt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

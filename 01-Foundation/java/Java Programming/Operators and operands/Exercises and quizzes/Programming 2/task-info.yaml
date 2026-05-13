@@ -1,0 +1,39 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 141
+        length: 77
+        placeholder_text: /* Add the expression that returns true if z is a multiple of
+          both x and y */
+        initial_state:
+          length: 77
+          offset: 141
+        initialized_from_dependency: false
+        encrypted_possible_answer: xHFcSrr5LjMSbTtAy4CpGopbJGlWOs7mRu3lpkQv4Mw=
+        selected: false
+        status: Unchecked
+      - offset: 260
+        length: 77
+        placeholder_text: /* Add the expression that returns true if z is a multiple of
+          both x and y */
+        initial_state:
+          length: 77
+          offset: 260
+        initialized_from_dependency: false
+        encrypted_possible_answer: xHFcSrr5LjMSbTtAy4CpGopbJGlWOs7mRu3lpkQv4Mw=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+  - name: test/latest_output.txt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

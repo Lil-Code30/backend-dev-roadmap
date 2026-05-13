@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Les exceptions séparent les situations exceptionnelles du flux normal du programme.
+    is_correct: true
+  - text: Les exceptions ne servent qu'à gérer des erreurs.
+    is_correct: false
+  - text: Les exceptions sont un flux de contrôle supplémentaire permettant de gérer
+      le flux normal des exécutions.
+    is_correct: false
+  - text: Un avantage des exceptions est de savoir quelles méthodes peuvent générer
+      une exception pour éviter de les utiliser.
+    is_correct: false
+quiz_header: Quelle est la seule affirmation correcte ?
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

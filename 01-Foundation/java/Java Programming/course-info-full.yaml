@@ -1,0 +1,32 @@
+type: marketplace
+title: Programmation Java
+language: French
+summary: |
+  Ce cours est un support pour le cours de programmation (en Java) de la filière ISC à la HEIA-FR.
+   Ce cours propose des exercices qui seront effectués en partie durant les heures de cours. Les exercices proposés ne remplacent pas les séries. Les exercices présentent des concepts théoriques à l'aide d'exemple, proposent des problèmes de programmation à résoudre et des réponses à amener à des questions (sous forme de choix multiples).
+vendor:
+  name: Serge Ayer
+programming_language: Java
+content:
+- Primitive_types
+- Operators_and_operands
+- Flow_control
+- Methods
+- Arrays
+- Exceptions
+- String
+- IO
+- Objects
+- Packages_visibility_encapsulation
+- Static_final_wrapper
+- Style_guidelines
+- Subclasses_inheritance
+- Abstract_classes
+- Interfaces
+- Nested_classes
+- Genericity
+- Lambdas
+- Enum
+- Annotations
+- RSA
+- Integrated_exercices

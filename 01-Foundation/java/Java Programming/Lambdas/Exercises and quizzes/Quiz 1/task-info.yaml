@@ -1,0 +1,19 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "Tintin, Milou, Capitaine Haddock, Dupond et Dupont."
+    is_correct: false
+  - text: "Capitaine Haddock, Dupond et Dupont, Milou, Tintin."
+    is_correct: false
+  - text: "Capitaine Haddock, Tintin, Dupond et Dupont, Milou."
+    is_correct: false
+  - text: "Capitaine Haddock, Tintin, Milou, Dupond et Dupont."
+    is_correct: true
+quiz_header: Quel est l'ordre du tableau à la fin du programme ?
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

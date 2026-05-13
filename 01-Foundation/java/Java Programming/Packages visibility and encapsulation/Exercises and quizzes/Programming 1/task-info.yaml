@@ -1,0 +1,81 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+  - name: src/ch/heifr/tic/Car.java
+    visible: true
+    placeholders:
+      - offset: 45
+        length: 30
+        placeholder_text: /* Add the correct modifier */
+        initial_state:
+          length: 30
+          offset: 45
+        initialized_from_dependency: false
+        encrypted_possible_answer: +iBVIwl2rySML4zTDKVBOg==
+        selected: false
+        status: Unchecked
+      - offset: 89
+        length: 30
+        placeholder_text: /* Add the correct modifier */
+        initial_state:
+          length: 30
+          offset: 89
+        initialized_from_dependency: false
+        encrypted_possible_answer: +iBVIwl2rySML4zTDKVBOg==
+        selected: false
+        status: Unchecked
+      - offset: 233
+        length: 49
+        placeholder_text: /* Write the necessary methods in an OO spirit */
+        initial_state:
+          length: 49
+          offset: 233
+        initialized_from_dependency: false
+        encrypted_possible_answer: OnCn1fGwnIDodOQjNsXywiTQiG1FWH5A2AKWBkD3K4yrx36oYzcR7clSJkFVDuFZjQEyC+WUPc0XQKBcZb95GSHUjqsiUxNLGLT5SRRClFhAOW2dWdK2FOeHhtXBqC5L80rhvS3o6QZ0qC+5qg5n/KnAiWNov1CmJ27Xx95zPjM=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/ch/heifr/tic/Engine.java
+    visible: true
+    placeholders:
+      - offset: 48
+        length: 30
+        placeholder_text: /* Add the correct modifier */
+        initial_state:
+          length: 30
+          offset: 48
+        initialized_from_dependency: false
+        encrypted_possible_answer: +iBVIwl2rySML4zTDKVBOg==
+        selected: false
+        status: Unchecked
+      - offset: 93
+        length: 30
+        placeholder_text: /* Add the correct modifier */
+        initial_state:
+          length: 30
+          offset: 93
+        initialized_from_dependency: false
+        encrypted_possible_answer: +iBVIwl2rySML4zTDKVBOg==
+        selected: false
+        status: Unchecked
+      - offset: 233
+        length: 49
+        placeholder_text: /* Write the necessary methods in an OO spirit */
+        initial_state:
+          length: 49
+          offset: 233
+        initialized_from_dependency: false
+        encrypted_possible_answer: geAfImz64ibZKAmAvLc9DAAM+693WxjmuvfKcDtZoT5lqEN2nL4/wBmuVWKAHI2K8PhiPu+Ts3tEciUgQSUjywUeZfy2g8eU92TB9drrAtTaUo4A8ODQeRmiGX7RrIyvy1xJVitxFAeIEAHnyYWWB/aN8lxbI/IFGts3eSraBTA=
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1

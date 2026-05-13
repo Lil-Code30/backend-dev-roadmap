@@ -1,0 +1,86 @@
+type: edu
+files:
+  - name: src/RegularPolygon.java
+    visible: true
+    placeholders:
+      - offset: 638
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 638
+        initialized_from_dependency: false
+        encrypted_possible_answer: pRMqNpLahlr8GrNes3jjigThnHnVloF3JgMk4fFokAk=
+        selected: false
+        status: Unchecked
+      - offset: 797
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 797
+        initialized_from_dependency: false
+        encrypted_possible_answer: hXMw80Q8C658IrTjAyv2lA==
+        selected: false
+        status: Unchecked
+      - offset: 938
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 938
+        initialized_from_dependency: false
+        encrypted_possible_answer: 8kqbrZxzDGzGZ0pKLN5/VP5hZaXkDKykwf8CKZcpSwSufFjLxsEEIz5fMzTA1hlf
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/RegularPolygonTest.java
+    visible: false
+    learner_created: false
+  - name: src/RegularPolygonTester.java
+    visible: true
+    placeholders:
+      - offset: 282
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 282
+        initialized_from_dependency: false
+        encrypted_possible_answer: eURCE5Hoybt6PMHLJ8OKsKrIVbLcJ7lqdUYGWnxEIjAhyEpW+lDNenTgt23dqkWuuuE5ofBIHVNMhiB+FCOhRw==
+        selected: false
+        status: Unchecked
+      - offset: 380
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 380
+        initialized_from_dependency: false
+        encrypted_possible_answer: hJNVRHGu2tG3j9j3FNcc1mXuBk7ebBZg6Sck74udF+Q=
+        selected: false
+        status: Unchecked
+      - offset: 409
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 409
+        initialized_from_dependency: false
+        encrypted_possible_answer: CwhSWbRodpxwZRALWsFePsY3CylKgBCL5SP/4gNGqmA=
+        selected: false
+        status: Unchecked
+      - offset: 440
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 440
+        initialized_from_dependency: false
+        encrypted_possible_answer: qGf5TNgbkbRVf9npCUVvSg==
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true

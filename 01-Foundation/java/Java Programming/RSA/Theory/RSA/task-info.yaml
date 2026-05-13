@@ -1,0 +1,18 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: '...corrects.'
+    is_correct: false
+  - text: '...incorrects à cause d''éventuels underflows.'
+    is_correct: false
+  - text: '...incorrects à cause d''éventuels overflows.'
+    is_correct: true
+quiz_header: "Observez l'output du programme. D'après vous, les messages déchiffré\
+  s sont..."
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

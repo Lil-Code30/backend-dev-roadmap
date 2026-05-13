@@ -1,0 +1,39 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Il est possible d'appeler une méthode d'instance à partir d'une méthode statique
+      de la classe.
+    is_correct: false
+  - text: Il est possible d'appeler une méthode statique à partir du nom de la classe.
+    is_correct: true
+  - text: Il est possible d'accéder à un attribut statique à partir du nom de la classe.
+    is_correct: true
+  - text: "A la fin du programme <code>Main</code>, la valeur de <code>n</code> vaut\
+    \ 1."
+    is_correct: false
+  - text: "A la fin du programme <code>Main</code>, la valeur de <code>n</code> vaut\
+    \ 2."
+    is_correct: false
+quiz_header: Sélectionnez les affirmations correctes.
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: membresClasse.PNG
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: instances.PNG
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: memory.PNG
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: src/Point.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

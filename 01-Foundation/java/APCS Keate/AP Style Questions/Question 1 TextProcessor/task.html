@@ -1,0 +1,218 @@
+<html>
+<p><strong>AP Style Question 1</strong></p>
+This question was generated using Claude and edited by me for clarity and consistency with the AP Test.
+Citation: <i>FRQ 1</i>, Claude, Sonnet 4.5, Anthropic, 21 January 2026, https://claude.ai/chat/.
+<p></p>
+Code has been added in places it normally would not be on the AP Test to ensure the program runs. This has been noted in
+each class with a comment. For instance, the implementation of the methods and constructor and the instance variables
+of the <strong style="font-family:courier;">Document</strong> class would not
+be available to you on the test as the return values of the methods
+<strong style="font-family:courier;">getSectionText</strong>,
+<strong style="font-family:courier;">getSectionWordCount</strong>, <strong style="font-family:courier;">getSectionCount</strong>,
+and <strong style="font-family:courier;">getTitle</strong> would give
+you any information you would need to answer the question. It might be easiest to pretend you cannot see this code where noted.
+<p></p><strong>You may not alter any code other in the assignment other than where noted with
+    /* TODO */</strong>.
+<p></p>
+SHOW ALL YOUR WORK. REMEMBER THAT PROGRAM SEGMENTS ARE TO BE WRITTEN IN JAVA.
+<ul>
+    <li>Assume that the classes listed in the Java Quick Reference have been imported where appropriate. </li>
+    <li>Unless otherwise noted in the question, assume that parameters in method calls are not
+        <strong style="font-family:courier;">null</strong> and that methods are
+        called only when their preconditions are satisfied. </li>
+    <li>In writing solutions for each question, you may use any of the accessible methods that are listed in classes
+        defined in that question. Writing significant amounts of code that can be replaced by a call to one of these methods will not receive full credit.</li>
+</ul>
+This question involves processing text in a document. A text processor manages different documents.
+The <strong style="font-family:courier;">Document</strong>
+class stores text content organized into sections, and the <strong style="font-family:courier;">TextProcessor</strong> class
+uses <strong style="font-family:courier;">Document</strong> objects to analyze content and modify text.
+The <strong style="font-family:courier;">Document</strong> class is provided in the assignment and has
+already been implemented.
+<p></p>
+A text processor is associated with a document and is represented by the
+<strong style="font-family:courier;">TextProcessor</strong>
+class. You will write two methods of the <strong style="font-family:courier;">TextProcessor</strong> class.
+<p></p>
+a. Write the <strong style="font-family:courier;">calculateQualityScore</strong> method, which analyzes all
+sections of the document and calculates a quality score based on their word counts and the presence of a target word.
+The method assigns points according to the following rules:
+<p></p>
+For each section:
+<ul>
+    <li>
+        If the word count is less than <strong style="font-family:courier;">minWords</strong>, add 0 points.
+    </li>
+    <li>
+        If the word count is in the range <strong style="font-family:courier;">minWords</strong> to
+        <strong style="font-family:courier;">maxWords</strong>, inclusive, add 5 points.
+    </li>
+    <li>
+        If the word count is greater than <strong style="font-family:courier;">maxWords</strong>, add 3 points.
+    </li>
+    <li>
+        Additionally, count how many times <strong style="font-family:courier;">targetWord</strong> appears in
+        the section's text and add 2 bonus points for each occurrence (the search should be case-sensitive).
+    </li>
+</ul>
+<p></p>The method returns the total quality score across all sections.
+<p></p>
+The following table shows examples of <strong style="font-family:courier;">calculateQualityScore</strong> behavior.
+Assume the
+<strong style="font-family:courier;">TextProcessor</strong> object
+<strong style="font-family:courier;">tp</strong> is associated with a document that has 5 sections with the following
+word counts and text content.
+<p></p>
+<table>
+    <tr>
+        <th>Section Number: </th>
+        <th>Word Count: </th>
+        <th>Section Text: </th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>9</td>
+        <td><strong style="font-family:courier;">"This chapter discusses important concepts. These concepts are important."</strong></td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>7</td>
+        <td><strong style="font-family:courier;">"An introduction to the topic at hand."</strong></td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>11</td>
+        <td><strong style="font-family:courier;">"Advanced methods and important techniques for important results with important outcomes."</strong></td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>6</td>
+        <td><strong style="font-family:courier;">"A brief overview of key points."</strong></td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>4</td>
+        <td><strong style="font-family:courier;">"Summary of important ideas."</strong></td>
+    </tr>
+</table>
+<p></p>
+<table>
+    <tr>
+        <th>Method Call</th>
+        <th>Points Per Section</th>
+        <th>Total Points</th>
+        <th>Return Value</th>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">tp.calculateQualityScore(5, 10, "important");</strong></td>
+        <td>Section 1: (9 words, 2 "important"): 5 + (2×2) = 9 points
+            <br>Section 2: (7 words, 0 "important"): 5 + 0 = 5 points
+            <br>Section 3: (11 words, 3 "important"): 3 + (3×2) = 9 points
+            <br>Section 4: (6 words, 0 "important"): 5 + 0 = 5 points
+            <br>Section 5: (4 words, 1 "important"): 0 + (1×2) = 2 points</td>
+        <td>9 + 5 + 9 + 5 + 2 = 30</td>
+        <td>30</td>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">tp.calculateQualityScore(6, 9, "concepts");</strong></td>
+        <td>Section 1: (9 words, 2 "concepts"): 5 + (2×2) = 9 points
+            <br>Section 2: (7 words, 0 "concepts"): 5 + 0 = 5 points
+            <br>Section 3: (11 words, 0 "concepts"): 3 + 0 = 3 points
+            <br>Section 4: (6 words, 0 "concepts"): 5 + 0 = 5 points
+            <br>Section 5: (4 words, 0 "concepts"): 0 + 0 = 0 points</td>
+        <td>9 + 5 + 3 + 5 + 0 = 22</td>
+        <td>22</td>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">tp.calculateQualityScore(2, 7, "the");</strong></td>
+        <td>Section 1: (9 words, 0 "the"): 3 + 0 = 3 points
+            <br>Section 2: (7 words, 1 "the"): 5 + (1×2) = 7 points
+            <br>Section 3: (11 words, 0 "the"): 3 + 0 = 3 points
+            <br>Section 4: (6 words, 0 "the"): 5 + 0 = 5 points
+            <br>Section 5: (4 words, 0 "the"): 5 + 0 = 5 points</td>
+        <td>3 + 7 + 3 + 5 + 5 = 23</td>
+        <td>23</td>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">tp.calculateQualityScore(7, 10, "out");</strong></td>
+        <td>Section 1: (9 words, 0 "out"): 5 + 0 = 5 points
+            <br>Section 2: (7 words, 0 "out"): 5 + 0 = 5 points
+            <br>Section 3: (11 words, 1 "out" in "outcomes"): 3 + (1×2) = 5 points
+            <br>Section 4: (6 words, 0 "out"): 0 + 0 = 0 points
+            <br>Section 5: (4 words, 0 "out"): 0 + 0 = 0 points</td>
+        <td>5 + 5 + 5 + 0 + 0 = 15</td>
+        <td>15</td>
+    </tr>
+</table>
+<p></p>
+Complete the method <strong style="font-family:courier;">calculateQualityScore</strong>. You must use
+<strong style="font-family:courier;">getSectionCount</strong>,
+<strong style="font-family:courier;">getSectionWordCount</strong>, and
+<strong style="font-family:courier;">getSectionText</strong> appropriately to receive
+full credit.
+<p></p>
+b.  Write the <strong style="font-family:courier;">replaceInTitle</strong> method, which creates and returns a modified
+version of the document title by replacing all occurrences of a specified word. The method takes two
+<strong style="font-family:courier;">String</strong> parameters:
+<strong style="font-family:courier;">oldWord</strong> (the word to find) and
+<strong style="font-family:courier;">newWord</strong> (the word to replace it with).
+<p></p>
+The following table shows examples of <strong style="font-family:courier;">replaceInTitle</strong> behavior.
+<p></p>
+<table>
+    <tr>
+        <th>Original Title</th>
+        <th>Statement</th>
+        <th>Explanation</th>
+        <th>Return Value</th>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">"The Art of War"</strong></td>
+        <td><strong style="font-family:courier;">replaceInTitle("Art", "Science");</strong></td>
+        <td>The only occurrence of <strong style="font-family:courier;">"Art"</strong>
+            in the title has been replaced by
+            <strong style="font-family:courier;">"Science"</strong></td>
+        <td><strong style="font-family:courier;">"The Science of War"</strong></td>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">"To Be or Not To Be"</strong></td>
+        <td><strong style="font-family:courier;">replaceInTitle("Be", "Exist");</strong></td>
+        <td>Both occurrences of <strong style="font-family:courier;">"Be"</strong>
+            in the title have been replaced by
+            <strong style="font-family:courier;">"Exist"</strong></td>
+        <td><strong style="font-family:courier;">"To Exist or Not To Exist"</strong></td>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">"The Good, the Bad, and the Ugly"</strong></td>
+        <td><strong style="font-family:courier;">replaceInTitle("the", "a");</strong></td>
+        <td>Both occurrences of <strong style="font-family:courier;">"the"</strong>
+            in the title have been replaced by
+            <strong style="font-family:courier;">"a"</strong>.
+            <strong style="font-family:courier;">"The"</strong> has not been replaced.
+        </td>
+        <td><strong style="font-family:courier;">"The Good, a Bad, and a Ugly"</strong></td>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">"Understanding Understanding"</strong></td>
+        <td><strong style="font-family:courier;">replaceInTitle("Understand", "Learn");</strong></td>
+        <td>Both occurrences of <strong style="font-family:courier;">"Understand"</strong>
+            in the title have been replaced by
+            <strong style="font-family:courier;">"Learn"</strong>.
+        </td>
+        <td><strong style="font-family:courier;">"Learning Learning"</strong></td>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">"Java Programming in Java"</strong></td>
+        <td><strong style="font-family:courier;">replaceInTitle("C++", "Python");</strong></td>
+        <td>Nothing has been replaced in the title because there are no occurrences of
+            <strong style="font-family:courier;">"C++"</strong> to replace.
+        </td>
+        <td><strong style="font-family:courier;">"Java Programming in Java"</strong></td>
+    </tr>
+</table>
+<p></p>
+Complete the method <strong style="font-family:courier;">replaceInTitle</strong>.
+<p></p>
+
+<strong>Fill in the comments at the top of the <strong style="font-family:courier;">TextProcessor</strong> class with
+    your name and pertinent information.</strong>

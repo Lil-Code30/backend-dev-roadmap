@@ -1,0 +1,76 @@
+type: output
+files:
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: src/LoanTable.java
+    visible: true
+    placeholders:
+      - offset: 1014
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1014
+        initialized_from_dependency: false
+        encrypted_possible_answer: QTgC2VrWh1CLcA5tjuNBvA==
+        selected: false
+        status: Unchecked
+      - offset: 1213
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1213
+        initialized_from_dependency: false
+        encrypted_possible_answer: FdkJ5WyJXFbsxnGljz39YUAQnBvGH7Mtn7HVnXlNfyEu2K3cLbeTl5BaQoz0a2WuxXnUmZuyjayLXRyme9ihRQ==
+        selected: false
+        status: Unchecked
+      - offset: 1402
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1402
+        initialized_from_dependency: false
+        encrypted_possible_answer: 0AXuxTz4mPyHVcheFsgvUPonMVV8k0G3mxiIV/xYLueGehdeJVacU0nTBQET0MNTJMGIkxYpFtH4ey89KfcDmAEUsf474l2ebjFubo6hwnKO9yfcSBlbqeWqC7aeWxma
+        selected: false
+        status: Unchecked
+      - offset: 1632
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1632
+        initialized_from_dependency: false
+        encrypted_possible_answer: ijcwhvxjNfjEK6UzHhlJtQ==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/LoanTableClient.java
+    visible: true
+    placeholders:
+      - offset: 245
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 245
+        initialized_from_dependency: false
+        encrypted_possible_answer: MuwOT5cVGc23DlrEVDveeXjMXAAecjthKC5EXeVvqrxdPkqnIj58B+SSrlQnr0QgrVeOIsiZU3Kndcq+/qaUFsE9paebdXGqdQR53bG4zak=
+        selected: false
+        status: Unchecked
+      - offset: 299
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 299
+        initialized_from_dependency: false
+        encrypted_possible_answer: K1Bi7iFUtkqkmd0lfNt2zyZB2YdNWcZTjZmGQWcDdfM=
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true

@@ -1,0 +1,31 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 103
+        length: 61
+        placeholder_text: /* Add code for converting d1 to the closest integer value */
+        initial_state:
+          length: 61
+          offset: 103
+        initialized_from_dependency: false
+        encrypted_possible_answer: pzk/NHDrf8eVC9Eugzv192LXFs14p5xISyuAawl4LY0=
+        selected: false
+        status: Unchecked
+      - offset: 253
+        length: 61
+        placeholder_text: /* Add code for converting d1 to the closest integer value */
+        initial_state:
+          length: 61
+          offset: 253
+        initialized_from_dependency: false
+        encrypted_possible_answer: k7gft7K9e2F84YnXcxWYUBT7nPPXZsyUMtfUjJzFDcg=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

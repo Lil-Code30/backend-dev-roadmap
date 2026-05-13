@@ -1,0 +1,19 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Ce code compile sans erreur
+    is_correct: true
+  - text: L'évaluation de l'expression dans le <code>if()</code> produit la valeur <code>true</code>
+    is_correct: true
+  - text: "Dans cette expression, l'opérande à droite du <code>||</code> est évalué."
+    is_correct: false
+  - text: Cette expression est équivalente à l'expression <code>b = (true || (b == true))</code>.
+    is_correct: true
+quiz_header: Sélectionnez une ou plusieurs options de la liste
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

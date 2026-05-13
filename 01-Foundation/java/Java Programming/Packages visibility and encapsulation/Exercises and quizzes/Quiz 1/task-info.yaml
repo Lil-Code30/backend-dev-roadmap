@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Il faut changer la classe <code>Main</code> et construire un nouveau point
+      à la place des lignes 5 à 7 pour qu'il compile correctement.
+    is_correct: true
+  - text: La classe <code>A</code> doit dans tous les cas définir des méthodes setter.
+    is_correct: false
+  - text: Il faut modifier la méthode <code>f()</code> puisque les attributs sont inaccessibles
+      avec le mot-clé <code>private</code>.
+    is_correct: false
+  - text: Il faut modifier la constructeur de <code>A</code> puisque les attributs sont
+      inaccessibles avec le mot-clé <code>private</code>.
+    is_correct: false
+quiz_header: Sélectionnez l'affirmation correcte.
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: src/A.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

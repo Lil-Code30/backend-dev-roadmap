@@ -1,0 +1,57 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 126
+        length: 42
+        placeholder_text: /* Overload method to work with double. */
+        initial_state:
+          length: 42
+          offset: 126
+        initialized_from_dependency: false
+        encrypted_possible_answer: vR1ftbzar0q4iO+9oIresisMIoykJTm0/DFJxa4Xare9foBm882G6sQuaMKJYvpAvUQLF/0ePOz2JVIA4bSdarTjVw31pyEPmIOwC1VcTBHlYSES8C2OxDp7FXc4zlPMun4CZN879NOOEYXxnKRMAw==
+        selected: false
+        status: Unchecked
+      - offset: 170
+        length: 45
+        placeholder_text: /* Overload method to work with a boolean. */
+        initial_state:
+          length: 45
+          offset: 170
+        initialized_from_dependency: false
+        encrypted_possible_answer: vR1ftbzar0q4iO+9oIrestLXD6+OhYKn0mNlYfEnLilomQaHdMlXwtCWk5bkeca7kKIfqmmMPQnQKbCYlOkRF1jw++cQ8qUhCs/rg53+tX5pkQnIP94niZwMfQqfXSxL7IwJy4Bj2bIrQG+AUv6aVg==
+        selected: false
+        status: Unchecked
+      - offset: 277
+        length: 44
+        placeholder_text: /* Call the overloaded methods with "2.0" */
+        initial_state:
+          length: 44
+          offset: 277
+        initialized_from_dependency: false
+        encrypted_possible_answer: uLRe9im2iFKJqdT34AfRCrWWjRXw5g07G2g9zA73bvY=
+        selected: false
+        status: Unchecked
+      - offset: 322
+        length: 45
+        placeholder_text: /* Call the overloaded methods with "true" */
+        initial_state:
+          length: 45
+          offset: 322
+        initialized_from_dependency: false
+        encrypted_possible_answer: XywwZ+fZB250QDON8QYy3cnYcDY+3S/nGMJU3okoZY4=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/latest_output.txt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

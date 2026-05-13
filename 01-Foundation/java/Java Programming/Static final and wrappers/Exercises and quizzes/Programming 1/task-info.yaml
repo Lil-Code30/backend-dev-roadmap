@@ -1,0 +1,54 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 99
+        length: 27
+        placeholder_text: /* Convert int to String */
+        initial_state:
+          length: 27
+          offset: 99
+        initialized_from_dependency: false
+        encrypted_possible_answer: YmjQ5vwpCDzX9/EfRghxleGr8qDM3NZ74ABVFaJGLvM=
+        selected: false
+        status: Unchecked
+      - offset: 192
+        length: 30
+        placeholder_text: /* Convert Character to int */
+        initial_state:
+          length: 30
+          offset: 192
+        initialized_from_dependency: false
+        encrypted_possible_answer: 6V6LTCB/Bbv/bIDJFOPAk1jndIbvWat8ZH+/BtRbz1E=
+        selected: false
+        status: Unchecked
+      - offset: 276
+        length: 45
+        placeholder_text: /* Convert 3 to Character using forDigit() */
+        initial_state:
+          length: 45
+          offset: 276
+        initialized_from_dependency: false
+        encrypted_possible_answer: H/AvxpVYzHEBtbtlnW8Sax7CJOqfWr5EsZZdQmKxjO4=
+        selected: false
+        status: Unchecked
+      - offset: 332
+        length: 33
+        placeholder_text: /* Convert Character to String */
+        initial_state:
+          length: 33
+          offset: 332
+        initialized_from_dependency: false
+        encrypted_possible_answer: 2ICZv/Nnfn2Ysqc5SK6RytNRPIh23ROqCF6+bVQZfUw=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

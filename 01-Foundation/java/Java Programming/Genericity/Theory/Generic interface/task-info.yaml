@@ -1,0 +1,17 @@
+type: theory
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Packager.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Box.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/IntegerBox.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

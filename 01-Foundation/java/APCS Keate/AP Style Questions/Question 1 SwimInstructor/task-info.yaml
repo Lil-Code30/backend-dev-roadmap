@@ -1,0 +1,37 @@
+type: edu
+files:
+  - name: src/SwimClassSchedule.java
+    visible: true
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+  - name: src/SwimClass.java
+    visible: true
+    learner_created: false
+  - name: src/SwimInstructor.java
+    visible: true
+    placeholders:
+      - offset: 1532
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1532
+        initialized_from_dependency: false
+        encrypted_possible_answer: 1YgJxN7qcYXvZgB2ep+Kk0qlnDvjrDKiUAtDdaaH2q/2tPIdYWangkWgBQgnzKzx8HQD2k100sN4i4Ey4ZKwO46+tzaZL7RwEHYDS2APGo/3ArJnMcnmOsXDizqxy092vMvKc0CzZtZ2jbTTWxTsTqyG7Tl+ChFYuK//fqrH3Nrikw8LnNzW5e2/hVg76ewxwGGzjCpkpOgTsS7CJhsarLVflcQcd1UKX/R1l3EbzP0DxPoYe5SjLtFs7qtjS49OG1gkiisWLwi4pJBM3ODRuNesGmFmN3/0xtqbgwcH/jUnWDV5IILLFeAV/t5i7BoxRvQPVkS1QPiu+wweA50jaKEf50JRU5v4W77s1Et4RlhZizNzdUMqNMYJpceTvNZbwtXJMYr12+MtcmPeiXgicHAKaS8lkuskC2rTcyyGw79WsJR+KiWm8S+m28WGNNnxY4uBnKQh5eDkKTqeJUHlLiTUbPoBFDa43/kperbMKcKDbpM31Ic6Hvb1Fxfc6CzI
+        selected: false
+        status: Unchecked
+      - offset: 1846
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1846
+        initialized_from_dependency: false
+        encrypted_possible_answer: L5V0bNH+H23Trx5aWvlLg5i61oTDXhPHuIZYm2yJnIuPUuwDNjqGnTRbw0PIDlpURzmix+kfkyHpQj3KM3/mBL5RonuzCm2rgPKFDDQXNodVheZOWDpWjSPrdtbLN1o3zy2NnMWvG2tv1tLS8ljUsDsoPTqJWIQCS4//snDdD9oaqsxLx836K0e03sfAHJ+COs2ulidrNRUjt+aqOXxhEIZi+AAoCJsuXSNyyPpFR3LLZiZIJawvW+gJ10gmVk+swPHWXrbm3PVIsVdrmH1VyLgnMmIMWygfMI9SWiWeOCz3zyovyjAcMj5HEAVyqR4wuvXOeNDM0rUHQ1fLJyrgUPdb2Sz9+7PjN5V0/xabRdeFvnl0/WNyNjxvPzBdeVGjaPqHRrEw6C5hxHOh0extzCL2bDLPwZBWC9Q5nMr5ucanrBq2FiQj/JSuo8PYCtQuG5QuU7lq3vKJ0chOMBhMx0hmUtX6vcytKpqG4AcoK9wO63eGowyIXnXKpdFu5VMjdgcDnZtUMzv73AKryd8G4ia0qot9T9VV9d3y+U9PnZUPw+mxPxE0H13QrcRwcrUuMuceEkEG0ghSAyonK6oDsChxWYL3bzsw1E63IoEReNK5rKMVFIZfwSA5IHgeX7L56Piz4chtRVLhiMkTTuJV4f5+LgF95Ow+ovscILJTVT6hOZqnFQnuqqpN690lnqL2XdO+2fDZ145EwuI/77bGLgZuRDiWrDNUXj0UPG7W+YRshKq38KfkIogSIo+5sp0EalPEFQ/X1F7eFDHClZw7X/5I1I38N0LbTzbcfl/Xr96mtrqz48aSdhaAdZyFLPV3mSqkdLFgxqTTgr8VNKghieOjL7HOjLXeRpPRgwayJRl5HRdzVs7CZw2Xd92kOjPJcQNlYRnhnY8YBc6uDCaAkA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1

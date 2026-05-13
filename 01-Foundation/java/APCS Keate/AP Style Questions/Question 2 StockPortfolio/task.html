@@ -1,0 +1,205 @@
+<html>
+<p><strong>AP Style Question 2</strong></p>
+
+This question was generated using Claude and edited by me for clarity and consistency with the AP Test.
+Citation: <i>FRQ 2</i>, Claude, Sonnet 4.5, Anthropic, 21 January 2026, https://claude.ai/chat/.
+<p></p>
+SHOW ALL YOUR WORK. REMEMBER THAT PROGRAM SEGMENTS ARE TO BE WRITTEN IN JAVA.
+<ul>
+    <li>Assume that the classes listed in the Java Quick Reference have been imported where appropriate. </li>
+    <li>Unless otherwise noted in the question, assume that parameters in method calls are not
+        <strong style="font-family:courier;">null</strong> and that methods are
+        called only when their preconditions are satisfied. </li>
+    <li>In writing solutions for each question, you may use any of the accessible methods that are listed in classes
+        defined in that question. Writing significant amounts of code that can be replaced by a call to one of these methods will not receive full credit.</li>
+</ul>
+This question involves simulating stock price changes in an investment portfolio. The
+<strong style="font-family:courier;">StockPortfolio</strong> class, which you will write, is used to track the value
+of a stock investment over time.
+<p></p>The <strong style="font-family:courier;">StockPortfolio</strong> class contains a constructor and three methods.
+<p></p>
+<ul>
+    <li>The constructor has two integer parameters. The first parameter represents the number of shares owned, and the
+        second parameter represents the initial price per share in dollars. The portfolio always begins on day 0. </li>
+    <li>The <strong style="font-family:courier;">simulateTradingDay</strong> method has no parameters and simulates one
+        day of stock market activity. The method randomly determines whether the stock price increases or decreases on
+        that day. The stock price increases 60% of the time.
+        <ul>
+            <li>If the stock price increases, it goes up by a random amount between 1 and 5 dollars per share, inclusive.
+                Each integer from 1 to 5 has an equal chance of being selected. </li>
+            <li>If the stock price decreases, it goes down by a random amount between 1 and 3 dollars per share, inclusive.
+                Each integer from 1 to 3 has an equal chance of being selected. </li>
+            <li>The stock price cannot go below 1 dollar. </li>
+            <li>The day increases by 1 signifying the trading day's end. </li>
+            <li>The <strong style="font-family:courier;">simulateTradingDay</strong> method does not return a value. </li>
+        </ul>
+    <li>The <strong style="font-family:courier;">getPortfolioValue</strong> method has no parameters and returns an
+        integer representing the current total value of the portfolio (number of shares multiplied by current price per share).</li>
+    <li>The <strong style="font-family:courier;">getDay</strong> method has no parameters and returns an integer
+        representing the current day number.</li>
+</ul>
+The following table contains a sample code execution sequence and the corresponding results. The code execution sequence
+appears in a class other than <strong style="font-family:courier;">StockPortfolio</strong>. Note that the actual results
+of calls to <strong style="font-family:courier;">simulateTradingDay</strong> will vary since the stock price changes are random.
+<p></p>
+<table>
+    <tr>
+        <th>Statement</th>
+        <th>Possible Return Value (blank if no value)</th>
+        <th>Explanation</th>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">int value;</strong></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">int day;</strong></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">StockPortfolio tech = new StockPortfolio(100, 25);</strong></td>
+        <td></td>
+        <td><strong style="font-family:courier;">tech</strong> is a new
+            <strong style="font-family:courier;">StockPortfolio</strong> with 100 shares at $25 per share. Day number is
+            0.</td>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">value = tech.getPortfolioValue();</strong></td>
+        <td><strong style="font-family:courier;">2500</strong></td>
+        <td>100 shares × 25 = $2500</td>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">day = tech.getDay();</strong></td>
+        <td><strong style="font-family:courier;">0</strong></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">tech.simulateTradingDay();</strong></td>
+        <td></td>
+        <td>Suppose the price increases (60% chance) by 3. Price becomes $28. Day becomes 1.</td>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">value = tech.getPortfolioValue();</strong></td>
+        <td><strong style="font-family:courier;">2800</strong></td>
+        <td>100 shares × 28 = $2800</td>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">day = tech.getDay();</strong></td>
+        <td><strong style="font-family:courier;">1</strong></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">tech.simulateTradingDay();</strong></td>
+        <td></td>
+        <td>Suppose the price increases by 5. Price becomes $33. Day becomes 2.</td>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">value = tech.getPortfolioValue();</strong></td>
+        <td><strong style="font-family:courier;">3300</strong></td>
+        <td>100 shares × 33 = $3300</td>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">day = tech.getDay();</strong></td>
+        <td><strong style="font-family:courier;">2</strong></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">tech.simulateTradingDay();</strong></td>
+        <td></td>
+        <td>Suppose the price decreases (40% chance) by 2. Price becomes $31. Day becomes 3.</td>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">value = tech.getPortfolioValue();</strong></td>
+        <td><strong style="font-family:courier;">3100</strong></td>
+        <td>100 shares × 31 = $3100</td>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">tech.simulateTradingDay();</strong></td>
+        <td></td>
+        <td>Suppose the price decreases by 3. Price becomes $28. Day becomes 4.</td>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">tech.simulateTradingDay();</strong></td>
+        <td></td>
+        <td>Suppose the price increases by 1. Price becomes $29. Day becomes 5.</td>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">value = tech.getPortfolioValue();</strong></td>
+        <td><strong style="font-family:courier;">2900</strong></td>
+        <td>100 shares × 29 = $2900</td>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">day = tech.getDay();</strong></td>
+        <td><strong style="font-family:courier;">5</strong></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">StockPortfolio startup = new StockPortfolio(500, 3);</strong></td>
+        <td></td>
+        <td><strong style="font-family:courier;">startup</strong> is a new independent
+            <strong style="font-family:courier;">StockPortfolio</strong> object with 500 shares at $3 per share.</td>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">value = startup.getPortfolioValue();</strong></td>
+        <td><strong style="font-family:courier;">1500</strong></td>
+        <td>500 shares × 3 = $1500</td>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">day = startup.getDay();</strong></td>
+        <td><strong style="font-family:courier;">0</strong></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">value = tech.getPortfolioValue();</strong></td>
+        <td><strong style="font-family:courier;">2900</strong></td>
+        <td>The first portfolio is unchanged.</td>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">startup.simulateTradingDay();</strong></td>
+        <td></td>
+        <td>Suppose the price decreases by 3. Price would be 0, but is set to $1. Day becomes 1.</td>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">value = startup.getPortfolioValue();</strong></td>
+        <td><strong style="font-family:courier;">500</strong></td>
+        <td>500 shares × 1 = $500</td>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">startup.simulateTradingDay();</strong></td>
+        <td></td>
+        <td>Suppose the price decreases by 1. Price would be 0, but remains at $1. Day becomes 2.</td>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">value = startup.getPortfolioValue();</strong></td>
+        <td><strong style="font-family:courier;">500</strong></td>
+        <td>500 shares × 1 = $500 (price cannot go below 1)</td>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">day = startup.getDay();</strong></td>
+        <td><strong style="font-family:courier;">2</strong></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">startup.simulateTradingDay();</strong></td>
+        <td></td>
+        <td>Suppose the price increases by 4. Price becomes $5. Day becomes 3.</td>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">value = startup.getPortfolioValue();</strong></td>
+        <td><strong style="font-family:courier;">2500</strong></td>
+        <td>500 shares × 5 = $2500</td>
+    </tr>
+</table>
+<p></p>
+Write the complete <strong style="font-family:courier;">StockPortfolio</strong> class. Your implementation must meet all
+specifications and conform to the examples shown in the preceding table.
+<p></p>
+
+<strong>Fill in the comments at the top of the <strong style="font-family:courier;">Stopwatch</strong> class with
+    your name and pertinent information.</strong>
+<p></p>
+<strong>Note: </strong> As this code uses several random algorithms, it cannot be checked with the same accuracy as other
+assignments. Please be sure to check your answers with print statements or by comparing your answer to the solution.
+</html>

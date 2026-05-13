@@ -1,0 +1,46 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 118
+        length: 57
+        placeholder_text: /* Declare a char variable named c1 initialized with i */
+        initial_state:
+          length: 57
+          offset: 118
+        initialized_from_dependency: false
+        encrypted_possible_answer: NSeQgL3vTuZO3TLflkzg3nQ3x1f7ya/KFawx8qZNiwA=
+        selected: false
+        status: Unchecked
+      - offset: 182
+        length: 77
+        placeholder_text: /* Declare a char variable named c2 initialized with the literal
+          value 'A' */
+        initial_state:
+          length: 77
+          offset: 182
+        initialized_from_dependency: false
+        encrypted_possible_answer: LdXFaaha+1ZIb2cppatdEw==
+        selected: false
+        status: Unchecked
+      - offset: 266
+        length: 76
+        placeholder_text: /* Declare a char variable named c3 initialized with the literal
+          value 65 */
+        initial_state:
+          length: 76
+          offset: 266
+        initialized_from_dependency: false
+        encrypted_possible_answer: dtQaIQmqtVDkC7Pg/w0sPg==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/latest_output.txt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

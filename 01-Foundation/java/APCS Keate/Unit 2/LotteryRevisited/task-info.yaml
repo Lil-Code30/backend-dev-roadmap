@@ -1,0 +1,33 @@
+type: theory
+files:
+  - name: src/LotteryRevisitedClient.java
+    visible: true
+    learner_created: false
+  - name: src/LotteryRevisited.java
+    visible: true
+    placeholders:
+      - offset: 454
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 454
+        initialized_from_dependency: false
+        encrypted_possible_answer: kh1NUcJ4mkqns9lkdcfIwY+RX/v4pYjgtubirXUQX6BGvqmzSL94Wshbw+HhvsYYDL7yfx8KFIHqh0xMKBG9Nl0vrVGIsAQRQW0vrkbsRV8i5pboNbuY5qe3pC077VzLh2dDqGcEi8sFZwXBX0AG1UaCRZW3QLrMzYJfYZ2l83EB+2xdphJXQkzBjQqXEX6SD+VUr8ZW/AkcMIIbSKA0ZG7MSbRw8P97HuTyhFq0Vg18yj5jid5h1NpGs7/hAzVQbw5SHNLRI92fi3eQhIshb58s8EQDQ2CdOHQuLKb5jkxSYo9PwuQqaeiZx631i3pvlggJTuLHEd8YNAtBM49jACoQn9lXroLyZMo4a3QRA9TYvCVr4S0HFoZmzUxnwl9kJQWBfMi/KUkuAYYSFHOsfePOjEg+yqwmAUwCQbCbb4QmvZ0YV3XL1Iy5kGEBLRE4XLxHPHNwEAl3kUfs3gBETmUK/0J5XM1KP+FcstCdgigrURyjDtxpPaeGnJdOZ4WxZqPTLWlJuAbLHwypGYnYRdgJFtlr8cHZXzr5rVOuVjM=
+        selected: false
+        status: Unchecked
+      - offset: 1419
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1419
+        initialized_from_dependency: false
+        encrypted_possible_answer: gV0ng4w0mJlzoD8q6wX5ca+sn2y8VKY1qFIPdBnH3dm4OfyB8URQjKOs4TQ8BcCt9FDJyjNjyndF2a8IYLxFS23fDEBIZ9bf/FlEGXwXuhNk0Zoa02pjTNTCPiPPW9+yoqhoiJl/MsYKbPJpJGqjMtkeBX4b/A0GFVlTMKb4Ly4iLl0xJaBkcab89YxoizFzNMw5K3Dve6MK84IeqZP5fwJqbkpgp1R7DMl8wqDciMf0eCiCV1FAPusr66aOPWMspIr3HsyQ8+WTPwvMZoYO+lU58Mqb14i/KfuUrygOUzH/D1GTiv7QtQqxcbInyokn1K39jf4S8DM4Lp65LMjDMUJJCUTfYCzrNFCVRyws/pP2k3MND075kbFqmijmykm23tpjO02Tcq3J/1co9er5GxrodFwspgFsZleYLe81vcXSvmwwgWeyQIL3ZQLgCaqmz568mZjBQgPKGVYgo44UbOcipC24y8FPsXOZn9uYaONS461TF1A1ZVNzPuftrmBDtGBr58rP59OeIZ7RtNuMuY7FVt60f5YRiFndo/J2Zr21KrQEOg3nsrgYKxcegARfB4KWzhMEMJrSk1xODwm5C6ChzdkA3KJe7LangzYWGqn8wnSaWJIAp7QJngCwXTzlGNOAdvs6JEx2ed4ojQsreKubHx4tHrYCl/MyS44yEHiIgGfKF0qPY1e8yBLBEYULSfhkL9Xz18cEnuJSbETsw6epddc5MQQP8xNP9R/n9YIFARJp/4A56QnnDEBKQosBL/8EpIGvZjdgwavZcujaiaLLZV5UlBMloHlqTqVpVa27X7E1vlBbyR+kO6L8HYx+7u2neJrNWpxxkBjIPf+HJvawDbzSbTWeM7uf9/bLgP3pK892Q98oZIPj59p+YJb7mqofq9FbdWewfnvUIU9XcZ9AAOV1/ZyAyMvWUXfCPmJlyGVhWQvHkJO1kW+u5ce5kPxU4iowbR9Se343keJ/Pg==
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true
+post_submission_on_open: true

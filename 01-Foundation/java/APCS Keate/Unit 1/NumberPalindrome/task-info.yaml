@@ -1,0 +1,112 @@
+type: edu
+files:
+  - name: test/NumberPalindromeTest.java
+    visible: false
+    learner_created: false
+  - name: src/NumberPalindrome.java
+    visible: true
+    placeholders:
+      - offset: 514
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 514
+        initialized_from_dependency: false
+        encrypted_possible_answer: ruN86gS+CwQQYmIA5hS6i4pHaPv4SwZsRKBRB8S2Cpk=
+        selected: false
+        status: Unchecked
+      - offset: 618
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 618
+        initialized_from_dependency: false
+        encrypted_possible_answer: PpY1aR2q0qBvAOWKukL4uA==
+        selected: false
+        status: Unchecked
+      - offset: 726
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 726
+        initialized_from_dependency: false
+        encrypted_possible_answer: fTzRRYbvOE0zUS+mPAxvBg==
+        selected: false
+        status: Unchecked
+      - offset: 798
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 798
+        initialized_from_dependency: false
+        encrypted_possible_answer: 8lqG86B7ueeqQS3WYHRgQBrkShG+gGWKFhfsayzPCP0=
+        selected: false
+        status: Unchecked
+      - offset: 901
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 901
+        initialized_from_dependency: false
+        encrypted_possible_answer: C0afKSWy5BMdbWAUE8qEZrUWuho8OP6T4v/yqHwKpBM=
+        selected: false
+        status: Unchecked
+      - offset: 999
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 999
+        initialized_from_dependency: false
+        encrypted_possible_answer: fTzRRYbvOE0zUS+mPAxvBg==
+        selected: false
+        status: Unchecked
+      - offset: 1071
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1071
+        initialized_from_dependency: false
+        encrypted_possible_answer: kplTQHJGKqwdtm2LV2uex+va+HUgHVx19dqFnWiFlq4=
+        selected: false
+        status: Unchecked
+      - offset: 1174
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1174
+        initialized_from_dependency: false
+        encrypted_possible_answer: C0afKSWy5BMdbWAUE8qEZuDWw3FEyyeUCK72X3CN74w=
+        selected: false
+        status: Unchecked
+      - offset: 1718
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1718
+        initialized_from_dependency: false
+        encrypted_possible_answer: ruN86gS+CwQQYmIA5hS6i9mjYKucyjgOoRQTHiFDdTOjBvKwDjjDutA4UmTSFq0GFhOO/LlJkPLpND3q1S40jXvy66n2BluGW8gkET1cCPoPvfkQzs0atuKS0HDHO/8ZAFEVjhxo0njBMO0NWkssL3pV0RgC1QpPk3pmYP/1gaa5izUYH0wc0ypecILgzAljwHoizzMqbaXuEqCtvE6O+g3jYSwu1uVfRzmZXoQ44drpcfREOcbfdzlXRIOsnCmJTLMepiGDW++SYwdfRWJIXgDBCW9BHLMfPb4BUvBGTMF9sQQbzYD9QhD3GmALqbHiIqcNlODNgE9lOljVuJDPco7yJ/HAer3GwEZZ4T++oJYeUvRBSxLm1egXrW1B2txxugoGwjcDvSMYlyUzwdtbprKWt09//bu50n3sezehM7GhIR0C6s5BFzuwaaYfiy8T
+        selected: false
+        status: Unchecked
+      - offset: 1908
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1908
+        initialized_from_dependency: false
+        encrypted_possible_answer: KEKVQBnImnEfCEJkyv+DbnPL3xhM+O3etrEWTRdx5rdJfgvN8BYnq4XQ3YBa/Nh7rlI3WEkYWLuqFK+xtBH8KA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true

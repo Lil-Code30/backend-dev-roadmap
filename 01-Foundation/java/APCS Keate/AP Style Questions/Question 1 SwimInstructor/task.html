@@ -1,0 +1,203 @@
+<html>
+<p><strong>AP Style Question 1</strong></p>
+
+Code has been added in places it normally would not be on the AP Test to ensure the program runs. This has been noted in
+each class with a comment. For instance, the entire <strong style="font-family:courier;">SwimClass</strong> class would not
+be available or even mentioned to you on the test as the methods
+<strong style="font-family:courier;">getStudentCount</strong>,
+<strong style="font-family:courier;">bookClass</strong>,
+and <strong style="font-family:courier;">getClassCapacity</strong> would give
+you any information you would need to answer the question. It might be easiest to pretend this code does not exist where noted.
+<p></p><strong>You may not alter any code other in the assignment other than where noted with
+    /* TODO */</strong>.
+<p></p>
+SHOW ALL YOUR WORK. REMEMBER THAT PROGRAM SEGMENTS ARE TO BE WRITTEN IN JAVA.
+<ul>
+    <li>Assume that the classes listed in the Java Quick Reference have been imported where appropriate. </li>
+    <li>Unless otherwise noted in the question, assume that parameters in method calls are not
+        <strong style="font-family:courier;">null</strong> and that methods are
+        called only when their preconditions are satisfied. </li>
+    <li>In writing solutions for each question, you may use any of the accessible methods that are listed in classes
+        defined in that question. Writing significant amounts of code that can be replaced by a call to one of these methods will not receive full credit.</li>
+</ul>
+This question involves managing swim classes at a swim school. A swim school tracks swim classes throughout the day.
+The <strong style="font-family:courier;">SwimClassSchedule</strong>
+class represents the swim class portal, and the <strong style="font-family:courier;">SwimInstructor</strong> class
+uses <strong style="font-family:courier;">SwimClassSchedule</strong> objects to manage classes and generate instructor
+bio summaries. The <strong style="font-family:courier;">SwimClassSchedule</strong> class is provided in the assignment and has
+already been implemented.
+<p></p>
+A swim instructor is associated with a swim class schedule and is represented by the
+<strong style="font-family:courier;">SwimInstructor</strong>
+class. You will write two methods of the <strong style="font-family:courier;">SwimInstructor</strong> class.
+<p></p>
+a. Write the <strong style="font-family:courier;">scheduleStudents</strong> method, which attempts to schedule students
+in a swim class specified by <strong style="font-family:courier;">className</strong>
+across time slots from <strong style="font-family:courier;">startSlot</strong> to
+<strong style="font-family:courier;">endSlot</strong>, inclusive. For each time slot in the range, the method attempts
+to schedule an amount of <strong style="font-family:courier;">studentsPerSlot</strong> students in the specified swim class.
+<p></p>For each time slot, students can only be scheduled if adding the amount of
+<strong style="font-family:courier;">studentsPerSlot</strong> students would not exceed the class's capacity. If
+scheduling the students would exceed capacity, no new students are scheduled for that time slot. If scheduling the
+students keeps the total number of students at or below capacity for that class, the students are scheduled for that
+time slot.
+<p></p>The method returns the total number of new students successfully scheduled across all time slots for the class
+specified in the range.
+The following table shows examples of <strong style="font-family:courier;">scheduleStudents</strong> behavior.
+Assume the
+<strong style="font-family:courier;">SwimInstructor</strong> object
+<strong style="font-family:courier;">teacher</strong> is associated with a swim schedule and that Guppies has a capacity
+of 4 students.
+<p></p>
+
+<table>
+    <tr>
+        <th>Time Slot</th>
+        <th>Current Number of Students</th>
+        <th>Number of Students Scheduled After  <strong style="font-family:courier;">scheduleStudents("Guppies", 5, 8, 2)</strong></th>
+        <th>Explanation</th>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>1</td>
+        <td>3</td>
+        <td>There is 1 student currently scheduled in the Guppies class at time slot 5. The capacity for the Guppies
+            class is 4 students, so the 2 new students can be scheduled to make a total of 3 students scheduled in
+            this class during this time slot.</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>3</td>
+        <td>3</td>
+        <td>There are 3 students currently scheduled in the Guppies class at time slot 6. The capacity for the Guppies
+            class is 4 students, so the 2 new students cannot be scheduled keeping the total at 3 students scheduled in
+            this class during this time slot.</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>2</td>
+        <td>4</td>
+        <td>There are 2 students currently scheduled in the Guppies class at time slot 7. The capacity for the Guppies
+            class is 4 students, so the 2 new students can be scheduled to make a total of 4 students scheduled in
+            this class during this time slot.</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>0</td>
+        <td>2</td>
+        <td>There are 0 students currently scheduled in the Guppies class at time slot 8. The capacity for the Guppies
+            class is 4 students, so the 2 new students can be scheduled to make a total of 2 students scheduled in
+            this class during this time slot.</td>
+    </tr>
+</table>
+
+<p></p>
+The method call <strong style="font-family:courier;">teacher.scheduleStudents("Guppies", 5, 8, 2);</strong> would return
+<strong style="font-family:courier;">6</strong> (2 + 0 + 2 + 2 = 6 additional students successfully scheduled by calling the method).
+<p></p>
+As another example, consider a class, Sharks, with a capacity of 3 students:
+<table>
+    <tr>
+        <th>Time Slot</th>
+        <th>Current Number of Students</th>
+        <th>Number of Students Scheduled After  <strong style="font-family:courier;">teacher.scheduleStudents("Sharks", 2, 5, 3)</strong></th>
+        <th>Explanation</th>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>0</td>
+        <td>3</td>
+        <td>There are 0 students currently scheduled in the Sharks class at time slot 2. The capacity for the Sharks
+            class is 3 students, so the 3 new students can be scheduled to make a total of 3 students scheduled in
+            this class during this time slot.</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>1</td>
+        <td>1</td>
+        <td>There is 1 student currently scheduled in the Sharks class at time slot 3. The capacity for the Sharks
+            class is 3 students, so the 3 new students cannot be scheduled keeping the total of 1 student scheduled in
+            this class during this time slot.</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>3</td>
+        <td>3</td>
+        <td>There are 3 students currently scheduled in the Sharks class at time slot 4. The capacity for the Sharks
+            class is 3 students, so the 3 new students cannot be scheduled keeping the total of 3 students scheduled in
+            this class during this time slot.</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>0</td>
+        <td>3</td>
+        <td>There are 0 students currently scheduled in the Sharks class at time slot 5. The capacity for the Sharks
+            class is 3 students, so the 3 new students can be scheduled to make a total of 3 students scheduled in
+            this class during this time slot.</td>
+    </tr>
+</table>
+
+<p></p>
+The method call <strong style="font-family:courier;">teacher.scheduleStudents("Sharks", 2, 5, 3);</strong> would also
+return <strong style="font-family:courier;">6</strong> (3 + 0 + 0 + 3 = 6 additional students successfully scheduled by
+calling the method).
+<p></p>
+Complete the method <strong style="font-family:courier;">scheduleStudents</strong>. You must use
+<strong style="font-family:courier;">getStudentCount</strong>,
+<strong style="font-family:courier;">getClassCapacity</strong>, and
+<strong style="font-family:courier;">bookClass</strong> appropriately to receive
+full credit.
+<p></p>
+b.  Write the <strong style="font-family:courier;">getInstructorBioSummary</strong> method, which returns a swim
+instructor's bio summary based on the instructor's name and bio. The bio summary is constructed according to the
+following rules:
+<ul>
+    <li>The bio summary includes only the first name and first initial of the last name of the
+        swim instructor. </li>
+    <li>The bio summary includes <strong style="font-family:courier;">BSI</strong> if the instructor has a Basic
+    Swim Instructor certification and <strong style="font-family:courier;">WSI</strong> if the instructor has a Water
+    Safety Instructor certification. You may assume these are the only two options for instructor certification.</li>
+    <li>The bio summary includes the number of years the instructor has been certified.</li>
+</ul>
+<p></p>
+The following table shows examples of <strong style="font-family:courier;">getInstructorBioSummary</strong> behavior.
+All swim instructors' bios follow the same format. You may assume all schedules have been initialized.
+<p></p>
+<table>
+    <tr>
+        <th>Statement</th>
+        <th>Possible Return Value (blank if no value)</th>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">String bio1 = "Jane Doe has a Water Safety Instructor certification.
+            Jane has maintained certification for 10 years. Jane's favorite stroke is butterfly.";</strong></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">SwimInstructor teacher1 = new SwimInstructor("Jane Doe", sched1, bio1);</strong></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">teacher1.getInstructorBioSummary();</strong></td>
+        <td><strong style="font-family:courier;">Jane D., WSI, 10 years certified</strong></td>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">String bio2 = "John Doe has a Basic Swim Instructor certification. Joe
+            has maintained certification for 8 years. Joe's favorite stroke is breaststroke.";</strong></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">SwimInstructor teacher2 = new SwimInstructor("Joe Doe", sched2, bio2);</strong></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><strong style="font-family:courier;">teacher2.getInstructorBioSummary();</strong></td>
+        <td><strong style="font-family:courier;">Joe D., BSI, 8 years certified</strong></td>
+    </tr>
+</table>
+<p></p>
+Complete the method <strong style="font-family:courier;">getInstructorBioSummary</strong>.
+<p></p>
+
+<strong>Fill in the comments at the top of the <strong style="font-family:courier;">SwimInstructor</strong> class with
+    your name and pertinent information.</strong>

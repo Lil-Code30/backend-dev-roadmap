@@ -1,0 +1,31 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: 1
+    is_correct: false
+  - text: 2
+    is_correct: false
+  - text: 11
+    is_correct: false
+  - text: 12
+    is_correct: false
+  - text: 16
+    is_correct: false
+  - text: 27
+    is_correct: false
+  - text: 36
+    is_correct: true
+  - text: 37
+    is_correct: false
+  - text: 46
+    is_correct: false
+  - text: 47
+    is_correct: false
+quiz_header: Quelle est la valeur de "value" au terme du programme ?
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

@@ -1,0 +1,67 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+  - name: src/Student.java
+    visible: true
+    placeholders:
+      - offset: 23
+        length: 39
+        placeholder_text: /* Write the attributes of the class */
+        initial_state:
+          length: 39
+          offset: 23
+        initialized_from_dependency: false
+        encrypted_possible_answer: d/u7CwaTuA5WSeATc50sYPkdHXB6Ig8r6W+m/TN5h78QId9AhH0SnmBF60e7r99kWW7QxMVahGvFaXYxnJPck+07d44DMPdchxMbLUjCicI=
+        selected: false
+        status: Unchecked
+      - offset: 64
+        length: 59
+        placeholder_text: /* Write the constructor without parameters of the class */
+        initial_state:
+          length: 59
+          offset: 64
+        initialized_from_dependency: false
+        encrypted_possible_answer: v+W8OBbp1sm7RnQa8BfAdL5wvCbXD7cZCOkbmmIp8GnfI0IiZOvBOI8yTekOfUzVbA63Juwoxn2H+VWMnS/KJQ==
+        selected: false
+        status: Unchecked
+      - offset: 125
+        length: 56
+        placeholder_text: /* Write the constructor with parameters of the class */
+        initial_state:
+          length: 56
+          offset: 125
+        initialized_from_dependency: false
+        encrypted_possible_answer: v+W8OBbp1sm7RnQa8BfAdIb1vuURFXmlkRgKXtICzOjy0NF2cVPw8OR4t+YXUsbsRhD3lIhfSokt+a5LnrVGdT9NtjcYCE/oAR2sKhRthb3l8rFhob68FYv1bcHag7RR8DZ32nDl4xCQUvGWn9PkKOxeT3+pTv2t13QnNdYk5CYiHLKxSjAQFndrbQiRFvgktkGjjkdkVigoY0u2Noj6U4arwfa5pU1xVgcO7MgvYQI=
+        selected: false
+        status: Unchecked
+      - offset: 183
+        length: 28
+        placeholder_text: /* Write method isMajor() */
+        initial_state:
+          length: 28
+          offset: 183
+        initialized_from_dependency: false
+        encrypted_possible_answer: rndNd0C3iFBbIm0gOX7nYj05Ew/I5QzzDRleHnLRzHeoSSMRizxy14Q0Lpv3L3URuNLZ5gLy84q9lYoohO3vwQ==
+        selected: false
+        status: Unchecked
+      - offset: 213
+        length: 28
+        placeholder_text: /* Write method getName() */
+        initial_state:
+          length: 28
+          offset: 213
+        initialized_from_dependency: false
+        encrypted_possible_answer: d/u7CwaTuA5WSeATc50sYK4OgAgP46E/BtcXh3IlUzbtw+3V6fXWJirQcdnfH094lEO/gYflhRfLm6feRlKyEgWdNMKAOUEy3HCwUZuGZr5fDbrpAbPtQ88alNkvYMcS
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1

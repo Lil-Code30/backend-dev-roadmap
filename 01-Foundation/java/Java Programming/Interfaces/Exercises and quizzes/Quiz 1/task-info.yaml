@@ -1,0 +1,32 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Une classe concrète qui hérite de la classe <code>Child</code> doit redéfinir
+      et réaliser la méthode <code>k()</code>.
+    is_correct: true
+  - text: "Pour étendre la classe <code>Child</code>, il est nécessaire de redéfinir\
+    \ la méthode <code>l()</code>."
+    is_correct: false
+  - text: "Pour implémenter l'interface <code>MyInterface</code>, il faut implémenter\
+    \ la méthode <code>i()</code>."
+    is_correct: false
+  - text: "Pour implémenter l'interface <code>MyInterface</code>, il faut implémenter\
+    \ la méthode <code>j()</code>."
+    is_correct: true
+quiz_header: Sélectionnez les affirmations correctes.
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/MyInterface.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Child.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Daughter.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

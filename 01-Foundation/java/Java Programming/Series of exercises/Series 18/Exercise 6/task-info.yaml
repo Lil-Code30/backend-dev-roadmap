@@ -1,0 +1,129 @@
+type: edu
+files:
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+  - name: src/Pencil.java
+    visible: true
+    placeholders:
+      - offset: 28
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 28
+        initialized_from_dependency: false
+        encrypted_possible_answer: fbHaQdN2bSd2e5dsTK2XgWxkCUEuIrmCqwlsnQwoFGE=
+        selected: false
+        status: Unchecked
+      - offset: 119
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 119
+        initialized_from_dependency: false
+        encrypted_possible_answer: MhJ4zUqJGp7/FYxcVo/IYg==
+        selected: false
+        status: Unchecked
+      - offset: 210
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 210
+        initialized_from_dependency: false
+        encrypted_possible_answer: ExByZprnA9qP8W47HYz2MA==
+        selected: false
+        status: Unchecked
+      - offset: 300
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 300
+        initialized_from_dependency: false
+        encrypted_possible_answer: MhJ4zUqJGp7/FYxcVo/IYg==
+        selected: false
+        status: Unchecked
+      - offset: 395
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 395
+        initialized_from_dependency: false
+        encrypted_possible_answer: gUxKKX33UeCxACRzkhN10g==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/Plotter.java
+    visible: true
+    placeholders:
+      - offset: 43
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 43
+        initialized_from_dependency: false
+        encrypted_possible_answer: BQTayfEcp0nJtbghUJ+pLFHpjnW3GXGMvjqP6FePFtn42U8rKDkeRRuyuxt8jyVGaGsxntebmFhCioKkzDx1OjERM+/EQdIrhXO7S8aCS8rlq82EBfykWy5quD9VAZWOiv1XKu5oIdHV/FL+L623aMywwukllkDy/YZZjb/zuzpwoKWRERHxy81m0nFVx8Ihz4sPhZQ3GbBk5+Yj6tDWbbyqv9rrPxV8oK9o/N6rsH3cO/HX39LPDMBqqJSZ4H+H
+        selected: false
+        status: Unchecked
+      - offset: 157
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 157
+        initialized_from_dependency: false
+        encrypted_possible_answer: TI+tpjNyllEOxFANgsNsqA==
+        selected: false
+        status: Unchecked
+      - offset: 261
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 261
+        initialized_from_dependency: false
+        encrypted_possible_answer: Y1FBigwjPRL3SWvQQAYyNrQ7jzoxxRdV6x0x9nUlCPQfKBrXFdwxzorUU53OmlwzetbNCKBOKy0YZUAPl2TmPsPlpWCgQgK96tCMFN5ahOxMYedn3Rhc6luptaD+C+8NslZf1fIgUnui8sQaw65X7g==
+        selected: false
+        status: Unchecked
+      - offset: 352
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 352
+        initialized_from_dependency: false
+        encrypted_possible_answer: yB+u9oba/FPXQi6/j1k7vw==
+        selected: false
+        status: Unchecked
+      - offset: 443
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 443
+        initialized_from_dependency: false
+        encrypted_possible_answer: xm4WyPTXGLui1Ccx6oRLlg==
+        selected: false
+        status: Unchecked
+      - offset: 582
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 582
+        initialized_from_dependency: false
+        encrypted_possible_answer: 1RascodS4Sgnr5dmd1OsGsh9P7Yn8STEHP53+ui0r8Y=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/PlotterDemo.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true

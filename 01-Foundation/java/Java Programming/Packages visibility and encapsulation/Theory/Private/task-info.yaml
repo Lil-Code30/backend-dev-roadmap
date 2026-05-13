@@ -1,0 +1,26 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: "Dans la classe <code>Car</code>, il est possible d'accéder au membre <code>engine.power</code>."
+    is_correct: false
+  - text: "Dans la classe <code>Car</code>, il est possible d'accéde au membre <code>engine.type</code>."
+    is_correct: false
+  - text: "Dans la classe <code>Car</code>, il est possible d'accéder au membre <code>engine</code>."
+    is_correct: true
+  - text: "Dans la classe <code>Car</code>, il est possible d'accéder au membre <code>year</code>."
+    is_correct: true
+quiz_header: Sélectionnez les affirmations correctes.
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Engine.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Car.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+custom_name: 'Private '
+local_check: true

@@ -1,0 +1,24 @@
+type: edu
+files:
+  - name: src/VideoInfo.java
+    visible: true
+    learner_created: false
+  - name: test/VideoLibraryTests.java
+    visible: false
+    learner_created: false
+  - name: src/VideoLibrary.java
+    visible: true
+    placeholders:
+      - offset: 997
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 997
+        initialized_from_dependency: false
+        encrypted_possible_answer: W18VG5Wx84b1XkzdT2eQCvQzEX5uI7CbLNExsuKh72KtINFh0IsAQG5KQnJPuWxbWjXpHjvRX3lFbUqerkYWdAqkjAxw7M6y941IkD0uvYKdY3HEX9PETTum3p+jYbVo1lfxPRpw9IkK1NcMS/+WEonSzVprt8hRX3KfXHXZ2EpxgIU40YHRzZCcQWImLXM1zYBH908visc0Pd1G9wWzjKahg68n55yigri4uUVlztILWwf9F16qOt+FxOtTBSx2Qfbp7NbQEUCd+5tbjxrq9BgdtZxFruGNfRMYc8+yJpdY5Pui5yafgw7jF3KHxekTGP5yCjIu/dGlJNuLBIp11QoPtVMflpD8MXC3xXrC4CHCAR+wJbtatMVcuPuyDhCrVtd4ldPX8mIus3WRAtnFZcRNQN18rOmgN/d+aPlwW3ohXjjCM6Lbhu11luNG88inlvijDCHxjSM3o95yE4S5HQ==
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1

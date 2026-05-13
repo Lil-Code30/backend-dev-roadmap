@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AP Style Questions/Question 1 SwimInstructor" />
+            <option value="$PROJECT_DIR$/AP Style Questions/Question 1 TextProcessor" />
+            <option value="$PROJECT_DIR$/AP Style Questions/Question 2 StockPortfolio" />
+            <option value="$PROJECT_DIR$/AP Style Questions/Question 2 Stopwatch" />
+            <option value="$PROJECT_DIR$/AP Style Questions/Question 3 EmployeeDirectory" />
+            <option value="$PROJECT_DIR$/AP Style Questions/Question 3 VideoLibrary" />
+            <option value="$PROJECT_DIR$/AP Style Questions/Question 4 Restaurant" />
+            <option value="$PROJECT_DIR$/AP Style Questions/Question 4 WeatherStation" />
+            <option value="$PROJECT_DIR$/Unit 1/Christmas" />
+            <option value="$PROJECT_DIR$/Unit 1/CipherDisk" />
+            <option value="$PROJECT_DIR$/Unit 1/NumberPalindrome" />
+            <option value="$PROJECT_DIR$/Unit 1/Quadratic" />
+            <option value="$PROJECT_DIR$/Unit 1/ReguarPolygon" />
+            <option value="$PROJECT_DIR$/Unit 1/SwingExample" />
+            <option value="$PROJECT_DIR$/Unit 2/LoanTable" />
+            <option value="$PROJECT_DIR$/Unit 2/Lottery" />
+            <option value="$PROJECT_DIR$/Unit 2/LotteryRevisited" />
+            <option value="$PROJECT_DIR$/Unit 2/MadLibs" />
+            <option value="$PROJECT_DIR$/Unit 2/MovieTheatreSale" />
+            <option value="$PROJECT_DIR$/Unit 2/TaxPayer" />
+            <option value="$PROJECT_DIR$/Unit 3/ReportCards" />
+            <option value="$PROJECT_DIR$/Unit 4/Compact" />
+            <option value="$PROJECT_DIR$/Unit 4/MadLibsRevisited" />
+            <option value="$PROJECT_DIR$/Unit 4/School" />
+            <option value="$PROJECT_DIR$/Unit 4/SoccerStatistics" />
+            <option value="$PROJECT_DIR$/Unit 4/Student" />
+            <option value="$PROJECT_DIR$/Unit 4/TicTacToe" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

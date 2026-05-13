@@ -1,0 +1,35 @@
+type: edu
+files:
+  - name: src/Task.java
+    visible: true
+    placeholders:
+      - offset: 313
+        length: 109
+        placeholder_text: /* Implement the filtering of all files in the current directory
+          that ends with ".jpg" or ".gif" or ".png" */
+        initial_state:
+          length: 109
+          offset: 313
+        initialized_from_dependency: false
+        encrypted_possible_answer: OIpm9W6N4JBivpKKFgBxdeRbh4Q/5kpySfdZo8gqtrnwaX2JxeeO3rMqV82h8TdDmks0pweWV9RJTNHYA2qEYOrIlgL683kWuvV3laWSFG4MDtJFa7j6t4st4cQ4HJBS9TMRhnxAcKfrFrIi1mll9tXtpQlEWAz9hmjaUq0tC6tyyALMxvhpXe/A0maWMUHl22wDcKdsy/oNqIE2e1BBUQNLEOkbdXuDnqOntFc4iDVpllJOoEYQhoabahE/XtgV
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+  - name: logo_heia-fr.png
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: logo_heia-fr.jpg
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: this_is_not_a_gif.gif
+    visible: true
+    is_binary: true
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true

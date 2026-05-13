@@ -1,0 +1,94 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 140
+        length: 21
+        placeholder_text: Define the array type
+        initial_state:
+          length: 21
+          offset: 140
+        initialized_from_dependency: false
+        encrypted_possible_answer: +zEZMLjTNFQDEeQYms0Xqw==
+        selected: false
+        status: Unchecked
+      - offset: 170
+        length: 20
+        placeholder_text: Initialize the array
+        initial_state:
+          length: 20
+          offset: 170
+        initialized_from_dependency: false
+        encrypted_possible_answer: oZPVMicmurdRlU8j9zkg0RXnCO6Q6htOqT+W7ha/JjE=
+        selected: false
+        status: Unchecked
+      - offset: 201
+        length: 32
+        placeholder_text: Complete the for loop parameters
+        initial_state:
+          length: 32
+          offset: 201
+        initialized_from_dependency: false
+        encrypted_possible_answer: TIf9hOpwB+4PVjaE1sCN1/QjnP6hkbUs1o950vjRMvrXxqxTJlXNRog+RqMXrqZt
+        selected: false
+        status: Unchecked
+      - offset: 257
+        length: 24
+        placeholder_text: Complete the assignation
+        initial_state:
+          length: 24
+          offset: 257
+        initialized_from_dependency: false
+        encrypted_possible_answer: kOlh+VHiK/aWJdskchs7qnz5JxzVzTme7klhuOzkl2A=
+        selected: false
+        status: Unchecked
+      - offset: 295
+        length: 32
+        placeholder_text: Complete the for loop parameters
+        initial_state:
+          length: 32
+          offset: 295
+        initialized_from_dependency: false
+        encrypted_possible_answer: 92zl7CZTinilBwo2NHWXKKTupxjrOpo02+EG7AEPYTOEKhqC3zr7Axny4kactnRH
+        selected: false
+        status: Unchecked
+      - offset: 348
+        length: 30
+        placeholder_text: Complete the array assignation
+        initial_state:
+          length: 30
+          offset: 348
+        initialized_from_dependency: false
+        encrypted_possible_answer: G9O8BDkVJiUzBJcD9AhRJg==
+        selected: false
+        status: Unchecked
+      - offset: 432
+        length: 26
+        placeholder_text: Complete the for-each loop
+        initial_state:
+          length: 26
+          offset: 432
+        initialized_from_dependency: false
+        encrypted_possible_answer: UX/rrMOfil/qPerULBVn3fB+Ytjznv9yi3F+pLI6Syc=
+        selected: false
+        status: Unchecked
+      - offset: 475
+        length: 26
+        placeholder_text: Complete the for-each loop
+        initial_state:
+          length: 26
+          offset: 475
+        initialized_from_dependency: false
+        encrypted_possible_answer: 2+4/XB50UOtXsRrUrmdp2g==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

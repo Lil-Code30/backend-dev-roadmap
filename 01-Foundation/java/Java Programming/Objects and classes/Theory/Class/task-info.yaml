@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Il est possible de créer un programme Java sans classe.
+    is_correct: false
+  - text: Une classe ne possède que des attributs.
+    is_correct: false
+  - text: "Un objet a un nom, un type, un état et des méthodes."
+    is_correct: true
+  - text: Les instances de classe sont appelés objets.
+    is_correct: true
+quiz_header: Sélectionnez les affirmations correctes.
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: src/Point.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

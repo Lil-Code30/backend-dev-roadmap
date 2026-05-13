@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Le programme quitte normalement
+    is_correct: false
+  - text: Le programme s'arrête dû à une erreur
+    is_correct: false
+  - text: Aucun print n'est affiché
+    is_correct: true
+  - text: Les chiffres compris dans la chaîne de caractères sont affichés
+    is_correct: false
+quiz_header: Que se passe-t-il lorsqu'une chaîne de caractère est écrite avec que
+  des lettres ou un mélange de chiffres et lettres ?
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

@@ -1,0 +1,2 @@
+Welcome home !
+This is an input file that must be copied to "output.txt".

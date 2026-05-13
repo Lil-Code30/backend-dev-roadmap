@@ -1,0 +1,87 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+  - name: src/ch/heiafr/tic/Vegetable.java
+    visible: true
+    placeholders:
+      - offset: 24
+        length: 28
+        placeholder_text: /* Fill class declaration */
+        initial_state:
+          length: 28
+          offset: 24
+        initialized_from_dependency: false
+        encrypted_possible_answer: p5S18CDFmU72bJy05NkvLnNACgPTqZd3l4wVTgiYE6A=
+        selected: false
+        status: Unchecked
+      - offset: 68
+        length: 18
+        placeholder_text: /* Add modifier */
+        initial_state:
+          length: 18
+          offset: 68
+        initialized_from_dependency: false
+        encrypted_possible_answer: ulGneMT3pRDBYFty2bd4mA==
+        selected: false
+        status: Unchecked
+      - offset: 149
+        length: 18
+        placeholder_text: /* Add modifier */
+        initial_state:
+          length: 18
+          offset: 149
+        initialized_from_dependency: false
+        encrypted_possible_answer: ulGneMT3pRDBYFty2bd4mA==
+        selected: false
+        status: Unchecked
+      - offset: 347
+        length: 26
+        placeholder_text: /* Write method water() */
+        initial_state:
+          length: 26
+          offset: 347
+        initialized_from_dependency: false
+        encrypted_possible_answer: 487Z/dlEBv4/B4cTDYunDPqB8z55w3Cloms+xoiZnZFxxOGitAKXjDncZtDYO0B7o2bkNBEhRVLdvkdlVdyacp3fqpQF8FBsvrg9DTBFMXfhCLEoXIZ/imTVtvhUXi1q
+        selected: false
+        status: Unchecked
+      - offset: 428
+        length: 25
+        placeholder_text: /* Write method grow() */
+        initial_state:
+          length: 25
+          offset: 428
+        initialized_from_dependency: false
+        encrypted_possible_answer: 0Bw9hqsMgkrpmkJyLk04Ed6r7qOrQjmuTpmp3Q67+Lc=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/ch/heiafr/tic/Carrot.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Tomato.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Garden.java
+    visible: true
+    placeholders:
+      - offset: 84
+        length: 16
+        placeholder_text: /* Write type */
+        initial_state:
+          length: 16
+          offset: 84
+        initialized_from_dependency: false
+        encrypted_possible_answer: q8gkjg1vBdj9zx8qSCHaOw==
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1

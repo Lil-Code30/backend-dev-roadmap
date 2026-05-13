@@ -1,0 +1,133 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+  - name: src/ch/heiafr/tic/Person.java
+    visible: true
+    placeholders:
+      - offset: 72
+        length: 31
+        placeholder_text: /* Write the right modifiers */
+        initial_state:
+          length: 31
+          offset: 72
+        initialized_from_dependency: false
+        encrypted_possible_answer: p5S18CDFmU72bJy05NkvLnNACgPTqZd3l4wVTgiYE6A=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/ch/heiafr/tic/Wizard.java
+    visible: true
+    placeholders:
+      - offset: 24
+        length: 29
+        placeholder_text: /* Write class declaration */
+        initial_state:
+          length: 29
+          offset: 24
+        initialized_from_dependency: false
+        encrypted_possible_answer: kYwFOfiF3+QGzv1cVF1lsRk1bswpCY2tru85PT4t4n+SBiMgAjLYI9j/IRnPz6zvVuUdVqLyk5AjYc+Pnby1DXhdTDiHzYpYI5/T0k+vvvA=
+        selected: false
+        status: Unchecked
+      - offset: 413
+        length: 32
+        placeholder_text: /* Write the follows() method */
+        initial_state:
+          length: 32
+          offset: 413
+        initialized_from_dependency: false
+        encrypted_possible_answer: SEH7fj85qzh9FgyAqJ0DEFiOFReyxfOeGz7pqkMtrAeAOunGEA+arQfOx6GvR+zHAKLYQCUgR0ctScgZmsXri032FfCUeSGfqm3yTh4n2Q4vHCunbSQ65TU2aJL/8tzS
+        selected: false
+        status: Unchecked
+      - offset: 447
+        length: 36
+        placeholder_text: /* Write the isFollowing() method */
+        initial_state:
+          length: 36
+          offset: 447
+        initialized_from_dependency: false
+        encrypted_possible_answer: SEH7fj85qzh9FgyAqJ0DEHZu/vqGSCJPeztn4ivOh9k4GL0OOEV9erI5jv1v+SCyC4Y7KIxFlhnZDFkLBkqDELMyB/TDIlttgFQlnqPqvTw=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/ch/heiafr/tic/Muggle.java
+    visible: true
+    placeholders:
+      - offset: 24
+        length: 29
+        placeholder_text: /* Write class declaration */
+        initial_state:
+          length: 29
+          offset: 24
+        initialized_from_dependency: false
+        encrypted_possible_answer: 6stGwtERcefP5E5wTrMW9rzNtihaz1SEuAAlwNKUYjYawxtlEHdbXVcyD8SopTtc
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/ch/heiafr/tic/SpellCaster.java
+    visible: true
+    placeholders:
+      - offset: 72
+        length: 31
+        placeholder_text: /* Write the right modifiers */
+        initial_state:
+          length: 31
+          offset: 72
+        initialized_from_dependency: false
+        encrypted_possible_answer: +IszU2sLU405ZWI8OEONmyKXemp/F2f4Mb2bMGUixw0=
+        selected: false
+        status: Unchecked
+      - offset: 206
+        length: 30
+        placeholder_text: /* Write method castSpell() */
+        initial_state:
+          length: 30
+          offset: 206
+        initialized_from_dependency: false
+        encrypted_possible_answer: A5xrof4e5TynKg8GF/a2TyG2iQZKL18K0uBiFG7n6h31EQ3xl5k6YK4YiZ+PRH4uTm/sneu0wEmXUVLDxBVdglHXhJqSRctdyK0On5qrJh7bT1zCpdr6PasKGiLFlGpKujml49sjhRxXd5tK/KJ7E7UqqhiJaip2gBRzrBIXvJuG8CiqkHqvFNE8ZPAYZ2SX
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/ch/heiafr/tic/Follower.java
+    visible: true
+    placeholders:
+      - offset: 24
+        length: 31
+        placeholder_text: /* Write the right modifiers */
+        initial_state:
+          length: 31
+          offset: 24
+        initialized_from_dependency: false
+        encrypted_possible_answer: +IszU2sLU405ZWI8OEONmyKXemp/F2f4Mb2bMGUixw0=
+        selected: false
+        status: Unchecked
+      - offset: 70
+        length: 32
+        placeholder_text: /* Write the follows() method */
+        initial_state:
+          length: 32
+          offset: 70
+        initialized_from_dependency: false
+        encrypted_possible_answer: XXXcVxtQZbeZcUxtSmHUGkjCcLA5u7BCY7k9ydICSU4=
+        selected: false
+        status: Unchecked
+      - offset: 107
+        length: 36
+        placeholder_text: /* Write the isFollowing() method */
+        initial_state:
+          length: 36
+          offset: 107
+        initialized_from_dependency: false
+        encrypted_possible_answer: UBGDFoOqYhlS+SB4hInEvtv6JN5FP1KoTPZPg1+Kms0=
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1

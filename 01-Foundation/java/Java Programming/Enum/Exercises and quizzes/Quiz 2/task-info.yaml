@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: -12
+    is_correct: false
+  - text: 0
+    is_correct: false
+  - text: 12
+    is_correct: true
+  - text: 32
+    is_correct: false
+quiz_header: Quel est la valeur de <code>value</code> au terme du programme ?
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Color.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

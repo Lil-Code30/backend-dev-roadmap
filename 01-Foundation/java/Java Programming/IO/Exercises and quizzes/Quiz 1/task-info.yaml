@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Une suite de chiffres
+    is_correct: false
+  - text: Un numéro de téléphone suisse
+    is_correct: true
+  - text: Un numéro de téléphone français
+    is_correct: false
+  - text: Un numéro de téléphone suisse à l'envers
+    is_correct: false
+quiz_header: Quels sont les types de données acceptées par ce programme pour qu'il
+  arrive au terme de son exécution sans afficher "Error" ?
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

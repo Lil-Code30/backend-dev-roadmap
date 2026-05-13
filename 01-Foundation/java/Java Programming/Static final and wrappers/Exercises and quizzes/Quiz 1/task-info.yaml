@@ -1,0 +1,45 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Ligne 9
+    is_correct: false
+  - text: Ligne 10
+    is_correct: false
+  - text: Ligne 11
+    is_correct: true
+  - text: Ligne 12
+    is_correct: true
+  - text: Ligne 13
+    is_correct: false
+  - text: Ligne 14
+    is_correct: true
+  - text: Ligne 15
+    is_correct: true
+  - text: Ligne 16
+    is_correct: false
+  - text: Ligne 17
+    is_correct: true
+  - text: Ligne 18
+    is_correct: false
+quiz_header: Quelles sont les lignes qui compilent dans la classe Main ?
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Dummy.java
+    visible: true
+    placeholders:
+      - offset: 164
+        length: 59
+        placeholder_text: public final int f; // a final variable must be initialized
+        initial_state:
+          length: 59
+          offset: 164
+        initialized_from_dependency: false
+        encrypted_possible_answer: 2R8L7DuJ2scu0i6X1lbGG9fhI5rQFa8a27fBv9myQIA=
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: "<code>int[] a = null; int l = a.length;</code>"
+    is_correct: false
+  - text: "<code>int[] a = {1, 2, 3}; int l = a.length;</code>"
+    is_correct: true
+  - text: "<code>int[] a = {1, 2, 3}; a[0] = 2;</code>"
+    is_correct: true
+  - text: "<code>int[] a = {1, 2, 3}; a[3] = 2;</code>"
+    is_correct: false
+quiz_header: Quelles lignes ne produisent <strong>pas</strong> d'erreur à l'exécution
+  ?
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

@@ -1,0 +1,36 @@
+type: edu
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 89
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 89
+        initialized_from_dependency: false
+        encrypted_possible_answer: v9BST9G404M3FVcf8/sWIRtWDjJwDUinNvy6U2TwsG3SxmQZANqFUkdiLU/cRwFKwbiZiYjQj1TZjuOltMaxlqaWD+3714QaTY1rkXYIDBsBBBg6ite/D4QJ9qqP+tJ3RM2NzRPoMeMXMOFYSPPg3dtAIXkBWP/JcvkjVUuhe9aPti0/VP5yAJ1gWZCuH5IwySMXDkshap+XgcKF0aqA+TfXMrA5xoII8wZ5YHulRtAktIw/xmMU4YghsKBQBwfodB7uwm4NrXxXwD+ggIEUnovOkgDG848pyybK/dbpQWhVcjydHuQjc13EfEvdYk6ZwrIFgR/VO2LA8Ot4ovpeSfGZ038l5wiT52tWqxIDq5K9tMDjZEi8iFlera7TKSxD+SzZ4S0Pt7ao6+lkot4tOBY17Ea/RwhoOIqG7TnUQikGIuQOUpQOnefg/Qxe+HXBVNdIu/FnKtefYIyyDVcWKlKcAEtCWG+T+wHyhuPQoH4=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+  - name: src/Measure.java
+    visible: true
+    placeholders:
+      - offset: 23
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 23
+        initialized_from_dependency: false
+        encrypted_possible_answer: I7zdvnSacXg+qdDS1c5Pqsmj9/MDaWlGQukewFYs7IJV3gXCZKaPW8A3Il39WEdnzf4zwVSn5fhaECoqxbv0ArKRbYv52GMCsFt2cA93BZngbtAgFABJAbJnri8i2Uv6aBL+BqS8OdtRHnFs2gj7EvRVPZZ7M7q3L+gaPrfXTwmITQGkeplk8hByhT8pwMVbR+CyOhbk9fK0ItHptHt90TnZUwxr99XKcwwz4gO1HUc8lILk5ieBYfWFTRyXplT55esfJSNcrmyYuoHu8QLVZpM6g3i2PzucVHQIiqNCPW98+KzqCRbgGWcNuj9FqHMv5+eN9zl0rCkTlbkCjl4QB7+m4tupJOKfxe8XlkvnbzRpyXAd4kSqoj6m0C2nRB7dQgevUbj9xm+dYCFeSrAnpmMsJoXLHuF65N8fq6FOh1H6EaxBdDaJBkCwu11FK0pnXIBmKrd7k65XJqz4reW5WGp47btuOpX250fbbhmvAwQPudXjkpgzNKQpr7DdfVdtyAjA6OWIazGnYZQachA0A9uufo+MQvypVpzucy8TrYqdAf4iONoEAsBjVgISHgxiCnuxsS+8rLnEA4gv46ZJTOxE+jic18J+sv6E0r0Ool8Zq12q7hJZlUKvtElthv1/sAahxtOXkc5sx8JKbAScSdSdM+BH9EZvR35F5sG8KWAro04pT59/JQdK6iRzmTgnwyMMUAOGApjZW9jq88ZLCzdGUVnqHKEfAhC1F2MMtwP8pWaRjlg9TVpbnxygKMiV8IE49xBOr42sa77UrKoeHwZrgsittp9+5RYyMVDkAzjUKvhDV5I9q5pBOflSlcODewtoBtb8vxbHhuV+30cxRsTqBjvT1QhJ2bn18D47zuxnasfkoi4MpwdLL48XHwCx3E3BsucnX4PasGy3Fcu9pPC2ihqAVQGjJCO5XaESCvxwBSjmXa+kzdhLeOr4WMHmfIMy7TqsTxeneJanPYjCOTaTeYMPXo/9vW/TGKzzKVdaVTy44nd+j58X1JCy2XwIgWQYcd5heLShIp9FGrhUIw==
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true

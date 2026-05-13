@@ -1,0 +1,45 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 533
+        length: 45
+        placeholder_text: /* Open the files using try-with-resources */
+        initial_state:
+          length: 45
+          offset: 533
+        initialized_from_dependency: false
+        encrypted_possible_answer: iChmBn48hlXwlELM3zn3B/yGMYxAKp323Jg7H1TyQao4TZGrsrwQbl3A2Ypdn+/SJmTxE5f4JHQKaYkRjvOhn9DRGXgCTGhkj7BQRyT9FKZu0wkRhOkn30ah429n0cFTGGkRCJrkcTZ0hIsfx0cbCyTLthoQONZNJiTER1cRnd0=
+        selected: false
+        status: Unchecked
+      - offset: 712
+        length: 61
+        placeholder_text: "/* While the read() doesn't return -1, a byte is available\
+      \ */"
+        initial_state:
+          length: 61
+          offset: 712
+        initialized_from_dependency: false
+        encrypted_possible_answer: YX4yK1aeT/QOdJxjLQif0H1cMgroU43tGtXigSpAXW0=
+        selected: false
+        status: Unchecked
+      - offset: 822
+        length: 37
+        placeholder_text: /* Catch the necessary placeholder */
+        initial_state:
+          length: 37
+          offset: 822
+        initialized_from_dependency: false
+        encrypted_possible_answer: D56YpoPAGFrcS8kSiPdKPsGy3rQ4HYucfGrRIB3MN8QUwlcMEMv5bZU0r450Y7Xc6DW26OBNOtv8ymj5RgVNKg==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: input.txt
+    visible: true
+    learner_created: false
+  - name: output.txt
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

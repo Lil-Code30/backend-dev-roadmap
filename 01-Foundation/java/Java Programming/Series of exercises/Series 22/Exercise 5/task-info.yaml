@@ -1,0 +1,49 @@
+type: edu
+files:
+  - name: src/Task.java
+    visible: true
+    placeholders:
+      - offset: 335
+        length: 86
+        placeholder_text: |-
+          static double randomValue(double[] t) {
+                  return t[rnd.nextInt(t.length)];
+              }
+        initial_state:
+          length: 86
+          offset: 335
+        initialized_from_dependency: false
+        encrypted_possible_answer: zRS6jeBaVSkIM2mozRoSxW2HroxQw0Vo5+Zl1153JCw=
+        selected: false
+        status: Unchecked
+      - offset: 1444
+        length: 167
+        placeholder_text: |-
+          double[] t = {
+                  hardComputation1(computationTimeInSecs),
+                  hardComputation2(computationTimeInSecs),
+                  hardComputation3(computationTimeInSecs)
+              };
+        initial_state:
+          length: 167
+          offset: 1444
+        initialized_from_dependency: false
+        encrypted_possible_answer: zRS6jeBaVSkIM2mozRoSxW90r1ekhYMGT8TCjfLmh8Q=
+        selected: false
+        status: Unchecked
+      - offset: 1698
+        length: 26
+        placeholder_text: double d = randomValue(t);
+        initial_state:
+          length: 26
+          offset: 1698
+        initialized_from_dependency: false
+        encrypted_possible_answer: 2QlLr+SygXW3P6Sz6auLSblZPqlv2Tih19h94iskYDR8ymjhUaY+Hxl7PbsDjDrV
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

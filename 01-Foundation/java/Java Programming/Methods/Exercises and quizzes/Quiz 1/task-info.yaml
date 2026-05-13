@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Une ou plusieurs méthodes
+    is_correct: true
+  - text: Une boucle for
+    is_correct: true
+  - text: Une ou plusieurs conditions
+    is_correct: false
+  - text: Une boucle while
+    is_correct: false
+quiz_header: Quels outils sont les plus appropriés pour simplifier ce code pour qu'il
+  soit concis et clair ? (Plusieurs réponses possibles.)
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

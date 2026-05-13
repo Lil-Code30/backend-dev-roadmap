@@ -1,0 +1,36 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 495
+        length: 90
+        placeholder_text: "/* (boolean) intValue is an invalid statement: replace it by\
+      \ using the ternary operator */"
+        initial_state:
+          length: 90
+          offset: 495
+        initialized_from_dependency: false
+        encrypted_possible_answer: TaRrDGkVecgpHIBlJino4z3oPKdURBJk8agz562ILUk=
+        selected: false
+        status: Unchecked
+      - offset: 753
+        length: 87
+        placeholder_text: "/* (int) boolValue is an invalid statement: replace it by using\
+      \ the ternary operator */"
+        initial_state:
+          length: 87
+          offset: 753
+        initialized_from_dependency: false
+        encrypted_possible_answer: f8mgtAqoQtuiR1JbkEV3xz5VJSft7yV7anp/2+ycCV4=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

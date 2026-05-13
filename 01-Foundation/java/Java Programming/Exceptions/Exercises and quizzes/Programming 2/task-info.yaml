@@ -1,0 +1,74 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 668
+        length: 24
+        placeholder_text: /* Complete signature */
+        initial_state:
+          length: 24
+          offset: 668
+        initialized_from_dependency: false
+        encrypted_possible_answer: AzTk0vIO4iCJBuFEuldE1oJjyjYn/dqm7LXDktChl5w=
+        selected: false
+        status: Unchecked
+      - offset: 701
+        length: 49
+        placeholder_text: /* Throw IllegalAccessException when necessary */
+        initial_state:
+          length: 49
+          offset: 701
+        initialized_from_dependency: false
+        encrypted_possible_answer: DpJgRydEiZYDofwEOpzz20pGMGbQ6iaMcFJljQk9J1odilPRsQ+RieToaW6rfKS+EG9DvV6oEsSyDgZu6yqMHGB/Z8PuHBTdaA77+7BthXx4Iz0U2Mws/eX3yernAjD5NNrtN6kKQhk6/uxplPqullgwfEd9Zs+WDF3U8tpb+1g=
+        selected: false
+        status: Unchecked
+      - offset: 846
+        length: 24
+        placeholder_text: /* Complete signature */
+        initial_state:
+          length: 24
+          offset: 846
+        initialized_from_dependency: false
+        encrypted_possible_answer: RSgUKFRVvTd26w/Oj5owW9Lhb2kLX5C639YMlGML69jUMZfjz0N53cxfz3meYy0w
+        selected: false
+        status: Unchecked
+      - offset: 879
+        length: 56
+        placeholder_text: /* Throw UnsupportedOperationException when necessary */
+        initial_state:
+          length: 56
+          offset: 879
+        initialized_from_dependency: false
+        encrypted_possible_answer: lvousF8NoC5FB4TbLvU7gir1y4g8jMv9f8L76Sa/ddpkK6/P9O4VlGUiA6nUGMDMqktPzV2ZqRV5JE4ejgZNMftpkzpyCldWoGkjqDKfjoWUUEkKuGMgQOPnfeVNgvgKV4wPPi1iZuuJPgRakeu7V2IifNZwrmd7crLgtz0V1fQW8VpMephbyAPPocXX99xO
+        selected: false
+        status: Unchecked
+      - offset: 1412
+        length: 29
+        placeholder_text: /* Write necessary methods */
+        initial_state:
+          length: 29
+          offset: 1412
+        initialized_from_dependency: false
+        encrypted_possible_answer: cKcLOBKW1kix24HM7bkWDAho1fREfc68upArHhsIA6Sk57470MuagHA7fRWPDEh5
+        selected: false
+        status: Unchecked
+      - offset: 1453
+        length: 34
+        placeholder_text: /* Complete the try/catch block */
+        initial_state:
+          length: 34
+          offset: 1453
+        initialized_from_dependency: false
+        encrypted_possible_answer: 2AL0ebTlR+ieVJTT9Hmyzn0SQn+iLARxiyBKlP7NAl5P4llMF9ez/Vj8kVhsmh92nlvC57iobfJSiOvRlc7QlPTmAKAfIDXAPKZ2WQb3SoE36dWuHSjHeusm0/CFUjywrh7n79n+qQ/8Fba95HcrvKk32J1IXS8wq/lm6h52KjRE62upHGv7O7EaQpQXpUttN590Co8rruZpI4mykTuNF6XVnut3OHN8aLr7qbkVIvI=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

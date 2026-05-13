@@ -1,0 +1,47 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: "La valeur des attributs de <code>d1</code> est <code>number</code> = 4, <code>s</code>\
+    \ = NNone."
+    is_correct: false
+  - text: "La valeur des attributs de <code>d1</code> est <code>number</code> = 4, <code>s</code>\
+    \ = NNoneo."
+    is_correct: true
+  - text: "La valeur des attributs de <code>d1</code> est <code>number</code> = 2, <code>s</code>\
+    \ = NNoneo."
+    is_correct: false
+  - text: "La valeur des attributs de <code>d2</code> est <code>number</code> = 2, <code>s</code>\
+    \ = ANone."
+    is_correct: true
+  - text: "La valeur des attributs de <code>d2</code> est <code>number</code> = 1, <code>s</code>\
+    \ = ANone."
+    is_correct: false
+  - text: "La valeur des attributs de <code>d2</code> est <code>number</code> = 2, <code>s</code>\
+    \ = NoneNone."
+    is_correct: false
+  - text: "La valeur des attributs de <code>d3</code> est <code>number</code> = 5, <code>s</code>\
+    \ = NoneNone."
+    is_correct: true
+  - text: "La valeur des attributs de <code>d3</code> est <code>number</code> = 4, <code>s</code>\
+    \ = NoneNone."
+    is_correct: false
+  - text: "La valeur des attributs de <code>d3</code> est <code>number</code> = 5, <code>s</code>\
+    \ = None."
+    is_correct: false
+  - text: "La valeur des attributs de <code>d4</code> est <code>number</code> = 4, <code>s</code>\
+    \ = NoneNone."
+    is_correct: false
+  - text: "La valeur des attributs de <code>d4</code> est <code>number</code> = 4, <code>s</code>\
+    \ = ANoneo."
+    is_correct: false
+quiz_header: Sélectionnez les affirmations correctes.
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: src/Dummy.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

@@ -1,0 +1,33 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Les énumérations permettent de représenter un groupe de constantes.
+    is_correct: true
+  - text: Une énumération permet de créer un nouveau type.
+    is_correct: true
+  - text: L'avantage des énumérations par rapport à un tableau de String est de limiter
+      les valeurs à un ensemble de constantes définies.
+    is_correct: true
+  - text: "Comme les énumérations sont un type, le compilateur nous avertit lorsqu'un\
+    \ mauvais type est utilisé."
+    is_correct: true
+quiz_header: Sélectionnez les affirmations correctes.
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Person.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Wizard.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Muggle.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/SpellCaster.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

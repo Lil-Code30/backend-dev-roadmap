@@ -1,0 +1,70 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 89
+        length: 57
+        placeholder_text: /* add a literal value for printing 588 to the console */
+        initial_state:
+          length: 57
+          offset: 89
+        initialized_from_dependency: false
+        encrypted_possible_answer: P5rSCDn7/XPAAzrwvOJWBw==
+        selected: false
+        status: Unchecked
+      - offset: 180
+        length: 58
+        placeholder_text: /* Add a literal value for printing -4.0 to the console */
+        initial_state:
+          length: 58
+          offset: 180
+        initialized_from_dependency: false
+        encrypted_possible_answer: SYD4WLDC9yZYbAAQC6MnSg==
+        selected: false
+        status: Unchecked
+      - offset: 290
+        length: 98
+        placeholder_text: /* Add an expression with age for printing 66 to the console
+          without modifying the age variable */
+        initial_state:
+          length: 98
+          offset: 290
+        initialized_from_dependency: false
+        encrypted_possible_answer: QhybwXJneFm/RaxL5VQ7zQ==
+        selected: false
+        status: Unchecked
+      - offset: 416
+        length: 96
+        placeholder_text: "/* Add an expression with age for printing 65 to the console,\
+      \ followed by 64 on the next line */"
+        initial_state:
+          length: 96
+          offset: 416
+        initialized_from_dependency: false
+        encrypted_possible_answer: /QyRlxRdzX97rOFmtFS63g==
+        selected: false
+        status: Unchecked
+      - offset: 571
+        length: 95
+        placeholder_text: /* Add an expression with age for printing 63 to the console
+          followed by 63 on the next line */
+        initial_state:
+          length: 95
+          offset: 571
+        initialized_from_dependency: false
+        encrypted_possible_answer: wF7NWQ0K3E9xex6yAtWC+Q==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+  - name: test/latest_output.txt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

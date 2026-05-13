@@ -1,0 +1,186 @@
+type: edu
+files:
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+  - name: src/main/CardGame.java
+    visible: true
+    learner_created: false
+  - name: src/main/GameEngine.java
+    visible: true
+    learner_created: false
+  - name: src/main/ItemList.java
+    visible: true
+    placeholders:
+      - offset: 255
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 255
+        initialized_from_dependency: false
+        encrypted_possible_answer: roZ9a8fE7sr12CEGeeuz2um9zOb3mW6mqmk3uGy7Om4=
+        selected: false
+        status: Unchecked
+      - offset: 366
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 366
+        initialized_from_dependency: false
+        encrypted_possible_answer: lNuAiGvZ8KwSrKzLKE4ixFL3cXVde6ke0f5jACvE/Bg=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/main/MarblesGame.java
+    visible: true
+    placeholders:
+      - offset: 124
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 124
+        initialized_from_dependency: false
+        encrypted_possible_answer: 289u1hq6TDxXiHN2AmIlG4DeL3/eeRnj5hwKIkPdxFTgjllPDcA1Lk9xKOZicLQwg8Nf9EdW0zynwS4pSE1u75bnKonZFXC8Z2rt7n0IxcTgJqJe5/m8xlUDrI5xGYJlCkYRcVwlpYhLhB4HkZrkfTWYqKpQ6rh4gRtlGjkPfmBtd7uuICY31U0KkAd7XSMaaClgc2DZxA8FvgsCLAaNH6ztUh/bwe5AMx4LoTpHrUru1cbnPc+BI+xSY2qV1WgvZCXhnQ+syPQe8AIFT9tT4q4oKGd4J34qvfXmt08HTJ/W+/LobEa1FDIDZZV7uKE9
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/main/Playable.java
+    visible: true
+    learner_created: false
+  - name: src/main/Provider.java
+    visible: true
+    learner_created: false
+  - name: src/main/RockPaperScissorsGame.java
+    visible: true
+    placeholders:
+      - offset: 147
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 147
+        initialized_from_dependency: false
+        encrypted_possible_answer: grMRgJHs8njgOxqCzeUvq9CSMxoBIR55nuMLBdjJenRisVLLDqC5r0k8k6FNTslmyADMBIUg/CCCo9R88Tlc+oTCex7DIEjCFvlFRznMOkHjRvbsr4MO1Clvxs+4N6Down8o0fCHKiFD/CRgq072thjL3/BlI1c6pTyAqpIIi21Pycx2CXpczIxspettOladSYAFzXF+HXJfhdMH6sbgrl5zv6mnMKI0GtDGBSv2ywZxK0by6BUDrNNqrVvD8pO6hHfQZkkJbJHInpOnNRCeLmrXitscaCvGOaPMz0F8IRSFcJz6ITlYotUey9GiZrvjwGgiBqjyJo+aPG6avV/PDA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/cards/Card.java
+    visible: true
+    learner_created: false
+  - name: src/cards/CardDeck.java
+    visible: true
+    learner_created: false
+  - name: src/cards/Face.java
+    visible: true
+    learner_created: false
+  - name: src/cards/FaceCard.java
+    visible: true
+    learner_created: false
+  - name: src/cards/NumberCard.java
+    visible: true
+    learner_created: false
+  - name: src/cards/Suit.java
+    visible: true
+    learner_created: false
+  - name: src/marbles/MarblesBag.java
+    visible: true
+    placeholders:
+      - offset: 125
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 125
+        initialized_from_dependency: false
+        encrypted_possible_answer: TabjiXO3IxaMH6nwnjD/BplVFXrllV7CtCgrpzsWabwt+CylTIQMyk/R2UrYj5RZbAHIWO59QQTQLPsbh5E6ROv/USWX2ECDP/HcPQOpOm4CQobWtXp8Av9CMJXhFhHKdB/Hf4L915ntfZQiMtXS+A4ddtEgDLjjJmexyDYnjRcJvrqcxjnSvhgFy6D63stANp1fjCxERF0ob4pvKxbKfXiBTz/3X3npoFIGdrLcwmmgBgo32srO7NB8e0IHbe/LnLLJI/x98mJ/bqmxQLOdNwJuWuxwEg84w5UQMKv5PhYE7wrq9R3ZpMijuYzDbeeiD1wDYV8lqUudAgxmagn49m6K945uhrI3zZpyuy9EcksSQ8tE1eP2u3Vo9pUHINPdcKyNbzGKe85kg3AsE8iht2RFn8KkUGu6d1Ecjl4Kniv+tszZsCj/wf/JKpPwYIGiiOoQHfTrLf1Z3RuMYGwl/i5SRCDfiMVW+rG2NJ6j8+9eHjuTkoDpPMFMisTW3dQA3ditIrm4/emlyk+PUqooogsltqYnluWig7qllckgm8gx49ynpY6THTDWeb6oOMZj/0oK3cvSjRGcAp7obBHhF4p7V1j5dtr9r6IOVykB6W84sRbqPu398EhFhpzv2T28T1qfngUIHu7VfQcqTRM00nK7bFX6OCIksRYhLEsA3T04dFuwhp9hinihQq37/k3+ojLxiPdzq61dEMmWBUa2F1bW5+XH+8obMxlPHo5g7KYmuTEhqUyUh62GxgLdq5iRDfgaWMAn9R523VFD/rVr7Ms0pY9yRA5xvI/xdm8B9xjuc9wJPj0Zv3wdfW3DSk9GYeslZ2wz3ZJ8Gf0on4m4Ilr4FlrTUoBhWMPrZbKr1riuznQ0iw7lbJ/DQZIlH395jKOpC11giZeZADopgQ+nbMFzqbVXinuad+DuSgcYwUVH9A+C5mfVjiYpmTvBenBtW/YwybZlbKeyK8L42nFTK/AY7PADU6W2rUlltdWkXKsgrEWltfslOcJEpX+8uLhs8cKY7QVHsUXah9MXOgQ3NQ==
+        selected: false
+        status: Unchecked
+      - offset: 368
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 368
+        initialized_from_dependency: false
+        encrypted_possible_answer: tBeNuzXGn4FN+iJhH6mMPU4PfKCi3am0bvSSQGXbq7o=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/marbles/Color.java
+    visible: true
+    learner_created: false
+  - name: src/marbles/Marble.java
+    visible: true
+    learner_created: false
+  - name: src/rock_paper_scissors/RPSProvider.java
+    visible: true
+    placeholders:
+      - offset: 271
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 271
+        initialized_from_dependency: false
+        encrypted_possible_answer: REdyZGfdAK5PTzkizX+xWQ==
+        selected: false
+        status: Unchecked
+      - offset: 465
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 465
+        initialized_from_dependency: false
+        encrypted_possible_answer: Ulrw8zuSazbndvr6Xx09wNtwudkpgpJx8dZluNvb/Otxt6gQ5oRq5sVutzWj5lSnYllC8l/9eBZNe//nTiTJZ11DWXIH9/RRw+SKzlqmFm6OZ8/Zi75UPZWRQmzIfOxPV/ky2QImQT7zkOtFqnRVnHR+KRW6d2rf+AMyFikRqVaDA2xe2lLALgzq9DuX6ykW0a3Dgxug6nTsdfGIZHoezySI8CK74uLlzqP5iY8DmVUW5rKTdisQU1B2qLM7iLtjfZexnjx6SyTaGKYl7E5TuO0eTJFWHnwfbcvqYVMwaA6tVi/JrKDi64jyK9Gy4d5pIKzmLH9MKJBRGaUt9SHsvP7F38VBG4AYbAbPcX3qKtOJDBGWAuCXgKjX3f17HokH
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/rock_paper_scissors/Rock.java
+    visible: true
+    placeholders:
+      - offset: 53
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 53
+        initialized_from_dependency: false
+        encrypted_possible_answer: DW/NHSGoDUVreoH3RIw/mcD9VyG/tg6BfEUbkIeN/KlS1+E7GGCftxGiBHnlH5dHpe19coQ3JHtrbEuADux/JHqtbylrS0RuaRcSbYGAxoAnopbe1tsYO/6g877lxNDs0W6Bx/Y01W1+YOjIcxWBm3J/z/Ehu1B7kYX8/FKj9lfCr6Kmc3kHjSW3FfFbhXZavpz2WfBbYkERCqvDQuuFozewiln+4SV2l7sZU5kYXRoAHewYK5mfCXCJbgAdFOVwUXpnslPksRZY33BDHG0l79QvirQP/AhqzemqS01AWjkdyV1iZVcYc/cUKAT3if0VZKtrzNECifugSbdf7ZAgRZkncHlg8raz0w5HFGYBtBvNq6JIaE6SmOCKZtvitcyuX29ovI87UpLKUgXeWUabbJ5vQvTM5l4o/VH0jJ23WNVQ2GLnAbfIhJAP3oFTSwSl
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/rock_paper_scissors/Paper.java
+    visible: true
+    placeholders:
+      - offset: 53
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 53
+        initialized_from_dependency: false
+        encrypted_possible_answer: fKUETsGO5nK0NcETrogYaNssbrwtrqK07cHay7lNGRPieOZ/c+2V3ZHSJA7PKfo/HnoxcqJz8jfbzizT7bzl9HdQFr5lJdT2wAY8/6J7OhgZs9LrX9HC79tO60p6Z1JystSSivZAHjy53iehdT0xbdWs1RlV8CxBMzRiJWmt79g6Gdo7Fd93ue/ov0DzIUfxey+GIKp41tJd/CMaNyypYTmdyRxjUQt73Xu31EK0+w74iI1nzM6UUVcgVv8a4Ls02GnRVBktgVFQqLsBb+/JKVKvRCAjft2YePJF8y8/Pmbdtc1udYtsE/VSgvM5A7txcOBwkMEITKDcgVp4DxLF9AznTuaNZhCTsfEgsP+sS8TAq2HiCiifo7hLOFkE+st91K06hhaQK2Msddxq8tFo5KuvlUoYDfDZwFsofmcO9xZaqucVgTl+kmS/IRc2mi4G
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/rock_paper_scissors/Scissor.java
+    visible: true
+    placeholders:
+      - offset: 53
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 53
+        initialized_from_dependency: false
+        encrypted_possible_answer: aQl0s0ZKApRL6pS0ZVRjSMhIUygU/r1Q5gJp37q2PzJq8Vx4RhxBZpgu80hZG3D0hPAIhZiz+dWTZbl8yfPhtfO5Lcd5+vl78Ghqb/BEzSugL/I9g9ZN3x6vSjGLoH3/tGY2z03wrZMcYBhL1KZMSbZ11MPZslVxqSeA+FHGFG0KrH8D7OEUghp9LnKf2qcRaDzMlo+FWwYvmrD8D5VUIj4zqAtOHX+BZWOTcrikxVKXVrfdlJu30KGUrFjss8vMiftD3VcOaG6h4X6SvWF52XKs7uoHrkULbtfuFti/fvsPFyFUgfQ5OiYMlTbGlEfkcBLH/AgnqpPdwQQstwpcEOZ3mMsbKT2HBzx2tKfe8q1or4BM+BPYrh2pjQaOAj+FMPoyv58/CU2fyeGAXbPPeoZnP1CVdbCAptXsh3z/3Q+pguCJGOTY+C9h4qSN00Wo
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true

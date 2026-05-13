@@ -1,0 +1,102 @@
+type: edu
+files:
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+  - name: src/RSA/AsymmetricKeys.java
+    visible: true
+    learner_created: false
+  - name: src/RSA/CipherFactory.java
+    visible: true
+    learner_created: false
+  - name: src/RSA/CipheringKey.java
+    visible: true
+    learner_created: false
+  - name: src/RSA/MathUtils.java
+    visible: true
+    learner_created: false
+  - name: src/RSA/RsaKey.java
+    visible: true
+    placeholders:
+      - offset: 127
+        length: 34
+        placeholder_text: /* Declare the class attributes */
+        initial_state:
+          length: 34
+          offset: 127
+        initialized_from_dependency: false
+        encrypted_possible_answer: ev9A4o2rTjaLoPehfKLGB1BCG/BDs6Y46HEiIZXcvfw=
+        selected: false
+        status: Unchecked
+      - offset: 163
+        length: 43
+        placeholder_text: /* Declare and implement the constructor */
+        initial_state:
+          length: 43
+          offset: 163
+        initialized_from_dependency: false
+        encrypted_possible_answer: ev9A4o2rTjaLoPehfKLGB1BCG/BDs6Y46HEiIZXcvfw=
+        selected: false
+        status: Unchecked
+      - offset: 340
+        length: 35
+        placeholder_text: /* Implement the cipher() method */
+        initial_state:
+          length: 35
+          offset: 340
+        initialized_from_dependency: false
+        encrypted_possible_answer: blrkn44SzDKhn6hg8hVS5fk+2YOclhsd5rJgKv/x8jvucEpMnelLrBffs1qTQr8Th1cI7DdWIN2x2zfhMyjW3Q==
+        selected: false
+        status: Unchecked
+      - offset: 522
+        length: 37
+        placeholder_text: /* Implement the decipher() method */
+        initial_state:
+          length: 37
+          offset: 522
+        initialized_from_dependency: false
+        encrypted_possible_answer: blrkn44SzDKhn6hg8hVS5fk+2YOclhsd5rJgKv/x8jvucEpMnelLrBffs1qTQr8Th1cI7DdWIN2x2zfhMyjW3Q==
+        selected: false
+        status: Unchecked
+      - offset: 1323
+        length: 79
+        placeholder_text: /* Add the missing instructions for returning the instance of
+          AsymmetricKeys */
+        initial_state:
+          length: 79
+          offset: 1323
+        initialized_from_dependency: false
+        encrypted_possible_answer: blrkn44SzDKhn6hg8hVS5fk+2YOclhsd5rJgKv/x8jvucEpMnelLrBffs1qTQr8Th1cI7DdWIN2x2zfhMyjW3Q==
+        selected: false
+        status: Unchecked
+      - offset: 1653
+        length: 48
+        placeholder_text: /* Implement naive hacking of the private key */
+        initial_state:
+          length: 48
+          offset: 1653
+        initialized_from_dependency: false
+        encrypted_possible_answer: blrkn44SzDKhn6hg8hVS5fk+2YOclhsd5rJgKv/x8jvucEpMnelLrBffs1qTQr8TlbyLNNCT+CBITmxappiRzA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/RSA/CaesarKey.java
+    visible: true
+    placeholders:
+      - offset: 99
+        length: 35
+        placeholder_text: /* Implement the CaesarKey class */
+        initial_state:
+          length: 35
+          offset: 99
+        initialized_from_dependency: false
+        encrypted_possible_answer: ev9A4o2rTjaLoPehfKLGB61ezwHQ+r0J9biq0SRqcdA+5XzyP67s0MozxEz/BY5Zu0qg+9ob35du6N3rCRGSuCBopHagjS5ZORvZzrCPwfKU7Obj/CGConPYdFRpvWoG1WPLDxWp/Rf+47RJ2Smo6npOtqgv7Vxbw+a8s3Q93DQtklsz8OJv1RsCPp7t2BPPc/2c8lyjLPIbSZmZE2QevuN7Bpj3Pf/SE1LKCyZJ/FgZxV8CDr+koDGSU8upZQlx7Tnct3aZZVoAvT2ZrB04dWOFGg4GA1y9xTOEsfFJonWWfJG/vgvXHifF/2uBmxbQGfTWfiJFlhSvlfYXYrGK1eIMx4foF/n+Nv4ZlRLNZLtRx1dZswVqBS50nVXq6fSw4F3EWcF6tq+TW45DIZaOzxg68H6zN+rjHaZ4yoZLppKHZsxTt9RahHeaVniRuywkLKgSQs4G0pIM/zcUFrUhSlWBA1uPtwBbQ3KTW/u4+xa/4h1ZIrpMBZIAtKrsgLj4tvCr5lqgenc9ZcTed3bEbG5hzZGnL2xLdlybmID4RvSKoZltTVpFvdyn4HncNQL+fX+ifITHICsTi5e3Qwp81UWavK28iQjztFCyJDFklTv5t9wm5WtBp/E0Dn5Nkdk6FkwJEV3yirIgdlkQMxQl5v6tFCKX7NPLoeXcPKLbdpIsO/O5JqfcvmIoppwEl4Q8l4Rrx0b3EcCYXDG82sOQmCT8h5FuGJ6PBrCElvJc8MJ4sPRJfyQsZkWRKWxLqUY1lALY3tpUa7JihyJCEnYJ81Mdfxu3NJ08DX4jbCQzXdg=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true

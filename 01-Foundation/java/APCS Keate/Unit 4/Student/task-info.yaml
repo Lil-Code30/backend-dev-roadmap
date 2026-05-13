@@ -1,0 +1,136 @@
+type: edu
+files:
+  - name: src/Student.java
+    visible: true
+    placeholders:
+      - offset: 548
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 548
+        initialized_from_dependency: false
+        encrypted_possible_answer: f5g1c10F8jbiybw+F9jZGOdNbYAKKED+1JlHRyBz3iIiGoGffBI/KSjHDNT7gNqfD4r38AiGGn1Y2tXQlM3OiPjfh/KTs9/9AAD1XIj3WyIwF5j4xoDQZ0GvBXsMJqVZ5gRdovtUQcos8I4l3xzvdI9j73bHTMb47nnLzh/gaVD6g3ll3uXsCMi+ylNOt8QKcjG9SugielOenP8R3EFQ4QJqNwtHah3eIwzIUjGnc3I=
+        selected: false
+        status: Unchecked
+      - offset: 589
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 589
+        initialized_from_dependency: false
+        encrypted_possible_answer: 8Xy53KdN+A0vuEStx+S60Z2zBrTVu3Ccrp3gSq+1J1ZxErzlJBOSjVYze3lVJmuL4FPFz99tb9mKBC51Lqu0Dt3h4t+8K3d7NjxBxUvwZLrTiOM1bhj7POYyZX+/ddM/OlKdzkcHJZ160dX1FlaXxcnw1tM2gnRVSguBKRofBsAIVeVYrI4ld/Ij/q+YyqH3Ka4OcrUwjf9CGXI77Iq7h0aP6+j807hGm9uyKIKJm9waBU0kzD/B+npZ37lwOITDCmD5GojHw4SD56eidPLbQ3OIGhOuCOOPNOxul1TCKLX/YY8igQ9k8HoMbasBq2OGSsIePbA132Jagwrdj6Q0xZidve9hDgpYV2gptIa2zEUywuLapzpbWZk17kT4bO8us1ie+z3IWPndc5c1RRWRr0hlwsbJS2ksziY+mFlrblc=
+        selected: false
+        status: Unchecked
+      - offset: 1108
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1108
+        initialized_from_dependency: false
+        encrypted_possible_answer: UmqeXCv7wRIU/lW6XCNeTA==
+        selected: false
+        status: Unchecked
+      - offset: 1156
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1156
+        initialized_from_dependency: false
+        encrypted_possible_answer: 2K9t6ITPD1LL+tKUdPTKfrT/RndrjrcyXzcY8khBVJquTxHV9j8mCGB00Tp1qa2KLEav89W8dWtrTphePQ3pEJssNAY+MntUDG3CNywq4gzJsylhYgaejwGLUq+IBFQdhsQJpv9Mx+uOilNIMflzL7Svq7rE4oUjhDjyk1i4UvuC1edIer/fm3ctueA5aED9G+VRX1FYWigMRShDpcmrO8ukg3fRDreUGSIVyYDSZrzZORt64zULjd4hUJhmCRojoqrXbx2r1Pe7KYnyhfIAk8r+cdhO+H4YRpJLWcGf2H1M6sFYdpDf4K4oJfnUL5KD2TjEaPnKMM1FII3KNgM7LWlAfplEWoZectmhmobL0MJ6ZaDbOG/b8Ij6SMEf5PPmhOxSDb9f501J/1Ifzs4Fk0uasOLwBBwJxOI4hb1gNWq1r9NDaAccIjqDzEVfJKJuNufEzJiZbepZhElh9VWIfF7fniP4qsE18KxuMCORNnp7R1qqbElDUPjtWYrrRTQtRd09r2pPVBuqwbCHWF7Ek+j0mtVlSF1sTID1rUNMpgwJ5bO9aFTFsKqZ4u1KmROkdRmdOXaOZOZhd5bWI6L7dTFYJ28u+xD7336YhZvfWhJtc3smdmY0NHc/OvR1YnMHTn661KpyCqmDCwSN4FBvBRNevzqlTZy9tLcPkjTOOVT5trL0YWymaWsPmx0+mLCfHwmG/225POghVqiRO4GsO8CUSGkPEdT/H254JpjZ9eIl6s2VQz+3PekOm6dr4s9NwyQh7QySLWh2iAjEiUG3eQ==
+        selected: false
+        status: Unchecked
+      - offset: 1685
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1685
+        initialized_from_dependency: false
+        encrypted_possible_answer: KyUK1mhNNT4Tvs6V7btXivnk0AKJcm6AH3qKfg0cMhIhbXelJmnFlE/MUmWEj1imZ7yq6uYnE6cgo1yKaToH1fKYvbUWS5AHocPYO3AOJf4P1weK9djt5G6rvl/HmbtbZuMl578Q8OGVVbstKoBMralBR6dox7DqGmtVLsdNymI3UkxWlm6luy7rm8AFt2O8msF82NFZCCIOj2jsTorEHQ==
+        selected: false
+        status: Unchecked
+      - offset: 2030
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 2030
+        initialized_from_dependency: false
+        encrypted_possible_answer: WlftslWhGNqd0EEEUW29nM2RRmh5nA7sLI+nLi1ddJ621OJYx7TCXO8yEjnuc0l1+7/1/hpJ15HIYvlyGY6cfycYmBVu5VJkd2z1sVVhvZGOM08lXOavGlAUKYEEpkiEe2VMARvYNpY2L+z9wW411IPNj+1rkUW2j3CA26Y1SLo=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/StudentClient.java
+    visible: true
+    placeholders:
+      - offset: 426
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 426
+        initialized_from_dependency: false
+        encrypted_possible_answer: SHcsNpHViErSbdMVdRPeK1FrDbjZb04Atb4g9Bg3dfyq5B45t6maGgdQAui/6Tge
+        selected: false
+        status: Unchecked
+      - offset: 530
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 530
+        initialized_from_dependency: false
+        encrypted_possible_answer: HHcD9MfKIYtbx8oHTIA2z7xCiZ77t5TFhJ4siJLGy6J9CWefh7p1ibppMb7VSjnQ
+        selected: false
+        status: Unchecked
+      - offset: 634
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 634
+        initialized_from_dependency: false
+        encrypted_possible_answer: T9fdRvvUZSZhKL0okxnMqlmsv/hLonr9NZ2EuaAxVN8=
+        selected: false
+        status: Unchecked
+      - offset: 776
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 776
+        initialized_from_dependency: false
+        encrypted_possible_answer: 2ARx9XNV12XbEkZkmWLeJMcWSIlsca20DAkAAxJBQpBzcqWL8lfUXhMTkOdW318Q
+        selected: false
+        status: Unchecked
+      - offset: 1128
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1128
+        initialized_from_dependency: false
+        encrypted_possible_answer: xurOWGb/OQfQJDqn30ZqpXFYsvxn9XNsxl+BoeBKa9RYKgPtD4sBKtT+homQtIHPjEev2jk2fcWI7NY3jkhMja54AZ1Lc53CQeZDFCJJxIP4JrmVk9kjcgmpRPe3CUHu
+        selected: false
+        status: Unchecked
+      - offset: 1523
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1523
+        initialized_from_dependency: false
+        encrypted_possible_answer: HMqrx7B4EihDWCvsgKWULjGKP0fO/L1QqWP0v1pw0TQ=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/StudentTests.java
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true

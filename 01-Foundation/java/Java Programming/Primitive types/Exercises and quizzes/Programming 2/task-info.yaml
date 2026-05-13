@@ -1,0 +1,22 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 136
+        length: 62
+        placeholder_text: /* Add the code for displaying the decimal part of d (0.75)
+          */
+        initial_state:
+          length: 62
+          offset: 136
+        initialized_from_dependency: false
+        encrypted_possible_answer: RgpghhfNRTlDCNm9xJKylfrpJjwIhxRYSSYfpD4u4vY=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,26 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: On peut placer l'instruction <code>package</code> n'importe où.
+    is_correct: false
+  - text: Le mot-clé <code>import</code> permet d'alléger l'écriture.
+    is_correct: true
+  - text: La classe <code>Car</code> n'a pas besoin d'importer la classe <code>Engine</code>
+      car elles font parties du même paquetage.
+    is_correct: true
+  - text: L'instruction <code>import ch.heiafr.tic.*</code> permet d'importer les sous-paquetages.
+    is_correct: false
+quiz_header: Sélectionnez les affirmations correctes.
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Car.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Engine.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

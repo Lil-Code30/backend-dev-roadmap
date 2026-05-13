@@ -1,0 +1,22 @@
+type: theory
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: identificateurs02.PNG
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: identificateurs01.PNG
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: src/Point.java
+    visible: true
+    learner_created: false
+  - name: src/P.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

@@ -1,0 +1,81 @@
+<html>
+<p><strong>Soccer Statistics </strong></p>
+
+<p>Soccer, a sport popular around the world, can be examined in many different ways. Different skills are required for different
+    players based on their positions. Examining some of the core statistics of these players can help get a better understanding
+    of their ranking among other players of their positions. For a more in depth explanation, please read this article released
+    by <a href="https://bleacherreport.com/articles/1597790-the-most-important-new-advanced-soccer-statistics-and-why-they-matter">Bleacher Report</a>.
+<p></p>
+<strong>Assignment:</strong>
+<br>    You and your group will be assigned one of the positions to code. <strong>Only turn in one file per group. We will put all of them together
+to make our program run collectively. You will be graded on whether your code compiles and runs as expected. You will need to test this on your own in the tester class.</strong>
+
+<p></p>
+1. Create a <strong>getName</strong> method to return the player's name.
+<p></p>
+2.  Fill in the specified methods to calculate statistics for your position. These differ per position.
+<p></p>
+<div class="hint">
+    <strong>Strikers</strong> need <strong>goalPercentage</strong> and <strong>bigChancePercentage</strong> methods.
+    These should return values between 0 and 1.
+</div>
+<div class="hint">
+    <strong>Defenders</strong> and <strong>Midfielders</strong> need <strong>averageInterceptions</strong> and <strong>averageBallRecoveries</strong> methods.
+    These should return values above 0.
+</div>
+<div class="hint">
+    <strong>GoalKeepers</strong> need a <strong>savePercentage</strong> method.
+    These should return values between 0 and 1.
+</div>
+<p></p>
+3. As a group, fill in specific portions of <strong>SoccerStatisticsClient</strong>. Soccer teams consist of a name, total number of games, and games won.
+Then, fill in the section of the <strong>SoccerStatisticsClient</strong> to read and save in the necessary information for your position from the user. This is all commented out
+for now to enable use of the <strong>Check</strong> button, but we will use it later and will need all the information completed.
+<p></p>
+<div class="hint">
+    All positions will need to read in <strong>names</strong> and the <strong>numbers of games</strong> the players have played from the user. This will be used
+    to set the size of the arrays for all the positions. There is only one goalie, so there will not be an array for GoalKeeper.
+    Every other position will need an array to hold several players of the same position.
+</div>
+<div class="hint">
+    For the <strong>Striker</strong> class, you will also need to read in each Striker's name and number of games played.
+    This will be used to initialize the Striker statistic arrays. You will need to read in the values of each array in one by one. For the
+    <strong>bigChanceAttempt</strong> array, you will need to read in integers that represent how many big chance attempts the striker made in each game.
+    Each element of that array represents the number of big chance attempts the striker made in one game. For the
+    <strong>bigChanceMade</strong> array, you will need to read in integers that represent how many big chances the striker completed in each game.
+    Each element of that array represents the number of big chances the striker completed in one game. For the
+    <strong>goalsAttempted</strong> array, you will need to read in integers that represent how many goals the striker attempted in each game.
+    Each element of that array represents the number of goals the striker attempted in one game. For the
+    <strong>goalsMade</strong> array, you will need to read in integers that represent how many goals the striker made in each game.
+    Each element of that array represents the number of goals the striker made in one game. Then, initialize each element of the strikersInput array to a new
+    Striker with all the information you have just read in.
+</div>
+<div class="hint">
+    For the <strong>GoalKeeper</strong> class, you will need to read in the GoalKeeper's name and number of games played.
+    This will be used to initialize the GoalKeeper statistic arrays. You will also need to read the values of each array in one by one. For the
+    <strong>goalsAgainst</strong> array, you will need to read in integers that represent how many goals were made against the goalkeeper in each game
+    (how many times someone scored against them). Each element of that array represents the number of goals the goalkeeper let through in one game. For the
+    <strong>saves</strong> array, you will need to read in integers that represent how many saves the goalkeeper made in each game.
+    Each element of that array represents the number of saves the goalkeeper made in one game. Then, initialize the goalieInput to a new
+    Goalie with all the information you have just read in.
+</div>
+<div class="hint">
+    For the <strong>Midfielder</strong> class, you will also need to read in each Midfielder's name and number of games played.
+    This will be used to initialize the Midfielder statistic arrays. You will also need to read the values of each array in one by one. For the
+    <strong>interceptions</strong> array, you will need to read in integers that represent how many interceptions the midfielder made in each game.
+    Each element of that array represents the number of interceptions the midfielder made in one game. For the
+    <strong>ballRecoveries</strong> array, you will need to read in integers that represent how many ball recoveries the midfielder made in each game.
+    Each element of that array represents the number of ball recoveries the midfielder completed in one game. Then, initialize each element of the midfielderInput array to a new
+    Midfielder with all the information you have just read in.
+</div>
+<div class="hint">
+    For the <strong>Defender</strong> class, you will also need to read in each Defender's name and number of games played.
+    This will be used to initialize the Defender statistic arrays.You will also need to read the values of each array in one by one. For the
+    <strong>interceptions</strong> array, you will need to read in integers that represent how many interceptions the defender made in each game.
+    Each element of that array represents the number of interceptions the defender made in one game. For the
+    <strong>ballRecoveries</strong> array, you will need to read in integers that represent how many ball recoveries the defender made in each game.
+    Each element of that array represents the number of ball recoveries the defender completed in one game. Then, initialize each element of the defendersInput array to a new
+    Defender with all the information you have just read in.
+</div>
+5. Fill in the comments at the top of each class with your name and pertinent information.
+</html>

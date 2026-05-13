@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: L'expression d'initialisation est obligatoire.
+    is_correct: false
+  - text: "Le type de l'attribut peut être soit un tableau, un type primitif ou le nom\
+    \ d'une classe."
+    is_correct: true
+  - text: "Dans la classe <code>Point</code>, <code>px</code> et <code>py</code> sont\
+    \ initialisés par défaut à 1.0."
+    is_correct: false
+  - text: Les attributs sont toujours déclarés avec public comme modificateur.
+    is_correct: false
+quiz_header: Sélectionnez l'affirmation correcte.
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: src/Point.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

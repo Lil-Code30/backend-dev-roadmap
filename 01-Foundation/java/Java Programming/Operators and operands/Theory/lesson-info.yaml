@@ -1,0 +1,12 @@
+content:
+  - Introduction
+  - Additive operators
+  - Multiplicative operators
+  - Arithmetic with float and int
+  - Bitwise operators
+  - Logical operators
+  - Relational operators
+  - Assignment operator
+  - Ternary operator
+  - Other operators
+  - Precedence

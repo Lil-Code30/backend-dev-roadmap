@@ -1,0 +1,37 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: "<code>(x, y, z) -> Math.pow(x, y)</code>"
+    is_correct: false
+  - text: "<code>(x, y) -> Math.pow(x, y)</code>"
+    is_correct: true
+  - text: "<code>(x) -> Math.pow(x, x)</code>"
+    is_correct: false
+  - text: "<code>() -> Math.pow(x, y)</code>"
+    is_correct: false
+quiz_header: "La référence de méthode <code>BiFunction&#60;Double, Double, Double>\
+  \ methodReference = Math::pow;</code> est équivalente à..."
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: method_references_2.PNG
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: method_references_1.PNG
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: src/ch/heifr/tic/MyRandom.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heifr/tic/MyPrint.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heifr/tic/MyConcatenate.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

@@ -1,0 +1,24 @@
+type: edu
+files:
+  - name: src/Table.java
+    visible: true
+    learner_created: false
+  - name: test/RestaurantTests.java
+    visible: false
+    learner_created: false
+  - name: src/Restaurant.java
+    visible: true
+    placeholders:
+      - offset: 925
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 925
+        initialized_from_dependency: false
+        encrypted_possible_answer: cFGZ0jhybn7CuDqprTfhjuo/mvKeF8gBk4qclf6OWJXlvm5SbAJV/vZdafoveRWDWU+FPWp2aevz+DcU9fWpS0QFzz1+0MeiJJ9ZBlKDZQ8KYIN8feFeDXKob4C/1YtLSbjVdGeocNZ4sA6YZUJa+l4Ofyy/QaLLu1HLiKOZegd2naLKS9jj37SIw1Wt8Guc3znTJh0w3BMW+l2kGPYEvCSw3HuAEypDEknD2pUD5khfscz7I8jhsMhCGlTI0J0ZDZixTJzVg9x7fDUEOP5bgO6xYYeRuhyRG8hC3X6lg9QjvFHp/oDciPfWcuQs7a3ib5Kgtag+pfswiJVUTOb8YIc1IulQOMCU3POxJvuOwKEhqF5+yTLluPgs3KrfYxnQ/IDHeyahLHzuihEfmME6rx/9eNyp7EjlrcSxfhYA5t40GFyJPfJJA+TZeYvTOaVBJklIEl3ylIOkidzDdPE24nw8DwrUtVSf0eUXBHiQmpCh10UKlMCwoqeZYIpyH2XCznddkeq+fTeHLyK7DPxGF3fqdaM4by2gCsD8AT+4SgpWOeDfb1z0CeyClh4fSM5lXpnmdqmh0c53mqmHuBhgmg==
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1

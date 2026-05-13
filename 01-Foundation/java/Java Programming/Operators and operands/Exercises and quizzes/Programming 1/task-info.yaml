@@ -1,0 +1,39 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 138
+        length: 65
+        placeholder_text: /* Rewrite the rhs of the statement above with all parentheses
+          */
+        initial_state:
+          length: 65
+          offset: 138
+        initialized_from_dependency: false
+        encrypted_possible_answer: cplfMMTb0wZVSZj+4ybHn9NHO3f/j5fsAbEcaG9nfmE=
+        selected: false
+        status: Unchecked
+      - offset: 232
+        length: 72
+        placeholder_text: /* Complete with the value of y as evaluated from the statement
+          above */
+        initial_state:
+          length: 72
+          offset: 232
+        initialized_from_dependency: false
+        encrypted_possible_answer: B/7vsHW2R1GRTvPqyBLR1Q==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+  - name: test/latest_output.txt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

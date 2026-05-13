@@ -1,0 +1,35 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: L'instruction <code>package</code> est obligatoire.
+    is_correct: false
+  - text: L'instruction <code>class<code> est obligatoire.
+    is_correct: true
+  - text: L'instruction <code>import</code> est obligatoire.
+    is_correct: false
+  - text: Le nom de package peut être différent de la hiérarchie des répertoires.
+    is_correct: false
+quiz_header: Sélectionnez l'affirmation correcte.
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: hierarchy.PNG
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/tools/Complex.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/tools/Graph.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/test/TestPoint.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Point.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

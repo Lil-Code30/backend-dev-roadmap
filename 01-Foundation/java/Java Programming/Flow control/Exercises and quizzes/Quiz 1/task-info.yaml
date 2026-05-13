@@ -1,0 +1,17 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Ajouter une condition à l'intérieur de la boucle.
+    is_correct: true
+  - text: Modifier la partie condition de sortie de la boucle.
+    is_correct: false
+  - text: Modifier les parties initialisation et conclusion de la boucle.
+    is_correct: true
+quiz_header: Sélectionnez deux options de la liste
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

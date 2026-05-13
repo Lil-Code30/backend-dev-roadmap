@@ -1,0 +1,22 @@
+type: edu
+files:
+  - name: src/Pair.java
+    visible: true
+    placeholders:
+      - offset: 28
+        length: 70
+        placeholder_text: /* Implement the class so that main() compiles and runs as expected
+          */
+        initial_state:
+          length: 70
+          offset: 28
+        initialized_from_dependency: false
+        encrypted_possible_answer: rG1QvPTdYlAUsFJ5JjWOqjoKwJU+pEuvZr8olozecxDjB8Rudu/LFU9VxWSKupicC8nQOAwtD3uLCdNmvr+KC74CUqWmINNiTaEyu1dmAAk4Wqg1wWXDH69Z2B3+XfwYLFHoMJrrdaCZ5/2fkBFtZtoxeWGXslHgKy++wlWnBwssiaehPO4r7OU5kwwLeX57BPYyk+tEL91+dSwgK42MtxP3n8dsSrPPRGyRjep4GBAx/Qdypk+V4305dOtE2mTJP8hBnegVK34vYBoR2cZQw2uid3yX29OVriU642kDXs/9jCCW3o0cfsb72a9USLCo9Rc4QfPagJihvyONioAHczAQYfrO5ulBCneuKPyWo4Ep2EMN9qJ6V93Yh/NyXMUdWWHtkCn1AKtxVoaI7SQ47NzsvVKR/CcfVcafa04i9W4Ey0rboxATiPHK6vy9hqxpRPQTiKG2uLFn+jlX0/kw+jK3Lf9wZ+ittZwqtv6/N4U8RPJyulPohuMwt4tJoQ7gbDlJBgG0QXYkT0oy/uqExNHYKFHhuhFMOeWtVeXIDd4fuhq8WBw+3xSmapqnxVKbB8JcvrTtKlztTjQkHmP8hTIJJfX5wYc0McjqY2c2j35+ofYDqpnDqV5TM1b0fMtImB5gADdfGnj/dBTqBT55gWxnT8oEc9iGZCqyL2u9xEnxJ1taZFH49aO+TGYtnhvK/ZUyoaIaIE5efgMlD8SBMjuREKMumkNYctgCanR/v+Zh0EH2vRurGybcdZHmVJMV5VBLTzusPXpg/mh9VmdAdxM1TcETDN9soBhT72R7kOoscb7RFunW9onVG3uC0b4YN3+Kpz7DNILorADqpVPA64f+BGWap+lBXmE4uHlcnmkwG/o0RxSqC4P0jjqGgGg3
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,38 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Un magicien est une personne.
+    is_correct: true
+  - text: Un moldu est une personne.
+    is_correct: true
+  - text: Une personne est un magicien
+    is_correct: false
+  - text: Un moldu a un nom et un prénom.
+    is_correct: true
+  - text: "Un magicien a un nom, un prénom et une maison."
+    is_correct: true
+quiz_header: Sélectionnez les affirmations correctes d'après l'exemple fourni.
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: generalisation.PNG
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Person.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Wizard.java
+    visible: true
+    learner_created: false
+  - name: src/ch/heiafr/tic/Muggle.java
+    visible: true
+    learner_created: false
+  - name: poudlard.PNG
+    visible: true
+    is_binary: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

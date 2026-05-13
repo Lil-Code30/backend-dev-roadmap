@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Les méthodes sont toujours déclarées avec <code>static</code>.
+    is_correct: false
+  - text: La méthode <code>distanceOrigin()</code> de la classe <code>Point</code> utilise
+      le mot-clé this.
+    is_correct: false
+  - text: La classe <code>Point</code> possède deux méthodes et un constructeur.
+    is_correct: false
+  - text: La méthode <code>distanceOrigin()</code> aurait le droit d'appeler la méthode
+      toString().
+    is_correct: true
+quiz_header: Sélectionnez l'affirmation correcte.
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: src/Point.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

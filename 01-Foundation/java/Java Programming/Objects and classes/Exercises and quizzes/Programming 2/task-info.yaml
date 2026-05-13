@@ -1,0 +1,50 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+  - name: src/Book.java
+    visible: true
+    learner_created: false
+  - name: src/Library.java
+    visible: true
+    placeholders:
+      - offset: 104
+        length: 33
+        placeholder_text: /* Write the method hasBooks() */
+        initial_state:
+          length: 33
+          offset: 104
+        initialized_from_dependency: false
+        encrypted_possible_answer: vIBEiCPGcCCEVtXg2asBWgD+vGM1rkSO84CQ/23/QjuwkxVyoOT5PD5df+vRyu0YU56/Y2ES8gh39Ozmc4As0LeghNFP/99xNNU102g9QmA=
+        selected: false
+        status: Unchecked
+      - offset: 142
+        length: 34
+        placeholder_text: /* Write method numberOfBooks() */
+        initial_state:
+          length: 34
+          offset: 142
+        initialized_from_dependency: false
+        encrypted_possible_answer: 3/Dok8SOrUMcYk/4ke4BdgcHiiMEJBMPhlAgSrCUjenVnEohIxXqQWllT9cPDgT9D7gDHkjqV/qb9ogx8eYjxg==
+        selected: false
+        status: Unchecked
+      - offset: 178
+        length: 58
+        placeholder_text: "/* Write the method addBook(String name, String author) */"
+        initial_state:
+          length: 58
+          offset: 178
+        initialized_from_dependency: false
+        encrypted_possible_answer: HWP/qb/NKjyDai2qzpmOWaZrVLAd6dLwnD6Juhkm6icAT5WIdFEcxfx5nV9ptgOWYl9jpHxORlIK7ybVssjXmESkEtMXGSa9wHinJ92rP/O0AHG89EQmSB6OmOAQ8OjAXFfGh3xs7UFL02nFne2qH1oXHBk1qhXXb0WfCDAITfRh+1LzoH0WMg4LnH9g+KSIzsMXPbQHwnPpopK8TJF/vg5yoWcfK+AaL9/e2rMhFRL1Z+9/g1sUegqKShibPA567Czu3YRaJSrxfrlTi+c28D0hyCfiNUjL/hckH0bQBzRHqN5SDO/eGcHRtDHQEPlp8RkCokFFAvuIixIcfzEk2w==
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1

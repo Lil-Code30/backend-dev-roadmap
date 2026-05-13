@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 24
+        length: 48
+        placeholder_text: /* Implement the method based on instructions */
+        initial_state:
+          length: 48
+          offset: 24
+        initialized_from_dependency: false
+        encrypted_possible_answer: 7ZkOH92nrc9LgO6nY0Zap9i5zuV7nyXOMzbrdDq3WaTcLw1/l059YA3X+y4GyDAuDcHddYG9feRxSYkF7kgdB7yHvLJfRmCV9fEw/6F8dXhMRUOTVTwQXCDzCFFnn0qhKq4qbHzeSZ7itT4ZAUfacwHaOjVj5JS0p2REEkk1jDQ=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

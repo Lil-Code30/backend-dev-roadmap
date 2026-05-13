@@ -1,0 +1,22 @@
+type: edu
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 74
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 74
+        initialized_from_dependency: false
+        encrypted_possible_answer: 7ZkOH92nrc9LgO6nY0Zap4u/+YXcaq/YRPB5ndvA3dPgZWmnllGYuNhGinADpLYKUFn9iN0FcZIizL9k/yx5T9QWiqPMrJqSm8NyiHd2RtFBJIjGXBzUyljU4VfUCILUkiUP6f90Qq1TrY40mDTXbGOCGtVh2p07VBc1OoKDdAVPxZaNtKbtzasEizhAQSv6jm+UUPUdYOJtX0B/FWOXMDapaJVwBf6IhoObDldLyW9cZFSJIlchlEmOegfeCNCVvwfKpzuB6tNVZFZwlc70ytjmW4Exi8OrSKB4PxcPnIrNoLrmw6mnfQsl1ZhJlDCYbSnNL1RW8PDbsxGXwZ8xjqPTGtv+yV6+6AStKiRIQKezjXEjqy5RtxU6WBB8LDEsZZzoQIlx1YtqLKRbo4ezDELYUd4TI7jAlbZXTnkFxa6X3WvykJWsKkRrnLI1q4g2Y6Bx/kmO/4PlTzgSgzD8K1/P+74akeVOq9NY5G4cAbqrnE7PCxvJg/6IvLD209kuUetC2ldMJZHukSa5J3PMgQ2bZQ5dLx6EIXBXz/vct+0cAEHyvniC38UEiE+cVyYx+vZZSVYjYZrBphEb5oay0vwrgUviSvKwBmMJvirobVN9+p25eo4om1EH5d1S2RQszQMLWPo1ylZDxTJh3/2/2bzUIlIHSTu2vaAuCSfEFnThydxbek4FNPYvoH4s3m2bybLZ4ZiYrcCJp7JB09PxBMcuzAyTsI+cSmUrwPNW0nUKxGGZvdQc03cklmYCcSjpurKC6ddFUVvCQ5i/vBGjn65/dXa21YNw4AA14BvhgG759k7UPukenLBg+D9LL778tCGRPvwDuwwcQ/ugUeQ50gZaSMLNN1+TaNtNkHV6AEoHrccQ1BWFN2zfXHf+iEOtIeURv9FIbVAMFFYtPlFCy3XNwmYhVIJC+DauRiPB+ANQC/39bl+auWxRvktDhAWEmJu9nPcoCBXpX83pOzYuVMBqFLLHVb1RlGlIFZiAWkRRVon9Ix5hYJKZY7iTEgcydRBIhCZ14lHqRl1kFa3K1LZbWeAp+xKNI1ai2/1xn6r1N4zr32+xctiLltEHUzdOHOKI0M09RKXsdcySW/YfWAJmoBkvGvjVmNygA3tc5D8=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true

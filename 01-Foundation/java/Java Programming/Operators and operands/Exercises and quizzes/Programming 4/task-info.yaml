@@ -1,0 +1,50 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 101
+        length: 77
+        placeholder_text: /* Replace with the expression for computing the first decimal
+          number of X */
+        initial_state:
+          length: 77
+          offset: 101
+        initialized_from_dependency: false
+        encrypted_possible_answer: 2Ss91j+MpUN7ZNvLTL0S75q5lDFZEoJJsi/7gPKz++k=
+        selected: false
+        status: Unchecked
+      - offset: 235
+        length: 77
+        placeholder_text: /* Replace with the expression for computing the first decimal
+          number of X */
+        initial_state:
+          length: 77
+          offset: 235
+        initialized_from_dependency: false
+        encrypted_possible_answer: 2Ss91j+MpUN7ZNvLTL0S75q5lDFZEoJJsi/7gPKz++k=
+        selected: false
+        status: Unchecked
+      - offset: 370
+        length: 77
+        placeholder_text: /* Replace with the expression for computing the first decimal
+          number of X */
+        initial_state:
+          length: 77
+          offset: 370
+        initialized_from_dependency: false
+        encrypted_possible_answer: 2Ss91j+MpUN7ZNvLTL0S75q5lDFZEoJJsi/7gPKz++k=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+  - name: test/latest_output.txt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

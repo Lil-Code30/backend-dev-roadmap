@@ -1,0 +1,66 @@
+type: edu
+files:
+  - name: src/Compact.java
+    visible: true
+    placeholders:
+      - offset: 421
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 421
+        initialized_from_dependency: false
+        encrypted_possible_answer: 9mbgusIvISKafBqAuBLUyR3vK6Asju1HGR6NGJcKIWD1p7Wc5Im8qocx4vI4t1JcWD8u7JHHHVcHGkFa/VaevjAvxjvua640hg9h7r8t4N2JV9LAtVhmq9V2fkB4x/yjuOY5I1+i35feQVOHJesZmuEh3vvqjU3ByCiqFhT0zHVBTtcb9IoMiOnDXzyXamAewHPlVVYg95RPPwvfgSJZAlfu0CoXhTxtQv4SnKUDCEJ8lya3WVDlganvtKMc8X/H7OjWrZeZpkk2knrgENmaMbJVfcd8ItUvhY9CsQk7XaIi2sVdDX2uz6oEt7BDY93ha9SBKuGTnHXDhgHQ+uB8AC2Afd8S6gkcZfGjbOnpv4THGdMAmZeHhTKbUvXRqMzzCrw5kE4r2EJg9Dpu9q7QxUVnJrv6Hm+sRrP5MhlKI2uDbg3uub8P0Xv11RL7Haqh81VBDJ8KrxChn2ZPvwJbYSB2bexxQUg7p04yms20gtMWAduXhUFdE+zG9T/Pca6NxELGExyUEoQvb1o7VPK5I1DMkQyNKC0Kj1HOqhXd8x4=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/CompactClient.java
+    visible: true
+    placeholders:
+      - offset: 229
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 229
+        initialized_from_dependency: false
+        encrypted_possible_answer: WBOJHw5EbrxP6vla/OYWazQ1SuXs8ToE2icGLv9td0esK7aEf0N72B1wJwde3nUaxHEwrZM0bT6pOMylrEpQuQ==
+        selected: false
+        status: Unchecked
+      - offset: 319
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 319
+        initialized_from_dependency: false
+        encrypted_possible_answer: TeOGVPnUNed82m3IFuDbvxa1/XWOSW8cne+lXlk3R1diDOnVgkJaiZLE0kx15FfW
+        selected: false
+        status: Unchecked
+      - offset: 417
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 417
+        initialized_from_dependency: false
+        encrypted_possible_answer: PF2g2Uz2QtogDl/DzzYqMYn2BqU+lRfqI42qjENofnvMt1OXCa8AzffTGjVQPancCU3uS3POh0Xfxg5JS4sVKwtzVDmLpExQnmf/Bly+7/12rT+2040eya3Bc9gpSZrH
+        selected: false
+        status: Unchecked
+      - offset: 535
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 535
+        initialized_from_dependency: false
+        encrypted_possible_answer: PF2g2Uz2QtogDl/DzzYqMcn6caLisc7jLjjGnyIB2f4ezFj/psGSQblkiVbZ3Hi4Zl+hk07aOV2SSdRQ0rPxx2krmzqdAklwUMtfhMxluyA8GkewEvulwaYfHeaoC3ir
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/CompactTest.java
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true

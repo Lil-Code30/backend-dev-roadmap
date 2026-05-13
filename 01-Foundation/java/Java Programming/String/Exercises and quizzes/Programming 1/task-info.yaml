@@ -1,0 +1,24 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 69
+        length: 36
+        placeholder_text: /* Complete the palindrome method */
+        initial_state:
+          length: 36
+          offset: 69
+        initialized_from_dependency: false
+        encrypted_possible_answer: /ZN5HiGjR3L/C4XIUZGyw3lPuyXZTXSDGyalvI7m4ySan8SWlYFEHlEggCeeJ5VxN/QAkvya6XecBxkm5+2kQyg1VsQU+YiZ4i1AbN6n/dFncNi5B22Wbwq2EO+73+cb9iqVTm5h3WN0LqrTdbrQ2B3DjhQwCJ1G1tdVZi2wQICrQ0vjLNN+zFVZ7yu6g4oYoTfCZfMOv4MoMTERvG8+SKwj12vsZ7tfKZxgoIhzClSg34CG1TkSo85m7DFhduRJCRdC45aSJY1v+NHUpzL3wg==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

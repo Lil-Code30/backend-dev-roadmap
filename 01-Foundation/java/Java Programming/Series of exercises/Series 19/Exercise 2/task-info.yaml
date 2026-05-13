@@ -1,0 +1,145 @@
+type: edu
+files:
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+  - name: src/ICircle.java
+    visible: true
+    learner_created: false
+  - name: src/Point.java
+    visible: true
+    learner_created: false
+  - name: src/CirclesDemo.java
+    visible: true
+    learner_created: false
+  - name: src/CircleA.java
+    visible: true
+    placeholders:
+      - offset: 92
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 92
+        initialized_from_dependency: false
+        encrypted_possible_answer: OIpm9W6N4JBivpKKFgBxdQ8N1xXs/3jHpK3coIpGqGQ=
+        selected: false
+        status: Unchecked
+      - offset: 201
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 201
+        initialized_from_dependency: false
+        encrypted_possible_answer: 9wk8xdXbbPM8WL12NFrTNMAWSvKEdf5cjarqYfr0vAFvGFi/OM+Qjarjl8TGhSfKASaXY7lzjQdErklazDH/0Q08PvaesJcAK/AGySb3jYM=
+        selected: false
+        status: Unchecked
+      - offset: 331
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 331
+        initialized_from_dependency: false
+        encrypted_possible_answer: tiF3nGPJ/cqwFgaTuS6iAkpWDYfcB+60VfQIip6HfCdq8nbXk53XHqsIRVmx0K1vPVHr8KjV2YH7ZnDzwf95/Q==
+        selected: false
+        status: Unchecked
+      - offset: 451
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 451
+        initialized_from_dependency: false
+        encrypted_possible_answer: tiF3nGPJ/cqwFgaTuS6iAkpWDYfcB+60VfQIip6HfCdq8nbXk53XHqsIRVmx0K1vPVHr8KjV2YH7ZnDzwf95/Q==
+        selected: false
+        status: Unchecked
+      - offset: 558
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 558
+        initialized_from_dependency: false
+        encrypted_possible_answer: tiF3nGPJ/cqwFgaTuS6iAkpWDYfcB+60VfQIip6HfCdq8nbXk53XHqsIRVmx0K1vPVHr8KjV2YH7ZnDzwf95/Q==
+        selected: false
+        status: Unchecked
+      - offset: 668
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 668
+        initialized_from_dependency: false
+        encrypted_possible_answer: tiF3nGPJ/cqwFgaTuS6iAkpWDYfcB+60VfQIip6HfCdq8nbXk53XHqsIRVmx0K1vPVHr8KjV2YH7ZnDzwf95/Q==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/CircleB.java
+    visible: true
+    placeholders:
+      - offset: 78
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 78
+        initialized_from_dependency: false
+        encrypted_possible_answer: OIpm9W6N4JBivpKKFgBxdQ8N1xXs/3jHpK3coIpGqGQ=
+        selected: false
+        status: Unchecked
+      - offset: 188
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 188
+        initialized_from_dependency: false
+        encrypted_possible_answer: tiF3nGPJ/cqwFgaTuS6iAkpWDYfcB+60VfQIip6HfCdq8nbXk53XHqsIRVmx0K1vPVHr8KjV2YH7ZnDzwf95/Q==
+        selected: false
+        status: Unchecked
+      - offset: 318
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 318
+        initialized_from_dependency: false
+        encrypted_possible_answer: tiF3nGPJ/cqwFgaTuS6iAkpWDYfcB+60VfQIip6HfCdq8nbXk53XHqsIRVmx0K1vPVHr8KjV2YH7ZnDzwf95/Q==
+        selected: false
+        status: Unchecked
+      - offset: 438
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 438
+        initialized_from_dependency: false
+        encrypted_possible_answer: tiF3nGPJ/cqwFgaTuS6iAkpWDYfcB+60VfQIip6HfCdq8nbXk53XHqsIRVmx0K1vPVHr8KjV2YH7ZnDzwf95/Q==
+        selected: false
+        status: Unchecked
+      - offset: 545
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 545
+        initialized_from_dependency: false
+        encrypted_possible_answer: tiF3nGPJ/cqwFgaTuS6iAkpWDYfcB+60VfQIip6HfCdq8nbXk53XHqsIRVmx0K1vPVHr8KjV2YH7ZnDzwf95/Q==
+        selected: false
+        status: Unchecked
+      - offset: 655
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 655
+        initialized_from_dependency: false
+        encrypted_possible_answer: tiF3nGPJ/cqwFgaTuS6iAkpWDYfcB+60VfQIip6HfCdq8nbXk53XHqsIRVmx0K1vPVHr8KjV2YH7ZnDzwf95/Q==
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true

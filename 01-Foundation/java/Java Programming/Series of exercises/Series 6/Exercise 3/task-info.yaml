@@ -1,0 +1,32 @@
+type: edu
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 82
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 82
+        initialized_from_dependency: false
+        encrypted_possible_answer: 8T148VNz5yQBV7ZqbYzrMyqLqLv1003Xz6JE+dyEo7EGULiHUD6anGqky2TvDGme/oAxN9Yiyl5hM1bTocjuw9Pe7dY6J+HRAh6hXKg0YYcA6pzoEbUiPVyQdvtCBIzjXDILLh0bkjeIGFihEMRgzw0gzbIA2zA1xg8zMVR8WGs=
+        selected: false
+        status: Unchecked
+      - offset: 195
+        length: 49
+        placeholder_text: /* Implement the program based on instructions */
+        initial_state:
+          length: 49
+          offset: 195
+        initialized_from_dependency: false
+        encrypted_possible_answer: 8T148VNz5yQBV7ZqbYzrMyqLqLv1003Xz6JE+dyEo7Gs0Gi9uItYs6Z34uAD2MUif85PDNmsxBseRCB0trwKskqLNCrrZIOGmlhWZgaVK1kAYjgac9KOTCLRp3sDgLDYXKb34s1pmJL3CO42jDDWhkW1sQYYh9UmcE3lKwm4Q2/RV9f2SuIUY2VPHSj/SEAt
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true
