@@ -1,0 +1,37 @@
+type: marketplace
+title: Java practice tasks for beginners
+language: English
+summary: "This course provides hands-on Java practice tasks to reinforce key programming\
+  \ concepts for beginners. Practice topics include printing and concatenation, variables,\
+  \ operators, flow control, string manipulation, data structures, basic class and\
+  \ objects."
+programming_language: Java
+content:
+  - courseSection
+additional_files:
+  - name: common/src/main/java/com/cydeo/java/CourseUtils.java
+  - name: common/src/main/resources/images/url.png
+    is_binary: true
+  - name: common/src/main/resources/images/clone.png
+    is_binary: true
+  - name: common/src/main/resources/images/plugin.png
+    is_binary: true
+  - name: common/src/main/resources/images/update.png
+    is_binary: true
+  - name: common/src/main/resources/images/enter_url.png
+    is_binary: true
+  - name: common/src/main/resources/images/solve_task.png
+    is_binary: true
+  - name: common/src/main/resources/images/course_selection.png
+    is_binary: true
+  - name: common/build.gradle.kts
+  - name: README.md
+  - name: build.gradle.kts
+  - name: gradle.properties
+  - name: settings.gradle.kts
+  - name: Cydeo_Java_practice_tasks.zip
+    is_binary: true
+  - name: gradle/wrapper/gradle-wrapper.properties
+mode: Study
+feedback_link: https://plugins.jetbrains.com/plugin/26571-java-practice-tasks-for-beginners/reviews
+yaml_version: 5

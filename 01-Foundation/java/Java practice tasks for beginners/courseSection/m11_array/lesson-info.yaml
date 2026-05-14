@@ -1,0 +1,11 @@
+content:
+  - AverageTemperature
+  - Has55
+  - CountEvens
+  - FindMax
+  - ReverseArray
+  - AddToArray
+  - MergeArray
+  - BiggestWord
+  - ReversedSentence
+  - ShortestWords

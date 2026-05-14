@@ -1,0 +1,66 @@
+type: edu
+files:
+  - name: src/Task.java
+    visible: true
+    placeholders:
+      - offset: 284
+        length: 44
+        placeholder_text: //Add cost to totalPrice based on screenSize
+        initial_state:
+          length: 44
+          offset: 284
+        initialized_from_dependency: false
+        encrypted_possible_answer: 27JFPxMe7klvDE+9w3hUvVZX0n2Brvy7KrR5b3R+2OCpTD1LMJrtQuZ6IHea5g4fspiiu1a5QtJu4dr+svtqOq06WQm2u4kAitaxU41115zLAbeCo2EOMw1l+K/rf9SGevxg99msx+/LxV8M88hARXDFQG0MuJmg8SHi6m2wjyXVERac17FDBidnLjKcTtKeLkH7WzmkbBzqfA9VQ7/FbPJocK7uUqtF/p3tiVNzbWWgsiYMoRocUEILnBXjam6joeCk/iIdcL8cd6/QotJiSw==
+        selected: false
+        status: Unchecked
+        is_visible: false
+      - offset: 421
+        length: 37
+        placeholder_text: //Add cost to totalPrice based on cpu
+        initial_state:
+          length: 37
+          offset: 421
+        initialized_from_dependency: false
+        encrypted_possible_answer: CBamO+6ymdVxs1IJLBchrxIj301uPK+uPN2TAy40fyikWOJkfFDGWugWJSMyK05yt+vzwQox0hkF94LPrTC8VWHz20ELh16+9q8GQ+zmQt5AmEFeUcYBmOQISjGw8Ckyu8ica9l2OLbOF23cSWRX3IgWYWRTR0XkXD2qhGSmPKE72N517mwnnLdpZrpp8q+aN4jYIm2BFzwxiwILBcqznGG/04k5xgmS0yrDNoh+xxx7TtrVJK7XS8S0W1u2A5MyIV+X4ojj1T7kiy4XdhHPDlQA5R9CXN4jbF75Lc6hHuOsZZwupDliCr6RvlvNPYJ1zqed1R6yrp+NWwVJx1SpV4j8wYHE989/UuIJDxXlvtY=
+        selected: false
+        status: Unchecked
+        is_visible: false
+      - offset: 551
+        length: 37
+        placeholder_text: //Add cost to totalPrice based on ram
+        initial_state:
+          length: 37
+          offset: 551
+        initialized_from_dependency: false
+        encrypted_possible_answer: CDkWe8eZ3KOoTSjnL0yDNk1ixmazKmqzg57XlgtL5Cc=
+        selected: false
+        status: Unchecked
+        is_visible: false
+      - offset: 792
+        length: 63
+        placeholder_text: //Add cost to totalPrice based on storageType and storageAmount
+        initial_state:
+          length: 63
+          offset: 792
+        initialized_from_dependency: false
+        encrypted_possible_answer: DtUoFGod4Ouq1HVgfvVwhgDmMCuY1t/4d3qmOExUTlyOi8ViLmOA0LESmW3BkA11WL4RKyKZJ/uLcrciWhF+5SCJxBp8LCRf/8eN4f9kFZuTMdehOFQwrKQVieC5dnpBDCLyu6C/YHvgWX4hsxS3uKUvtO1svAlof9eDlCfneWunNohKfKElmKk8VKNg5s/BK+akGOpwNlkwow+kAiUcQCse6Dt61PS48ES3ZI2derbvWuTB/Fpad8mdw/5hHxd8YB8JWpyyD1H6LizW6k/7vHyBjMh9dNcXC2+Gqh8xAEc=
+        selected: false
+        status: Unchecked
+        is_visible: false
+      - offset: 965
+        length: 39
+        placeholder_text: //Add to totalPrice based on resolution
+        initial_state:
+          length: 39
+          offset: 965
+        initialized_from_dependency: false
+        encrypted_possible_answer: m+Tqq0e9AlFlsh0riYY1iHL0tiqDrux4RwwJCuhHFGXqMjXKmy2wAh5GUshQnlmkalxDmFjk+IClzLzqVSCg3LK2B9q/Pm43kgUWQfIsgGMw2KqjIAB0h7zMZHm9QOYZXCcH8y/YBjvzRvOayZIqsS2oMDwYeF5NdgDYD0KkBSwNoxe2F+vC2a0MFgm1Qrs4d+jgmHWS8iZLvLDOJfNZTjPNQ7cBYzMpdN5FuIKYaQo=
+        selected: false
+        status: Unchecked
+        is_visible: false
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

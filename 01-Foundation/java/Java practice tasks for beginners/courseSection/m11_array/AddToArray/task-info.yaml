@@ -1,0 +1,22 @@
+type: edu
+files:
+  - name: src/Task.java
+    visible: true
+    placeholders:
+      - offset: 346
+        length: 26
+        placeholder_text: //Write your solution here
+        initial_state:
+          length: 26
+          offset: 346
+        initialized_from_dependency: false
+        encrypted_possible_answer: 7rr5QvFnRw1WYyax2+mk6EafP52cu0XikUUPa8wkAg0w0uRNg7puH/aKtN4U2Nno8z1pydFJQVlH9D2rUKVqkxGYfLlHZkfCgbA2DB5TDGqNcJfRGk1YSZ7HR2OHomtSIZaZNNql80Q4u5t/IvinSU/8+2/k8EoFf55peyX1GVP/8gSAG+00c2sDd5JnM3tZrK6FaJniaddlf8rhcdVFBDWqdDCeOGLH2Pv9Cl6z87+lCbiA5b9EDAkz1rEmZMr0EAyvlwH4rcypeYeFkHnal2EVYmhaBBuIaVcs0ENfm3oii7j62HkEo6HnzsG7OoVzHZFtwTz0GQMmy2/I5UAsTdOy1v6dxBY/X+qTEEKOSbI5e9dnChFqAsOId2KX8qrxLVuBZx/czSc85HWp+UlZiFy3x67FaXLSrLMEz/XcdHybAQ7Z+m0wjtA7S7y51PhPIPPnMeK2pCtD8nhbz3nG8V7oo9cQ3ToOAxSI7c4zLn0DRv2Apc9otL8nBbICQ/6vUDW/r/4N/rntcSoRXkSFu6aglIFdUrCfXg0cUiX4DkFwQjw/ZG57Vz2qsfvVWpMN
+        selected: false
+        status: Unchecked
+        is_visible: false
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

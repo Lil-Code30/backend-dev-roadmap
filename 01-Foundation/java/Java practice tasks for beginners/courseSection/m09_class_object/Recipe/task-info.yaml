@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+  - name: src/Recipe.java
+    visible: true
+    placeholders:
+      - offset: 27
+        length: 26
+        placeholder_text: //Write your solution here
+        initial_state:
+          length: 26
+          offset: 27
+        initialized_from_dependency: false
+        encrypted_possible_answer: 1IWyKC8eBEEojU7GwtKt0aBelq8fA187h3NQb4r3onaT4eBIScbVj8tNHJJmZeBfoZwRVpaMgN8VZRhzsoqtWZPAVCPsTAbwtrcUkvUwTlyZuFz7VdwTFmYU9l2ZivGB4fkZEC9+7pp6wCcPfOHZ2PBSrdRaHpMcJ+LRr3idjQaOZh37QNDdX6iON9HU3tonoxd9LjeDhlN1E8EydfCvv4xsgq+sM61W9b+U49QL7MZs2Pc7cWIaXIZeKtY9BR/qisjLzGzKdxzzzjaEe44dsS/S7p9ckhFkzyFw/IJ7zNiiwmdvTA6PgZGuRAO1hB4nAfsmJkf4o62LeWouHxYDHSuFebCtP31UEtRDHlDl+N/AwLxRNrVyyNgpeoCpeVjSoDa2zyAWEpjJyl5Mz3lumLMrV0dgt7hju48z3tpDFM+lXokwCgyQvW9xv9XH00buj4O+FcbUQgxlKpSIJUSgbdsqZDP/hP/yHontfo7tY4o=
+        selected: false
+        status: Unchecked
+        is_visible: false
+    learner_created: false
+status: Unchecked
+record: -1

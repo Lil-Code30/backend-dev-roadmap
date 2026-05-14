@@ -1,0 +1,22 @@
+type: edu
+files:
+  - name: src/Task.java
+    visible: true
+    placeholders:
+      - offset: 439
+        length: 26
+        placeholder_text: //Write your solution here
+        initial_state:
+          length: 26
+          offset: 439
+        initialized_from_dependency: false
+        encrypted_possible_answer: i1HTcXihxPj4VQfQ/0tgCqHt5RF0ar36SHHT2LQYHIk5fUzPOw0YfUhi9l6rERkKAgpwTZq7hQHwV+cJs3alq89Y+6Wl8FfPLlDgBs3jE9zwlarNmqQvGXtL4t/L4gLT8dU+UYNwweQ6hrKxoHEH7gRQk9OpRibIfRzvdfVpVhY1tLjM+zIaQNlj+ujS7eCDsUNu9Ap1MJRqwhghlTLe80AIX9+w5Ir0Zs3x6quXqB1MOG6I15U4uJagcWQvYt2nl8hLZ04z8TT26heAzphY0zNgSnPlEAasTTDJT5Yx9WbJs4N7c3pGbWwBpmhjfvzBAfzVCxFH94BVTwQDZej+jPuB3bbgLoIOUrgxlCyXZaxK9du12Sc8YSo81dU6qEmYV2p9upftsRLv0SAfG7UKirhSg/lTqP4JZnngVDESvHyA6YznEXL5RrT3XTGb/7lRl33MBL83r9uvFqd9FZjLijdSEo+nzQzW2n97Nig0EgOBiMhDKSH1mJIGLAB4w1lYQl21LwZXoRhCyCiHJ0Gc6Oude6D5he+7U5C0tAvkTH5quwRyBlpeGugPgTxvc7oRAH8a3QTh1x00R3YLyHqb0aXoosuiW9BbwIrgo9kIrNHMVmgepIeOtILDcSmSWMdeKTzZTLn6Sx7Vwl/rc75y/j+b9CgWz3k3UexnvZIWbnEbVjTUcqYeoxUeI3prYrqPFqd3iUD94WE2i9SCiiKX0Zzb3mHixkidUI/HQIRrADE/+KQ8nI9xXTwAwl9ET77M/rF4GmiwS1FnnN42kVDMcvHAeMmDfNQYDQifycdfH/CDDykiFl6KanHn8wIvJbmgkLghpd3J4IzB5qIOGIizauml1JN76TSfG4LFtO/kqS1TRK6gJqwI8Kp/F3vbYE2EyvMm80majvFnEcUoFkbIv+bWMVdldldrIO9qwq43f0ffzTk4TJ+TxY+Bwv1UlgowFq82Ru9HVtIBcecBDr0Ekmj3OjqoKsj3HBuGTlkAopknrnnsLjkEld4LvyNfBJxJCSCKIgrKtJnzKVtZ4hP9dosoYUBpASp6PI5V+oxgdb4sdqcF9x34j19J2xm1AdxGFcE4qr6LDaRNmUT4IrPfCNPvtt8OVHxUeE8vz0c7630Kv/XFJXEo2NSLHWnvVBtR/cBDLLPtJhwW0G8dovrnjyo2gDQtvb26aoZTS2kDNKU9acpfI4Ah4PmdUaDt2Pgw9Gu/ToaAV6c1s6EXdyE2GFTX5C7gB/i6aXngC0atsdsfxWkfaAWz9Cqld/nAL0T5reyG2pZois+b4gZvmaxBAz5jiAIvwsn4EgAKcJsglizRGNiA5jt2+CtFvYnb5l8l
+        selected: false
+        status: Unchecked
+        is_visible: false
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

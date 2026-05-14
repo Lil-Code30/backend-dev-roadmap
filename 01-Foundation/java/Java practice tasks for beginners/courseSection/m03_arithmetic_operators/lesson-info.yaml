@@ -1,0 +1,8 @@
+content:
+  - AgeCalculator
+  - BMICalculator
+  - RestaurantBill
+  - CoinMachine
+  - SwapValues
+  - RectangleArea
+  - SumOfDigits

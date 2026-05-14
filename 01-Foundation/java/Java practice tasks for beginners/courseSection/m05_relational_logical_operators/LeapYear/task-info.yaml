@@ -1,0 +1,22 @@
+type: edu
+files:
+  - name: src/Task.java
+    visible: true
+    placeholders:
+      - offset: 274
+        length: 26
+        placeholder_text: //Write your solution here
+        initial_state:
+          length: 26
+          offset: 274
+        initialized_from_dependency: false
+        encrypted_possible_answer: vf4j9epgOQul9/gId3VjsO3xlH5fI9NGWDs4x0QnvwRxi70njl04ykyFWPEeG9tV6WKdVcWW1FRPQTHEDIBpoPRQGc7ig56NqHVCAAR7jiWIgT3fvl9Kmi2haozSeq6mbDPHQaEOpTfIR7tRqrJgC0WwQJDH/lG9yEecEqSkuddon49x2PXQyyrCbkpcWOOZJJZcXXgKS4jroLKuay93rQ==
+        selected: false
+        status: Unchecked
+        is_visible: false
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

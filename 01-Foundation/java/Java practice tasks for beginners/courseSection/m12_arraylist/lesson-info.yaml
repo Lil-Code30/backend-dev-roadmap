@@ -1,0 +1,11 @@
+content:
+  - ExtractNumber
+  - Swap
+  - AppendPosSum
+  - SortedOrder
+  - Refuel
+  - SalesReport
+  - Nanuk
+  - SumStrings
+  - MaxBothSigns
+  - BubbleSort

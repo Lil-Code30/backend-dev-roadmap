@@ -1,0 +1,22 @@
+type: edu
+files:
+  - name: src/Task.java
+    visible: true
+    placeholders:
+      - offset: 331
+        length: 24
+        placeholder_text: //Add your solution here
+        initial_state:
+          length: 24
+          offset: 331
+        initialized_from_dependency: false
+        encrypted_possible_answer: bt0YsJSSHjrE7vTh0TpQ16hBvcLPe+AH+R3Kh3iUjvEPLXuHu8Oh5Q9eN7PVWboVXW+YZVmyb1fL5VkNjVFuDUT87Ea7nxAinn6BSs+8KHCs4XfHMyiwbwz15eWdnis6sT2Kb8imKqVuc4PXPrBji8OLCR+u8SsozRas4cvnNXtlAozMy96+YMS5ArFEQjaAhYtPHZqISsjCQKCAVJtOn9GXPo9FBSp10BivxHNQPFZEnGl8mKS3xQGnoQaMMTF8ICDmPt5BJVFNhkCVmh1hrz4YcUqOfgQLPl5YwcYE7AgDBO62qlNubbCeT7cNinzjVe2HGkO++nrYUCOPalqrxz6dnIuUhh7xu9MSjV5o4mYmyFaXezL74DvXA7f02e9QRp8MvG3S7bPUs77cDg/apwYRYa/VnGVCn/1gmsV8wJAaPl9WcdbFSBkzE4cMzPhb9Y3a4NTv+RkCqcaFMXsnv1lYHAwZUB9BukCu9J26LjxIlHR927K7aOMnm2zDTksDml9kNTlwnOgjX+xoQ8SrartST0tg9qGz6kSPKUPXkDbKPT4BQwJEwNPPx9zdedqiLVpns4JJjqySvsdPDEA4ElHybirFCnmRYnfG3Z9y/T93LhelBHoz8Vhyv7grwq1tHmGIn5hmLlWLiRDd1Gx4oL9JBbwVGmgDMCsEkNHTQsBtU8e0EOg6OusgaalyUlzb5suzA9HZCh3hn5CiXm8879i/NGg2S6BQFEbGcOUY/ukj/6G3PXwumWwH7D+Xi2xaa/eGagL/GX7dlaQ2ANn+vhDhSNP2+Ow+HNfIAKmTzZrYESMQFC90hyfxmArh2a32hAaISpnnySOvNOeECqw8pP52cKYFbTEtNfpiYAUR3Tyjf9cbd1malxZTQDLUzLPR
+        selected: false
+        status: Unchecked
+        is_visible: false
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: 20 | v = 21 | s = 20 | t = 40
+    is_correct: false
+  - text: 19 | v = 20 | s = 20 | t = 40
+    is_correct: true
+  - text: 19 | v = 21 | s = 19 | t = 39
+    is_correct: false
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

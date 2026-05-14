@@ -1,0 +1,8 @@
+content:
+  - Primitives
+  - Date
+  - PhoneNumber
+  - TheaterSeats
+  - ProductInfo
+  - FlightTicket
+  - Email

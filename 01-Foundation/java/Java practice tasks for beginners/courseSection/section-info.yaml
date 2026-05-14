@@ -1,0 +1,14 @@
+custom_name: Course section
+content:
+  - m01_printing_escape_sequences
+  - m02_variables_datatypes_concatenation
+  - m03_arithmetic_operators
+  - m04_unary_shorthand_operators
+  - m05_relational_logical_operators
+  - m06_selection_statements
+  - m07_loops
+  - m08_methods
+  - m09_class_object
+  - m10_string
+  - m11_array
+  - m12_arraylist
