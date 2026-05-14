@@ -7,7 +7,7 @@ files:
     visible: true
     placeholders:
       - offset: 74
-        length: 26
+        length: 70
         placeholder_text: //Write your solution here
         initial_state:
           length: 26
@@ -15,8 +15,11 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: hPCGMtq5LjZmA9ye76lrFNaeHWdLJhmRat+F1pNBLBgXUbyl2/ZUwbZVh9v28OdP
         selected: false
-        status: Unchecked
+        status: Failed
         is_visible: false
     learner_created: false
-status: Unchecked
+status: Failed
+feedback:
+  message: Failed to launch checking
+  time: "Thu, 14 May 2026 14:28:06 UTC"
 record: -1
