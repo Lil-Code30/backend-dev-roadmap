@@ -10,6 +10,9 @@ files:
   - name: src/Main.java
     visible: true
     learner_created: false
-status: Unchecked
+status: Failed
+feedback:
+  message: Incorrect solution
+  time: "Sat, 16 May 2026 19:45:03 UTC"
 record: -1
 local_check: true
