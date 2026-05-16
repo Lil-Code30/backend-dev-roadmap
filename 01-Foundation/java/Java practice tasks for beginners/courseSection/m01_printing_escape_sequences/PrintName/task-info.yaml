@@ -15,7 +15,7 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: hPCGMtq5LjZmA9ye76lrFNaeHWdLJhmRat+F1pNBLBgXUbyl2/ZUwbZVh9v28OdP
         selected: false
-        status: Failed
+        status: Unchecked
         is_visible: false
     learner_created: false
 status: Failed

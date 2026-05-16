@@ -108,5 +108,8 @@ files:
         status: Unchecked
     learner_created: false
 status: Unchecked
+feedback:
+  message: No SDK configured. Learn how to configure Gradle project <a href="https://plugins.jetbrains.com/plugin/10081-jetbrains-academy/docs/troubleshooting-guide.html#environment_configuration_gradle">here</a>
+  time: "Sat, 16 May 2026 19:29:30 UTC"
 record: -1
 solution_hidden: true
