@@ -11,5 +11,15 @@ public class Task {
 
         //Write your solution here
 
+        double tip = (tipPercentage / 100 * bill);
+        double tax = bill * 0.05;
+        double totalBill = bill + tip + tax;
+
+        System.out.println("Your Complete bill");
+        System.out.println("bill:\t" + bill);
+        System.out.println("tip:\t" + tip);
+        System.out.println("tax:\t" + tax);
+        System.out.println("total bill:\t" + totalBill);
+
     }
 }
