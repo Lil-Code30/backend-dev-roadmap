@@ -8,6 +8,7 @@
 - [JetBrains Academy : Java Programming](https://academy.jetbrains.com/course/22499)
 - [JetBrains Academy : Java practice tasks for beginners](https://academy.jetbrains.com/course/26571)
 - [JetBrains Academy : Introductory Java course complement to the AP Computer Science](https://academy.jetbrains.com/course/19188)
+- [Tutorialspoint : Java Tutorial](https://www.tutorialspoint.com/java/index.htm)
 
 ---
 
