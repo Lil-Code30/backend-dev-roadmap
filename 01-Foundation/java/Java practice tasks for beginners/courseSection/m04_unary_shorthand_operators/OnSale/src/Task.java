@@ -10,5 +10,11 @@ public class Task {
 
         //Write your solution here
 
+        double discountAmount = currentPrice * 0.05;
+
+        currentPrice -= discountAmount;
+
+        System.out.println("Current price = " + currentPrice);
+        System.out.println("Discount Amount = " + discountAmount);
     }
 }

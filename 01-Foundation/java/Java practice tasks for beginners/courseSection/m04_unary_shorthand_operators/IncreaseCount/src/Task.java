@@ -7,5 +7,15 @@ public class Task {
 
         // Write your solution here
 
+        // arithmetic operator
+        count = count + 1;
+
+        // unary increment operator
+        count++;
+
+        // shorthand operator
+        count += 1;
+
+        System.out.println("Count = " + count);
     }
 }
