@@ -7,6 +7,8 @@ public class Task {
         //--------------------------------
 
         //Write your solution here
+        boolean isLetter = Character.isLetter(c);
 
+        System.out.println("isLetter = " + isLetter);
     }
 }
