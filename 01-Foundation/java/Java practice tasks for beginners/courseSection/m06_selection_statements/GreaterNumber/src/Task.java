@@ -11,5 +11,10 @@ public class Task {
 
         //Write your solution here
 
+        int greatest = a > b ? a : b;
+
+        System.out.println(greatest + " is greater");
+
+
     }
 }
