@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 309
-        length: 26
+        length: 427
         placeholder_text: //Write your solution here
         initial_state:
           length: 26

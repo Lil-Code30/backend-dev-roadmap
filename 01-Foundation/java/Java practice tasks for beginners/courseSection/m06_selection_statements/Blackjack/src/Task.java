@@ -10,5 +10,14 @@ public class Task {
 
         //Write your solution here
 
+        if( player > 21) {
+            System.out.println("player bust");
+        } else if(player == house){
+            System.out.println("its a tie");
+        } else if(player == 21 || player > house){
+            System.out.println("player win");
+        } else if (house > player){
+            System.out.println("player lose");
+        }
     }
 }
