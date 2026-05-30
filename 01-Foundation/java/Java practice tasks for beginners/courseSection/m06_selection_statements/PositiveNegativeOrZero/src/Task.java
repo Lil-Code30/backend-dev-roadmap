@@ -9,5 +9,13 @@ public class Task {
 
         //Write your solution here
 
+        if( num > 0){
+            System.out.println(num + " is positive.");
+        }else if (num < 0){
+            System.out.println(num + " is negtive.");
+        }else{
+            System.out.println(num + " is zero.");
+        }
+
     }
 }
