@@ -6,8 +6,10 @@ public class Task {
 
         for (int year = 1; year <= 10; year++) {
             // Determine the growth per year based on the year. Then add to treeSize
+            growth = year <= 3 ? 1 : 2;
 
             //Write your solution here
+            treeSize += growth;
 
             // Print the growth and current size of the tree for each year
             System.out.println("year " + year + " growth " + growth + " cm");

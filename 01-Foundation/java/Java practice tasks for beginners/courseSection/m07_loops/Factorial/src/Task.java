@@ -9,5 +9,14 @@ public class Task {
 
         //Write your solution here
 
+        int fact = 1;
+
+        for(int i = n; i > 0 ; i--){
+            fact *= i;
+        }
+
+        System.out.println("The factorial of " + n + " is: " + fact);
+
+
     }
 }
