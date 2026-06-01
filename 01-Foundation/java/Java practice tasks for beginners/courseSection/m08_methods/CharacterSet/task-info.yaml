@@ -3,8 +3,8 @@ files:
   - name: src/Task.java
     visible: true
     placeholders:
-      - offset: 260
-        length: 26
+      - offset: 1671
+        length: 18
         placeholder_text: //Write your solution here
         initial_state:
           length: 26
@@ -14,7 +14,7 @@ files:
         selected: false
         status: Unchecked
         is_visible: false
-      - offset: 359
+      - offset: 1762
         length: 26
         placeholder_text: //Write your solution here
         initial_state:

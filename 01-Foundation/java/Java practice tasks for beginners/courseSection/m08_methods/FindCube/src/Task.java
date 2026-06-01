@@ -7,6 +7,8 @@ public class Task {
 
         //Write your solution here
 
+        System.out.println( n + " * " + n + " * " + n + " * " + " = " + (n * n * n));
+
     }
 
 }

@@ -3,8 +3,8 @@ files:
   - name: src/Task.java
     visible: true
     placeholders:
-      - offset: 171
-        length: 26
+      - offset: 568
+        length: 21
         placeholder_text: //Write your solution here
         initial_state:
           length: 26
