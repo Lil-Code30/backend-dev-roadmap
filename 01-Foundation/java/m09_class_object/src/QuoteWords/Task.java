@@ -1,9 +1,20 @@
+package QuoteWords;
 import java.util.Scanner;
 
 public class Task {
     public static void main(String[] args) {
 
         //Write your solution here
+        /*
+        * I will learn "$topic1" and "$topic2" at Cydeo.
+        Ex:
+          Input:
+            Java
+            SQL
+
+          Output:
+            I will learn "Java" and "SQL" at Cydeo.
+        * */
 
         Scanner sc = new Scanner(System.in);
 

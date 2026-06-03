@@ -1,3 +1,5 @@
+package Recipe;
+
 public class Recipe {
 
     //Write your solution here
@@ -6,6 +8,7 @@ public class Recipe {
     public String ingredients;
     public int servingSize;
     public double cost;
+
 
     public double costPerPerson(){
         return (this.cost / this.servingSize);

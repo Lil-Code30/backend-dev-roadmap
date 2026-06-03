@@ -3,7 +3,7 @@ files:
   - name: src/Task.java
     visible: true
     placeholders:
-      - offset: 284
+      - offset: 1579
         length: 44
         placeholder_text: //Add cost to totalPrice based on screenSize
         initial_state:
@@ -14,7 +14,7 @@ files:
         selected: false
         status: Unchecked
         is_visible: false
-      - offset: 421
+      - offset: 1716
         length: 37
         placeholder_text: //Add cost to totalPrice based on cpu
         initial_state:
@@ -25,7 +25,7 @@ files:
         selected: false
         status: Unchecked
         is_visible: false
-      - offset: 551
+      - offset: 1846
         length: 37
         placeholder_text: //Add cost to totalPrice based on ram
         initial_state:
@@ -36,7 +36,7 @@ files:
         selected: false
         status: Unchecked
         is_visible: false
-      - offset: 792
+      - offset: 2087
         length: 63
         placeholder_text: //Add cost to totalPrice based on storageType and storageAmount
         initial_state:
@@ -47,7 +47,7 @@ files:
         selected: false
         status: Unchecked
         is_visible: false
-      - offset: 965
+      - offset: 2260
         length: 39
         placeholder_text: //Add to totalPrice based on resolution
         initial_state:
