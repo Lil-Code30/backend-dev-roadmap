@@ -9,6 +9,13 @@ public class Task {
 
         do {
             //Write your solution here
+            System.out.println("Please enter the guest's name:");
+            String guest = input.nextLine();
+
+            guestList += guest + ", ";
+
+            System.out.println("Do you want to enter another guest's name? ");
+            moreGuests = input.nextLine();
 
         } while (moreGuests.equalsIgnoreCase("yes")); // if the String is anything besides yes then the loop stops
 
