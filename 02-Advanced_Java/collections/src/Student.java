@@ -13,4 +13,15 @@ public class Student {
     public String toString() {
         return "[ " + this.rollNo + ", " + this.name + "(" + this.age +") ]";
     }
+
+    @Override
+    public boolean equals(Object obj){
+        Student s = (Student) obj;
+
+        return this.rollNo == ((Student) obj).rollNo && this.name.equalsIgnoreCase(((Student) obj).name);
+    }
+
+//    public int compareTo(Student student){
+//        return this.rollNo - student.rollNo;
+//    }
 }
