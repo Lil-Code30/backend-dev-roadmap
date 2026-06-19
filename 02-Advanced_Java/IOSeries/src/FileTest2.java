@@ -34,6 +34,11 @@ public class FileTest2 {
                 System.out.print((char)c);
             }
 
+            // Deleting Files in Java
+            if(file.exists()){
+                file.delete();
+            }
+
         }catch(IOException e){
             System.out.println(e.getMessage());
         }
