@@ -9,6 +9,7 @@ public class ThreadExmple7 {
         public synchronized boolean isStopRequested() {
             return this.stopRequested;
         }
+
         private void sleep(long millis){
             try{
                 Thread.sleep(millis);
@@ -20,10 +21,16 @@ public class ThreadExmple7 {
         @Override
         public void run(){
             System.out.println("The StoppableRunnable is running");
+            int count = 0;
 
-            while(!stopRequested){
-                System.out.println("...");
+            while(!isStopRequested()){
+                this.sleep(10000);
+            }
 
+            for (int i = 0; i < 5; i++){
+                System.out.println( i + " - running");
+                System.out.print(count + "...");
+                count++;
                 this.sleep(1000);
             }
 
@@ -44,8 +51,9 @@ public class ThreadExmple7 {
             e.printStackTrace();
         }
 
-        System.out.println("The StoppableRunnable Thread is requesting to stop");
+//        System.out.println("The StoppableRunnable Thread is requesting to stop");
+
         r.requestStop();
-        System.out.println("The StoppableRunnable Thread stopped");
+//        System.out.println("The StoppableRunnable Thread stopped");
     }
 }

@@ -1,6 +1,6 @@
 public class ThreadExmple6 {
 
-    public static void main(String args[]){
+    public static void main(String args[]) throws InterruptedException {
         Runnable runnable = () -> {
 
             String threadName = Thread.currentThread().getName();
@@ -8,7 +8,7 @@ public class ThreadExmple6 {
 
             // Pause a Thread
             try{
-                Thread.sleep(1000); // in milliseconds
+                Thread.sleep(5000); // in milliseconds
             }catch(InterruptedException e){
                 e.printStackTrace();
             }
@@ -18,8 +18,12 @@ public class ThreadExmple6 {
 
         Thread thread = new Thread(runnable);
         thread.start();
+        thread.join();
 
-        Thread thread1 = new Thread(runnable);
-        thread1.start();
+//        Thread thread1 = new Thread(runnable);
+//        thread1.start();
+//        thread.join();
+
+        System.out.println("Testing out the join thread");
     }
 }
