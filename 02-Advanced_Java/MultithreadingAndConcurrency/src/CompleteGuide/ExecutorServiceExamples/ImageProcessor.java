@@ -29,8 +29,8 @@ public class ImageProcessor {
 
         // Save all processed images
         for(Future<byte[]> future : processedImages){
-            byte[] resull = future.get();
-            System.out.println("saved: " + new String(resull));
+            byte[] result = future.get();
+            System.out.println("saved: " + new String(result));
         }
 
         executor.shutdown();
