@@ -1,7 +1,7 @@
+import Models.Database;
 import Models.User;
 
 import java.sql.Connection;
-import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.util.ArrayList;
@@ -11,15 +11,12 @@ public class Main {
     public static void main(String args[]){
 
         Scanner input = new Scanner(System.in);
-        String url = "jdbc:postgresql://localhost:5432/shop";
-        String username = "postgres";
-        String password = "azerty123";
 
         // creating a new user object
         // User u1 = new User("John Doe", "johndoe@gmail.com");
 
         // url format: jdbc:<subprotocol>://<host>:<port>/<database>
-        try(Connection conn = DriverManager.getConnection(url, username, password)){
+        try(Connection conn = Database.getDataSource().getConnection()){
 
             String sql = "SELECT id, full_name, email, created_at FROM users WHERE email = ?";
 
