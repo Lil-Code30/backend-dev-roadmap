@@ -7,13 +7,28 @@ GET http://localhost:8080/api/v1/software-engineers
 
 ###
 
+GET http://localhost:8080/api/v1/software-engineers/101
+
+###
+
 POST http://localhost:8080/api/v1/software-engineers
 Content-Type: application/json
 
 {
-  "id": 101,
+  "id": 102,
   "name": "Jamila",
   "techStack": "Java, spring boot, spring"
 }
 
 ###
+DELETE http://localhost:8080/api/v1/software-engineers/1
+
+###
+
+PUT http://localhost:8080/api/v1/software-engineers/101
+Content-Type: application/json
+
+{
+  "name": "Alex U",
+  "techStack": "kbd, databases, q"
+}
