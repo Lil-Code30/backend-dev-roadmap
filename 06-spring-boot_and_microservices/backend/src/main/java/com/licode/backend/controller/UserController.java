@@ -1,9 +1,7 @@
 package com.licode.backend.controller;
 
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.http.HttpHeaders;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.Map;
 
@@ -34,5 +32,21 @@ public class UserController {
     public String searchUserAddress(@PathVariable Map<String, String> pathVariablesMap){
 
         return "Fetched user with id: " + pathVariablesMap.get("userId") + " and address Id: " + pathVariablesMap.get("addressId");
+    }
+
+    @GetMapping("/search")
+    public String searchUser(@RequestParam(required = false, defaultValue = "Guest") String name, @RequestParam(name = "gender") String sex){
+        return "Fetched the user with query params: " + name + " and gender: " + sex;
+    }
+
+    @GetMapping("/headers")
+    public String readRequestHeaders(@RequestHeader("User-Agent") String userAgent, @RequestHeader(name = "User-Location", required = false) String userLocation){
+
+        return "Received Headers ->  user agent: " + userAgent + " user location: " + userLocation;
+    }
+
+    @GetMapping("/headers/http-headers")
+    public String readRequestHeadersWithHttpHeaders(@RequestHeader HttpHeaders requestHeaders){
+        return "Received Headers ->  user agent: " + requestHeaders.get("User-Agent") + " user location: " + requestHeaders.get("User-Location");
     }
 }
