@@ -1,0 +1,19 @@
+package com.licode.backend.config;
+
+
+import org.springframework.context.annotation.Configuration;
+import org.springframework.web.servlet.config.annotation.ApiVersionConfigurer;
+import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
+
+@Configuration
+public class WebConfig implements WebMvcConfigurer {
+    /**
+     * Configure API versioning for the application. In order for versioning to
+     * be enabled, you must configure at least one way yo resolve the API
+     * version from a request
+     * */
+    @Override
+    public void configureApiVersioning(ApiVersionConfigurer configurer) {
+        configurer.usePathSegment(2).addSupportedVersions("1.0", "2.0", "3.0");
+    }
+}
