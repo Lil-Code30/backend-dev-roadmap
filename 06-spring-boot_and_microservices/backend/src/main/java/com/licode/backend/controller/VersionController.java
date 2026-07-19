@@ -15,7 +15,7 @@ public class VersionController {
         return ResponseEntity.ok().body("Version");
     }
 
-    @GetMapping(version = "2.0")
+    @GetMapping(version = "2.0+")
     public ResponseEntity<String> v2Version(){
         return ResponseEntity.ok().body("Version 2.0.0");
     }
