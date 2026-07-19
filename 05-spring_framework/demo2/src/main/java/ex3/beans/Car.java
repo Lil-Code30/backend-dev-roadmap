@@ -7,9 +7,13 @@ import org.springframework.stereotype.Component;
 @Component
 public class Car {
     private String name;
+    private final Engine engine;
 
     @Autowired
-    private Engine engine;
+    public Car(Engine engine) {
+        System.out.println("Car bean created");
+        this.engine = engine;
+    }
 
     public String getName() {
         return name;
@@ -22,11 +26,7 @@ public class Car {
     public Engine getEngine() {
         return engine;
     }
-
-    public void setEngine(Engine engine) {
-        this.engine = engine;
-    }
-
+    
     @PostConstruct
     public void init(){
         this.name = "BMW";
