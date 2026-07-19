@@ -1,0 +1,10 @@
+package ex4.config;
+
+
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+@ComponentScan(basePackages = {"ex4.beans"})
+public class ProjectConfig {
+}
