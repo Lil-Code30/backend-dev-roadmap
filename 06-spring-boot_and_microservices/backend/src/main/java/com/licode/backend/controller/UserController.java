@@ -1,6 +1,8 @@
 package com.licode.backend.controller;
 
+import com.licode.backend.dto.UserDto;
 import org.springframework.http.HttpHeaders;
+import org.springframework.http.RequestEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.Map;
@@ -48,5 +50,21 @@ public class UserController {
     @GetMapping("/headers/http-headers")
     public String readRequestHeadersWithHttpHeaders(@RequestHeader HttpHeaders requestHeaders){
         return "Received Headers ->  user agent: " + requestHeaders.get("User-Agent") + " user location: " + requestHeaders.get("User-Location");
+    }
+
+    @PostMapping
+    public String createUser(@RequestBody UserDto userDto){
+        return "Created User with the data: " + userDto.toString();
+    }
+
+    @PostMapping("/request-entity")
+    public String createUserWithRequestEntity(RequestEntity<UserDto> requestEntity){
+        HttpHeaders httpHeaders = requestEntity.getHeaders();
+
+        UserDto userDto = requestEntity.getBody();
+        String queryParam = requestEntity.getUrl().getQuery();
+        String requestPath = requestEntity.getUrl().getPath();
+
+        return "Created User with the data: " + userDto.toString();
     }
 }
