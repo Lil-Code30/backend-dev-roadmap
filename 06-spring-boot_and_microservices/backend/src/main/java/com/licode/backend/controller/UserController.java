@@ -2,7 +2,9 @@ package com.licode.backend.controller;
 
 import com.licode.backend.dto.UserDto;
 import org.springframework.http.HttpHeaders;
+import org.springframework.http.HttpStatus;
 import org.springframework.http.RequestEntity;
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.Map;
@@ -12,7 +14,7 @@ import java.util.Map;
 public class UserController {
 
     @GetMapping({"/{userId}/posts/{postId}", "/{userId}"})
-    public String searchUserPost(@PathVariable Long userId, @PathVariable(required = false) Long postId){
+    public ResponseEntity<String> searchUserPost(@PathVariable Long userId, @PathVariable(required = false) Long postId){
 
         String response;
 
@@ -22,7 +24,8 @@ public class UserController {
             response = "Fetched user with id: " + userId + " and post id: " + postId;
         }
 
-        return response;
+//        ResponseEntity.ok().body(response)
+        return ResponseEntity.ok(response);
     }
 
     @GetMapping("/{userId}/orders/{orderId}")
@@ -58,13 +61,15 @@ public class UserController {
     }
 
     @PostMapping("/request-entity")
-    public String createUserWithRequestEntity(RequestEntity<UserDto> requestEntity){
+    public ResponseEntity<String> createUserWithRequestEntity(RequestEntity<UserDto> requestEntity){
         HttpHeaders httpHeaders = requestEntity.getHeaders();
 
         UserDto userDto = requestEntity.getBody();
         String queryParam = requestEntity.getUrl().getQuery();
         String requestPath = requestEntity.getUrl().getPath();
 
-        return "Created User with the data: " + userDto.toString();
+//        return "Created User with the data: " + userDto.toString();
+
+        return ResponseEntity.status(HttpStatus.CREATED).body("Created User with the data: " + userDto.toString());
     }
 }
