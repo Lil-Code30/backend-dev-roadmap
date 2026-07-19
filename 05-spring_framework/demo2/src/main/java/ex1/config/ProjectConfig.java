@@ -5,9 +5,11 @@ import ex1.beans.Vehicle;
 import jdk.jfr.Description;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.Import;
 import org.springframework.context.annotation.Primary;
 
 @Configuration
+//@Import({AnotherProjectConfig.class}) -> you can import a project configuration in to another one
 public class ProjectConfig {
 
 
